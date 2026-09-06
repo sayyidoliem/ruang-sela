@@ -125,19 +125,19 @@ Dengan mempertemukan kebutuhan pengguna dengan tempat yang tersedia, RuangSela b
 ### Screenshot Aplikasi
 
 <div align="center">
-  <img src="./public/screenshots/homepage.jpeg" alt="Homepage" width="800"/>
+  <img src="./front-end/public/screenshots/Homepage.jpeg" alt="Homepage" width="800"/>
   <p><em>Homepage - Tampilan utama aplikasi</em></p>
 
-  <img src="./docs/screenshots/pencarian.jpeg" alt="Halaman Pencarian Tempat" width="800"/>
+  <img src="./front-end/public/screenshots/Pencarian.jpeg" alt="Halaman Pencarian Tempat" width="800"/>
   <p><em>Pencarian Tempat - Filter dan pencarian ruang</em></p>
 
-  <img src="./public/screenshots/DetailTempat.jpeg" alt="Detail Tempat" width="800"/>
+  <img src="./front-end/public/screenshots/DetailTempat.jpeg" alt="Detail Tempat" width="800"/>
   <p><em>Detail Tempat - Informasi lengkap suatu tempat</em></p>
 
-  <img src="./public/screenshots/AdminDashboard.png" alt="Dashboard Admin" width="800"/>
+  <img src="./front-end/public/screenshots/AdminDashboard.png" alt="Dashboard Admin" width="800"/>
   <p><em>Dashboard Admin - Panel monitoring platform</em></p>
 
-  <img src="./public/screenshots/PengelolaDashboard.png" alt="Dashboard Pengelola" width="800"/>
+  <img src="./front-end/public/screenshots/PengelolaDashboard.png" alt="Dashboard Pengelola" width="800"/>
   <p><em>Dashboard Pengelola - Panel monitoring platform</em></p>
 
 </div>
