@@ -1,0 +1,464 @@
+[
+  {
+    "keyword": "taman",
+    "nama": "Taman Walikota Jakarta Barat",
+    "kategori": "Taman",
+    "kategori_list": [],
+    "alamat": "RP7Q+X94, RT.2/RW.2, Kembangan Sel., Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610",
+    "alamat_lengkap": "RP7Q+X94, RT.2/RW.2, Kembangan Sel., Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610",
+    "plus_code": "RP7Q+X94, RT.2/RW.2, Kembangan Sel., Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610",
+    "lat": -6.1851128,
+    "lng": 106.7384451,
+    "place_id": "11lgddykr_",
+    "cid": "0x2e69f7dba80b0e61",
+    "url_google_maps": "https://www.google.com/maps/place/Taman+Walikota+Jakarta+Barat/@-6.1851128,106.7384451,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f7dba80b0e61:0xc43acda175b406f5!8m2!3d-6.1851128!4d106.7384451!16s%2Fg%2F11lgddykr_?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.6,
+    "jumlah_review": 54,
+    "jam_operasional": {
+      "Sabtu": "dan masih sepiii 😊 kita naik motor cuman parkiran motor jauh dibelakang hehe...g"
+    },
+    "jam_operasional_raw": "Sabtu: dan masih sepiii 😊 kita naik motor cuman parkiran motor jauh dibelakang hehe...g",
+    "status_buka": null,
+    "popular_times": null,
+    "telepon": "000000014901161",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmswKSKYiROv6GUuYCowi0yfTtK47imqC3Ig7mpD4L5-1KbTiXL1wq-QHNbG5Ff3kaxmh-KQIUKG9SvhaFFd0l_FMzoNfnCFQ0paIAGi5fSpe2wR-4B8_Fh34nzy8nzn-csvrWQUW_ajBZM=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmswKSKYiROv6GUuYCowi0yfTtK47imqC3Ig7mpD4L5-1KbTiXL1wq-QHNbG5Ff3kaxmh-KQIUKG9SvhaFFd0l_FMzoNfnCFQ0paIAGi5fSpe2wR-4B8_Fh34nzy8nzn-csvrWQUW_ajBZM=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUizPpNsK8CFyIDLYpyW2koafJKylY1piPHo_xFli2l7efQl8IMvQQ7AfWBx9UEnPn63Li4MTci-KmrZxRUSBoWq3-djvqf-pxAf-meUFxDpuunSeLPzbqeTAUZ-S-m2V09Oxp-FIbANQ=w160-h120-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjWBBgMa1zDFw96iShHKVUYp3xsDJOrUD4IG38yKRJS-g75i6wnX=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXDnAApb353axrjW4mtuWRT6GaW7P51EUFcjUpSGxDZmFfophsN=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVxUu0zULJ9-aghmxJEE1206H3YtWLD6XIX7mJccljgk_I1LeId=w36-h36-p-rp-mo-ba12-br100"
+    ],
+    "reviews": [
+      {
+        "text": "Vincentius Reinaldi\nLocal Guide · 83 ulasan · 80 foto\n6 bulan lalu\nLagi ke jakarta cari taman buat anak main, nemu taman yg bagus banget , nyaman dan ini free untuk umum. … Lainnya\n0:11\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Vincentius Reinaldi\nLocal Guide · 83 ulasan · 80 foto\n6 bulan lalu\nLagi ke jakarta cari taman buat anak main, nemu taman yg bagus banget , nyaman dan ini free untuk umum. … Lainnya\n0:11\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "restya aristiany\nLocal Guide · 71 ulasan · 121 foto\n7 bulan lalu\nKita datang kesini jam 7.30 sampai hari sabtu dan masih sepiii 😊 kita naik motor cuman parkiran motor jauh dibelakang hehe...gak bayar yah gratisss masuknya … Lainnya\n0:12\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "restya aristiany\nLocal Guide · 71 ulasan · 121 foto\n7 bulan lalu\nKita datang kesini jam 7.30 sampai hari sabtu dan masih sepiii 😊 kita naik motor cuman parkiran motor jauh dibelakang hehe...gak bayar yah gratisss masuknya … Lainnya\n0:12\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Robiatul Azizah\nLocal Guide · 31 ulasan · 167 foto\nsetahun lalu\nPlayground anak bersih terawat, suasana teduh, bisa sambil duduk di rumput dan mengawasi anak bermain, areanya luas lega. Bisa sambil bawa makanan juga. … Lainnya\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "Restoran",
+      "Bar"
+    ],
+    "attributes": {
+      "has_busy_hours": false,
+      "about_sections": [
+        "Disimpan\nTerbaru\nTaman Walikota Jakarta Barat\nDapatkan aplikasi\nRingkasan\nUlasan\n5\t\n4\t\n3\t\n2\t\n1\t\n4,6\n54 ulasan\nTulis ulasan\nUrutkan\nSemua\nbermain\n6\nsore\n5\nluas\n4\nramah anak\n3\ngedung\n3\nrumput sintetis\n2\nmasyarakat\n2\nmasjid\n2\nkaki\n2\nolahraga\n2\nVincentius Reinaldi\nLocal Guide · 83 ulasan · 80 foto\n6 bulan lalu\nLagi ke jakarta cari taman buat anak main, nemu taman yg bagus banget , nyaman dan ini free untuk umum. … Lainnya\n0:11\nSuka\nBagikan\nrestya aristiany\nLocal Guide · 71 ulasan · 121 foto\n7 bulan lalu\nKita datang kesini jam 7.30 sampai hari sabtu dan masih sepiii 😊 kita naik motor cuman parkiran motor jauh dibelakang hehe...gak bayar yah gratisss masuknya … Lainnya\n0:12\nSuka\nBagikan\nRobiatul Azizah\nLocal Guide · 31 ulasan · 167 foto\nsetahun lalu\nPlayground anak bersih terawat, suasana teduh, bisa sambil duduk di rumput dan mengawasi anak bermain, areanya luas lega. Bisa sambil bawa makanan juga. … Lainnya\nSuka\nBagikan\nHijab UmmuFath\n1 ulasan · 2 foto\n9 bulan lalu\nBagus Fasilitas ok, kebersihan ok, cocok buat anak2 main. Tapi tapi sungguh sayang asap rokok masih suka ngepul di area taman. Petugasnyapun nyapu sambil rokok. Sungguh disayangkan, bawa anak ke taman buat bisa dpt udara bersih terpapar … Lainnya\nSuka\nBagikan\nRizky Taufani\nLocal Guide · 75 ulasan · 129 foto\n8 bulan lalu\nWah ternyata ada taman bermain di dlm walikota Jakbar..tempat yg nyaman buat anak2.. permainan yg kekinian..bisa juga buat santai sambil nunggu anak bermain krna ada area dengan rumput sintetik..cuma minus nya GK byk jajanan..lain kali hrs bawa bekel x ya heheh..tapi tetep buang sampah jgn sembarangan..\nSuka\nBagikan\nLihat ulasan lainnya (49)\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya",
+        "Disimpan\nTerbaru\nTaman Walikota Jakarta Barat\nDapatkan aplikasi\nRingkasan\nUlasan\n5\t\n4\t\n3\t\n2\t\n1\t\n4,6\n54 ulasan\nTulis ulasan\nUrutkan\nSemua\nbermain\n6\nsore\n5\nluas\n4\nramah anak\n3\ngedung\n3\nrumput sintetis\n2\nmasyarakat\n2\nmasjid\n2\nkaki\n2\nolahraga\n2\nVincentius Reinaldi\nLocal Guide · 83 ulasan · 80 foto\n6 bulan lalu\nLagi ke jakarta cari taman buat anak main, nemu taman yg bagus banget , nyaman dan ini free untuk umum. … Lainnya\n0:11\nSuka\nBagikan\nrestya aristiany\nLocal Guide · 71 ulasan · 121 foto\n7 bulan lalu\nKita datang kesini jam 7.30 sampai hari sabtu dan masih sepiii 😊 kita naik motor cuman parkiran motor jauh dibelakang hehe...gak bayar yah gratisss masuknya … Lainnya\n0:12\nSuka\nBagikan\nRobiatul Azizah\nLocal Guide · 31 ulasan · 167 foto\nsetahun lalu\nPlayground anak bersih terawat, suasana teduh, bisa sambil duduk di rumput dan mengawasi anak bermain, areanya luas lega. Bisa sambil bawa makanan juga. … Lainnya\nSuka\nBagikan\nHijab UmmuFath\n1 ulasan · 2 foto\n9 bulan lalu\nBagus Fasilitas ok, kebersihan ok, cocok buat anak2 main. Tapi tapi sungguh sayang asap rokok masih suka ngepul di area taman. Petugasnyapun nyapu sambil rokok. Sungguh disayangkan, bawa anak ke taman buat bisa dpt udara bersih terpapar … Lainnya\nSuka\nBagikan\nRizky Taufani\nLocal Guide · 75 ulasan · 129 foto\n8 bulan lalu\nWah ternyata ada taman bermain di dlm walikota Jakbar..tempat yg nyaman buat anak2.. permainan yg kekinian..bisa juga buat santai sambil nunggu anak bermain krna ada area dengan rumput sintetik..cuma minus nya GK byk jajanan..lain kali hrs bawa bekel x ya heheh..tapi tetep buang sampah jgn sembarangan..\nSuka\nBagikan\nLihat ulasan lainnya (49)\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya"
+      ],
+      "about_raw": "Disimpan\nTerbaru\nTaman Walikota Jakarta Barat\nDapatkan aplikasi\nRingkasan\nUlasan\n5\t\n4\t\n3\t\n2\t\n1\t\n4,6\n54 ulasan\nTulis ulasan\nUrutkan\nSemua\nbermain\n6\nsore\n5\nluas\n4\nramah anak\n3\ngedung\n3\nrumput sintetis\n2\nmasyarakat\n2\nmasjid\n2\nkaki\n2\nolahraga\n2\nVincentius Reinaldi\nLocal Guide · 83 ulasan · 80 foto\n6 bulan lalu\nLagi ke jakarta cari taman buat anak main, nemu taman yg bagus banget , nyaman dan ini free untuk umum. … Lainnya\n0:11\nSuka\nBagikan\nrestya aristiany\nLocal Guide · 71 ulasan · 121 foto\n7 bulan lalu\nKita datang kesini jam 7.30 sampai hari sabtu dan masih sepiii 😊 kita naik motor cuman parkiran motor jauh dibelakang hehe...gak bayar yah gratisss masuknya … Lainnya\n0:12\nSuka\nBagikan\nRobiatul Azizah\nLocal Guide · 31 ulasan · 167 foto\nsetahun lalu\nPlayground anak bersih terawat, suasana teduh, bisa sambil duduk di rumput dan mengawasi anak bermain, areanya luas lega. Bisa sambil bawa makanan juga. … Lainnya\nSuka\nBagikan\nHijab UmmuFath\n1 ulasan · 2 foto\n9 bulan lalu\nBagus Fasilitas ok, kebersihan ok, cocok buat anak2 main. Tapi tapi sungguh sayang asap rokok masih suka ngepul di area taman. Petugasnyapun nyapu sambil rokok. Sungguh disayangkan, bawa anak ke taman buat bisa dpt udara bersih terpapar … Lainnya\nSuka\nBagikan\nRizky Taufani\nLocal Guide · 75 ulasan · 129 foto\n8 bulan lalu\nWah ternyata ada taman bermain di dlm walikota Jakbar..tempat yg nyaman buat anak2.. permainan yg kekinian..bisa juga buat santai sambil nunggu anak bermain krna ada area dengan rumput sintetik..cuma minus nya GK byk jajanan..lain kali hrs bawa bekel x ya heheh..tapi tetep buang sampah jgn sembarangan..\nSuka\nBagikan\nLihat ulasan lainnya (49)\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya | Disimpan\nTerbaru\nTaman Walikota Jakarta Barat\nDapatkan aplikasi\nRingkasan\nUlasan\n5\t\n4\t\n3\t\n2\t\n1\t\n4,6\n54 ulasan\nTulis ulasan\nUrutkan\nSemua\nbermain\n6\nsore\n5\nluas\n4\nramah anak\n3\ngedung\n3\nrumput sintetis\n2\nmasyarakat\n2\nmasjid\n2\nkaki\n2\nolahraga\n2\nVincentius Reinaldi\nLocal Guide · 83 ulasan · 80 foto\n6 bulan lalu\nLagi ke jakarta cari taman buat anak main, nemu taman yg bagus banget , nyaman dan ini free untuk umum. … Lainnya\n0:11\nSuka\nBagikan\nrestya aristiany\nLocal Guide · 71 ulasan · 121 foto\n7 bulan lalu\nKita datang kesini jam 7.30 sampai hari sabtu dan masih sepiii 😊 kita naik motor cuman parkiran motor jauh dibelakang hehe...gak bayar yah gratisss masuknya … Lainnya\n0:12\nSuka\nBagikan\nRobiatul Azizah\nLocal Guide · 31 ulasan · 167 foto\nsetahun lalu\nPlayground anak bersih terawat, suasana teduh, bisa sambil duduk di rumput dan mengawasi anak bermain, areanya luas lega. Bisa sambil bawa makanan juga. … Lainnya\nSuka\nBagikan\nHijab UmmuFath\n1 ulasan · 2 foto\n9 bulan lalu\nBagus Fasilitas ok, kebersihan ok, cocok buat anak2 main. Tapi tapi sungguh sayang asap rokok masih suka ngepul di area taman. Petugasnyapun nyapu sambil rokok. Sungguh disayangkan, bawa anak ke taman buat bisa dpt udara bersih terpapar … Lainnya\nSuka\nBagikan\nRizky Taufani\nLocal Guide · 75 ulasan · 129 foto\n8 bulan ",
+      "analytics_total_open_hours_per_week": 0,
+      "analytics_is_24h": false,
+      "analytics_has_weekend": false,
+      "analytics_jam_lengkap": false,
+      "analytics_facility_score": 1,
+      "analytics_facility_count": 3,
+      "analytics_needs_busy_data": true,
+      "test_wilayah": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-31T16:46:20.713348"
+  },
+  {
+    "keyword": "co-working space",
+    "nama": "Servio The Plaza Office Tower - Service Office | Virtual Office | Meeting Room",
+    "kategori": "Kantor Perusahaan",
+    "kategori_list": [],
+    "alamat": "The Plaza Office Tower, Jl. M.H. Thamrin No.Kav. 28-30 Level 7, RT.9/RW.5, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+    "alamat_lengkap": "The Plaza Office Tower, Jl. M.H. Thamrin No.Kav. 28-30 Level 7, RT.9/RW.5, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+    "plus_code": "RR4C+MG Gondangdia, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1932994,
+    "lng": 106.8213176,
+    "place_id": "11w1jxj9s0",
+    "cid": "0x2e69f5b225877565",
+    "url_google_maps": "https://www.google.com/maps/place/Servio+The+Plaza+Office+Tower+-+Service+Office+%7C+Virtual+Office+%7C+Meeting+Room/@-6.1932994,106.8213176,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f5b225877565:0xe0287d6530ff513e!8m2!3d-6.1932994!4d106.8213176!16s%2Fg%2F11w1jxj9s0?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 5.0,
+    "jumlah_review": 23,
+    "jam_operasional": {
+      "Senin": "08.00–17.00",
+      "Selasa": "08.00–17.00",
+      "Rabu": "08.00–17.00",
+      "Kamis": "08.00–17.00",
+      "Jumat": "08.00–17.00",
+      "Sabtu": "Tutup",
+      "Minggu": "Tutup"
+    },
+    "jam_operasional_raw": "Senin: 08.00–17.00\nSelasa: 08.00–17.00\nRabu: 08.00–17.00\nKamis: 08.00–17.00\nJumat: 08.00–17.00\nSabtu: Tutup\nMinggu: Tutup",
+    "status_buka": "Tutup",
+    "popular_times": null,
+    "telepon": "021) 50955000",
+    "website": "https://servio.co.id/",
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlWaBZ0V7ZNX6XD7E_uLVAIN2GA-tb3qtydudBTntdKnQqO0E-Ry5Ah_WhrKbf_DC6Gp6b5gPTguka6sgQVs_qZCVl8illFe-Vc11nBFKhtK787JWY0I8Eh_Ifv_Ol6qjvZwcwrCQ=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlWaBZ0V7ZNX6XD7E_uLVAIN2GA-tb3qtydudBTntdKnQqO0E-Ry5Ah_WhrKbf_DC6Gp6b5gPTguka6sgQVs_qZCVl8illFe-Vc11nBFKhtK787JWY0I8Eh_Ifv_Ol6qjvZwcwrCQ=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkLOpwrv_srq0UHsKrx5492NeUmCfQvp7r5xmuILNq5LVcvYrCQlssxlkBss6ojIBJuH3FT68XqV8AqEwXnxEFebLECfORfwxBJ3eBS3sTA4cUeMnrOfszO1dtaLBi2yJ2zjdrt=w180-h120-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXnLJXyCi9ac0rCx8GveukmvH-t1RTRaUq1ILwCOQ_7GlwdYnjKlw=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjUv8ASjedHwb160YqJSv5-DBLwWn-sJvo2RtNFAHPokaXRrfSgE=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a/ACg8ocK7W6om2BQGtoqZcI9MItEOhDf4TqYl7HcMxxOUHSVicNjM-w=w36-h36-p-rp-mo-br100"
+    ],
+    "reviews": [
+      {
+        "text": "Tiara Latifa\n2 ulasan · 4 foto\n4 bulan lalu\nServio The Plaza Office Tower ini bisa dibilang co-working space yang lokasinya strategis, jadi cocok kalau sering meeting sama klien atau mau keliatan lebih profesional. Tempatnya clean, modern, dan vibes-nya lebih ke corporate, dengan … Lainnya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Tiara Latifa\n2 ulasan · 4 foto\n4 bulan lalu\nServio The Plaza Office Tower ini bisa dibilang co-working space yang lokasinya strategis, jadi cocok kalau sering meeting sama klien atau mau keliatan lebih profesional. Tempatnya clean, modern, dan vibes-nya lebih ke corporate, dengan … Lainnya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Maureen Nathasa\n11 ulasan\n4 bulan lalu\nnice place for working, i really enjoy with the atmosphere is really comfortable. staffnya juga baik2 semua dan komunikatif, pastrynya lengkap, free kopi dan teh setiap hari, ada banyak event menarik tiap tahun jadi bisa kenalan sesama kantor lain. good place!!\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Maureen Nathasa\n11 ulasan\n4 bulan lalu\nnice place for working, i really enjoy with the atmosphere is really comfortable. staffnya juga baik2 semua dan komunikatif, pastrynya lengkap, free kopi dan teh setiap hari, ada banyak event menarik tiap tahun jadi bisa kenalan sesama kantor lain. good place!!\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Work Diandra\n1 ulasan\n4 bulan lalu\nTempatnya sangat strategis, meeting room dan co-working spacenya juga sangat nyaman. Seluruh staffnya sangat fast response dalam menanggapi permintaan dan feedback. super good😍 …\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC",
+      "Restoran",
+      "Bar"
+    ],
+    "attributes": {
+      "has_busy_hours": false,
+      "about_sections": [
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nServio The Plaza Office Tower - Service Office | Virtual Office | Meeting Room\nDapatkan aplikasi\nRingkasan\nUlasan\n5\t\n4\t\n3\t\n2\t\n1\t\n5,0\n23 ulasan\nTulis ulasan\nUrutkan\nSemua\nstrategis\n5\ncoworking space\n2\ntransportasi umum\n2\natmosphere\n2\nkopi\n2\nTiara Latifa\n2 ulasan · 4 foto\n4 bulan lalu\nServio The Plaza Office Tower ini bisa dibilang co-working space yang lokasinya strategis, jadi cocok kalau sering meeting sama klien atau mau keliatan lebih profesional. Tempatnya clean, modern, dan vibes-nya lebih ke corporate, dengan … Lainnya\nSuka\nBagikan\nMaureen Nathasa\n11 ulasan\n4 bulan lalu\nnice place for working, i really enjoy with the atmosphere is really comfortable. staffnya juga baik2 semua dan komunikatif, pastrynya lengkap, free kopi dan teh setiap hari, ada banyak event menarik tiap tahun jadi bisa kenalan sesama kantor lain. good place!!\nSuka\nBagikan\nWork Diandra\n1 ulasan\n4 bulan lalu\nTempatnya sangat strategis, meeting room dan co-working spacenya juga sangat nyaman. Seluruh staffnya sangat fast response dalam menanggapi permintaan dan feedback. super good😍 …\nSuka\nBagikan\nAnisa Suciati\n1 ulasan\n3 bulan lalu\nLokasi office yang strategis, mudah diakses dengan transportasi umum. Working space yang sangat nyaman, bersih & aman dan team Servio yang amat sangat membantu\nSuka\nBagikan\nlisa Fatmawati\nLocal Guide · 76 ulasan · 133 foto\n2 tahun lalu\nSalah satu office building di Jakarta Pusat dengan pelayanan manajemen yang ramah, komunikatif dan fast respon sehingga berkantor disini terasa nyaman dan menyenangkan\n+4\nSuka\nBagikan\nLihat ulasan lainnya (18)\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m",
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nServio The Plaza Office Tower - Service Office | Virtual Office | Meeting Room\nDapatkan aplikasi\nRingkasan\nUlasan\n5\t\n4\t\n3\t\n2\t\n1\t\n5,0\n23 ulasan\nTulis ulasan\nUrutkan\nSemua\nstrategis\n5\ncoworking space\n2\ntransportasi umum\n2\natmosphere\n2\nkopi\n2\nTiara Latifa\n2 ulasan · 4 foto\n4 bulan lalu\nServio The Plaza Office Tower ini bisa dibilang co-working space yang lokasinya strategis, jadi cocok kalau sering meeting sama klien atau mau keliatan lebih profesional. Tempatnya clean, modern, dan vibes-nya lebih ke corporate, dengan … Lainnya\nSuka\nBagikan\nMaureen Nathasa\n11 ulasan\n4 bulan lalu\nnice place for working, i really enjoy with the atmosphere is really comfortable. staffnya juga baik2 semua dan komunikatif, pastrynya lengkap, free kopi dan teh setiap hari, ada banyak event menarik tiap tahun jadi bisa kenalan sesama kantor lain. good place!!\nSuka\nBagikan\nWork Diandra\n1 ulasan\n4 bulan lalu\nTempatnya sangat strategis, meeting room dan co-working spacenya juga sangat nyaman. Seluruh staffnya sangat fast response dalam menanggapi permintaan dan feedback. super good😍 …\nSuka\nBagikan\nAnisa Suciati\n1 ulasan\n3 bulan lalu\nLokasi office yang strategis, mudah diakses dengan transportasi umum. Working space yang sangat nyaman, bersih & aman dan team Servio yang amat sangat membantu\nSuka\nBagikan\nlisa Fatmawati\nLocal Guide · 76 ulasan · 133 foto\n2 tahun lalu\nSalah satu office building di Jakarta Pusat dengan pelayanan manajemen yang ramah, komunikatif dan fast respon sehingga berkantor disini terasa nyaman dan menyenangkan\n+4\nSuka\nBagikan\nLihat ulasan lainnya (18)\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m",
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nServio The Plaza Office Tower - Service Office | Virtual Office | Meeting Room\nDapatkan aplikasi\nRingkasan\nUlasan\n5\t\n4\t\n3\t\n2\t\n1\t\n5,0\n23 ulasan\nTulis ulasan\nUrutkan\nSemua\nstrategis\n5\ncoworking space\n2\ntransportasi umum\n2\natmosphere\n2\nkopi\n2\nTiara Latifa\n2 ulasan · 4 foto\n4 bulan lalu\nServio The Plaza Office Tower ini bisa dibilang co-working space yang lokasinya strategis, jadi cocok kalau sering meeting sama klien atau mau keliatan lebih profesional. Tempatnya clean, modern, dan vibes-nya lebih ke corporate, dengan … Lainnya\nSuka\nBagikan\nMaureen Nathasa\n11 ulasan\n4 bulan lalu\nnice place for working, i really enjoy with the atmosphere is really comfortable. staffnya juga baik2 semua dan komunikatif, pastrynya lengkap, free kopi dan teh setiap hari, ada banyak event menarik tiap tahun jadi bisa kenalan sesama kantor lain. good place!!\nSuka\nBagikan\nWork Diandra\n1 ulasan\n4 bulan lalu\nTempatnya sangat strategis, meeting room dan co-working spacenya juga sangat nyaman. Seluruh staffnya sangat fast response dalam menanggapi permintaan dan feedback. super good😍 …\nSuka\nBagikan\nAnisa Suciati\n1 ulasan\n3 bulan lalu\nLokasi office yang strategis, mudah diakses dengan transportasi umum. Working space yang sangat nyaman, bersih & aman dan team Servio yang amat sangat membantu\nSuka\nBagikan\nlisa Fatmawati\nLocal Guide · 76 ulasan · 133 foto\n2 tahun lalu\nSalah satu office building di Jakarta Pusat dengan pelayanan manajemen yang ramah, komunikatif dan fast respon sehingga berkantor disini terasa nyaman dan menyenangkan\n+4\nSuka\nBagikan\nLihat ulasan lainnya (18)\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m"
+      ],
+      "about_raw": "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nServio The Plaza Office Tower - Service Office | Virtual Office | Meeting Room\nDapatkan aplikasi\nRingkasan\nUlasan\n5\t\n4\t\n3\t\n2\t\n1\t\n5,0\n23 ulasan\nTulis ulasan\nUrutkan\nSemua\nstrategis\n5\ncoworking space\n2\ntransportasi umum\n2\natmosphere\n2\nkopi\n2\nTiara Latifa\n2 ulasan · 4 foto\n4 bulan lalu\nServio The Plaza Office Tower ini bisa dibilang co-working space yang lokasinya strategis, jadi cocok kalau sering meeting sama klien atau mau keliatan lebih profesional. Tempatnya clean, modern, dan vibes-nya lebih ke corporate, dengan … Lainnya\nSuka\nBagikan\nMaureen Nathasa\n11 ulasan\n4 bulan lalu\nnice place for working, i really enjoy with the atmosphere is really comfortable. staffnya juga baik2 semua dan komunikatif, pastrynya lengkap, free kopi dan teh setiap hari, ada banyak event menarik tiap tahun jadi bisa kenalan sesama kantor lain. good place!!\nSuka\nBagikan\nWork Diandra\n1 ulasan\n4 bulan lalu\nTempatnya sangat strategis, meeting room dan co-working spacenya juga sangat nyaman. Seluruh staffnya sangat fast response dalam menanggapi permintaan dan feedback. super good😍 …\nSuka\nBagikan\nAnisa Suciati\n1 ulasan\n3 bulan lalu\nLokasi office yang strategis, mudah diakses dengan transportasi umum. Working space yang sangat nyaman, bersih & aman dan team Servio yang amat sangat membantu\nSuka\nBagikan\nlisa Fatmawati\nLocal Guide · 76 ulasan · 133 foto\n2 tahun lalu\nSalah satu office building di Jakarta Pusat dengan pelayanan manajemen yang ramah, komunikatif dan fast respon sehingga berkantor disini terasa nyaman dan menyenangkan\n+4\nSuka\nBagikan\nLihat ulasan lainnya (18)\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m | Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nServio The Plaza Office Tower - Service Office | Virtual Office | Meeting Room\nDapatkan aplikasi\nRingkasan\nUlasan\n5\t\n4\t\n3\t\n2\t\n1\t\n5,0\n23 ulasan\nTulis ulasan\nUrutkan\nSemua\nstrategis\n5\ncoworking space\n2\ntransportasi umum\n2\natmosphere\n2\nkopi\n2\nTiara Latifa\n2 ulasan · 4 foto\n4 bulan lalu\nServio The Plaza Office Tower ini bisa dibilang co-working space yang lokasinya strategis, jadi cocok kalau sering meeting sama klien atau mau keliatan lebih profesional. Tempatnya clean, modern, dan vibes-nya lebih ke corporate, dengan … Lainnya\nSuka\nBagikan\nMaureen Nathasa\n11 ulasan\n4 bulan lalu\nnice place for working, i really enjoy with the atmosphere is really comfortable. staffnya juga baik2 semua dan komunikatif, pastrynya lengkap, free kopi dan teh setiap hari, ada banyak event menarik tiap tahun jadi bisa kenalan sesama kantor lain. good place!!\nSuka\nBagikan\nWork Diandra\n1 ulasan\n4 bulan lalu\nTempatnya sangat strategis, meeting room dan co-working spacenya juga sangat nyaman. Seluruh staffnya sangat fast response dalam menanggapi permintaan dan feedback. super good😍 …\nSuka\nBagikan\nAnisa Sucia",
+      "analytics_total_open_hours_per_week": 45.0,
+      "analytics_is_24h": false,
+      "analytics_has_weekend": true,
+      "analytics_jam_lengkap": true,
+      "analytics_facility_score": 2,
+      "analytics_facility_count": 4,
+      "analytics_needs_busy_data": true,
+      "test_wilayah": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-31T16:47:07.709855"
+  },
+  {
+    "keyword": "lapangan",
+    "nama": "Asuka Badminton Hall",
+    "kategori": "Lapangan Bulutangkis",
+    "kategori_list": [],
+    "alamat": "Jl. Kedoya Pesing No.30, RT.14/RW.8, Kedoya Utara, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11520",
+    "alamat_lengkap": "Jl. Kedoya Pesing No.30, RT.14/RW.8, Kedoya Utara, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11520",
+    "plus_code": "RQP8+J6 Kedoya Utara, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1634977,
+    "lng": 106.7655976,
+    "place_id": "11kqrj171p",
+    "cid": "0x2e69f7d2534edd87",
+    "url_google_maps": "https://www.google.com/maps/place/Asuka+Badminton+Hall/@-6.1634977,106.7655976,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f7d2534edd87:0x87ba0ef653fe024a!8m2!3d-6.1634977!4d106.7655976!16s%2Fg%2F11kqrj171p?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.8,
+    "jumlah_review": 259,
+    "jam_operasional": {
+      "Senin": "08.00–23.00",
+      "Selasa": "08.00–23.00",
+      "Rabu": "08.00–23.00",
+      "Kamis": "08.00–23.00",
+      "Jumat": "08.00–23.00",
+      "Sabtu": "08.00–23.00",
+      "Minggu": "08.00–23.00"
+    },
+    "jam_operasional_raw": "Senin: 08.00–23.00\nSelasa: 08.00–23.00\nRabu: 08.00–23.00\nKamis: 08.00–23.00\nJumat: 08.00–23.00\nSabtu: 08.00–23.00\nMinggu: 08.00–23.00",
+    "status_buka": "Buka · Tutup pukul 23.00",
+    "popular_times": null,
+    "telepon": "0821-2322-2154",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnp7DimD7NYqkVXT782K5NNd9ilxOD_BXHhuwVOpmSCvbAYDA5blbLmxdyTZINXICcnCmEUdzqnNz76TX7mpgKBDzBTvQori2JYRMEK6oFzv6-q5EidRTO4sohXOmYUiY5n6MHBcA=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnp7DimD7NYqkVXT782K5NNd9ilxOD_BXHhuwVOpmSCvbAYDA5blbLmxdyTZINXICcnCmEUdzqnNz76TX7mpgKBDzBTvQori2JYRMEK6oFzv6-q5EidRTO4sohXOmYUiY5n6MHBcA=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnhw3k6TEFysk4Qo6IwsjMtckMCl1bTOY_s_c4Snuvpw3AZkJhSDnP5su03hrh73rVLNTG9L8H77VPEZKRGyZbG3D4Jb3EPqJVbud5GFX5bljg5Vw5_8DmjFCCcBdx4qQs5uX6n=w140-h186-k-no",
+      "https://lh3.googleusercontent.com/a/ACg8ocJqCu5qG-5uQjssVEy_k-gk-wm_Z9VyrhYUA8Gg7YU3AvCmtQ=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a/ACg8ocKWOxSMhhSyGga_cm35XDA-Bf2GspqyozdLMQSd9-h7RanAs9o=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXJ6CvPRykR4J_1Hk30EPdATvjXD76Kd1pSb71FvpXoZyzMz4dlzQ=w36-h36-p-rp-mo-ba12-br100"
+    ],
+    "reviews": [
+      {
+        "text": "Pengelana Bumi\nLocal Guide · 385 ulasan · 812 foto\n9 bulan lalu\nPilihan Gor Badminton yang cukup ok. Letak cukup strategis. Parkiran motor dan mobil tersedia cukup banyak, walaupun ga banyak banget. Toilet ber-ac. Ada mushola kecil juga di dalamnya, tempat wudhunya di dalam toilet di samping mushola. … Lainnya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Pengelana Bumi\nLocal Guide · 385 ulasan · 812 foto\n9 bulan lalu\nPilihan Gor Badminton yang cukup ok. Letak cukup strategis. Parkiran motor dan mobil tersedia cukup banyak, walaupun ga banyak banget. Toilet ber-ac. Ada mushola kecil juga di dalamnya, tempat wudhunya di dalam toilet di samping mushola. … Lainnya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Biondi\nLocal Guide · 78 ulasan · 187 foto\n2 tahun lalu\nLapangan Bagus dan Luas. Jarak antar lapangan juga pas, tidak terlalu rapat. Pencahayaan juga pas, sehingga tidak silau. Toiletnya juga bersih + ada AC nya di dalam (jadi kalau kepanasan boleh bisa ngadem di toilet, hahahaha). … Lainnya\n0:05\n1\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Biondi\nLocal Guide · 78 ulasan · 187 foto\n2 tahun lalu\nLapangan Bagus dan Luas. Jarak antar lapangan juga pas, tidak terlalu rapat. Pencahayaan juga pas, sehingga tidak silau. Toiletnya juga bersih + ada AC nya di dalam (jadi kalau kepanasan boleh bisa ngadem di toilet, hahahaha). … Lainnya\n0:05\n1\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "theo filus\nLocal Guide · 82 ulasan · 122 foto\n2 tahun lalu\nLuas bgt lapangannya, lpgan ad 7. Booking lewat Wa fast respon. Ada kios makanan ringan. Sayang lahan parkirnya agak kecil dan akses jalannya jg sempit\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "Kursi roda",
+      "Restoran",
+      "Bar",
+      "Tidak memiliki pintu masuk khusus pengguna kursi roda",
+      "Tidak memiliki tempat parkir khusus pengguna kursi roda"
+    ],
+    "attributes": {
+      "has_busy_hours": false,
+      "about_sections": [
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nAsuka Badminton Hall\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 IndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m",
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nAsuka Badminton Hall\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 IndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m",
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nAsuka Badminton Hall\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 IndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m"
+      ],
+      "about_raw": "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nAsuka Badminton Hall\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 IndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m | Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nAsuka Badminton Hall\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 IndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m | Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nAsuka Badminton Hall\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 IndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m | Disimpan\nTerbaru\nAsuka Badminton Hall\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya | Disimpan\nTerbaru\nAsuka Badminton Hall\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya",
+      "aria_facilities": [
+        "Tidak memiliki pintu masuk khusus pengguna kursi roda",
+        "Tidak memiliki tempat parkir khusus pengguna kursi roda"
+      ],
+      "analytics_total_open_hours_per_week": 105.0,
+      "analytics_is_24h": false,
+      "analytics_has_weekend": true,
+      "analytics_jam_lengkap": true,
+      "analytics_facility_score": 2,
+      "analytics_facility_count": 6,
+      "analytics_needs_busy_data": true,
+      "test_wilayah": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-31T16:47:54.674992"
+  },
+  {
+    "keyword": "aula",
+    "nama": "Gedung Dhanapala",
+    "kategori": "Gedung Pertemuan",
+    "kategori_list": [],
+    "alamat": "Jl. Senen Raya No.1, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
+    "alamat_lengkap": "Jl. Senen Raya No.1, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
+    "plus_code": "RRGQ+M9 Ps. Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1733617,
+    "lng": 106.8384371,
+    "place_id": "11b6z2pv29",
+    "cid": "0x2e69f5cb019d1a5b",
+    "url_google_maps": "https://www.google.com/maps/place/Gedung+Dhanapala/@-6.1733617,106.8384371,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f5cb019d1a5b:0x7176ab25b6de0b31!8m2!3d-6.1733617!4d106.8384371!16s%2Fg%2F11b6z2pv29?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.6,
+    "jumlah_review": 6551,
+    "jam_operasional": {
+      "Senin": "09.00–17.00",
+      "Selasa": "09.00–17.00",
+      "Rabu": "09.00–17.00",
+      "Kamis": "09.00–17.00",
+      "Jumat": "09.00–17.00",
+      "Sabtu": "09.00–17.00",
+      "Minggu": "09.00–17.00"
+    },
+    "jam_operasional_raw": "Senin: 09.00–17.00\nSelasa: 09.00–17.00\nRabu: 09.00–17.00\nKamis: 09.00–17.00\nJumat: 09.00–17.00\nSabtu: 09.00–17.00\nMinggu: 09.00–17.00",
+    "status_buka": "tutup · 17.00 · Buka Sel pukul 09.0",
+    "popular_times": "Foto pengulas yang menulis \"Telusuri lah dulu dan jalan kesana cukup ramai dan dekat dengan hotel Borobudur\"",
+    "telepon": "021) 3865118",
+    "website": "https://gedungdhanapala.com/",
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkiDfH_VY5GjZGHdkUpHuRuPGuHUT8RCVOzGgJ96mLl9YeIzPLfAFP4t1GohWqcykqCktJhZSY3sDBCAL5waXeE5nTZFjUnQqhEM7VliLsPDROa0Z298WS75gCtE7OyxD5Q-oHr=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkiDfH_VY5GjZGHdkUpHuRuPGuHUT8RCVOzGgJ96mLl9YeIzPLfAFP4t1GohWqcykqCktJhZSY3sDBCAL5waXeE5nTZFjUnQqhEM7VliLsPDROa0Z298WS75gCtE7OyxD5Q-oHr=w408-h262-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDZRcl8uPl_m_BwVZOAAuQIq3g6MWRJ26FgP3LCek66j37Zv2b1WTtcRMP3p3yEP-LVQZCxpXTQeQCmjvaUuHIiAWIXs7dhSyFdZseZLsCerG_uQOvaYT7H0wWU4iu6z9dugGycA=w211-h120-k-no-pi-20-ya47.220776-ro-0-fo100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmieS3xmDOZbeLpQznJ7Z7TTmV3JOLxJmUXgqR-01kWBtRYhcAFBD6dMLeJNL20lTFkzppCKYdVpsacuVo14O4fdgeVzgpQwFjxt1Swadngec-d9keoBELovvf8NWScm9-uEHrB=w140-h186-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlum50cyb1C5_N1hzdQQeHT_WEeAZmcOIzinuBZm8DhF-1fNuGGJVcaUg2AkgXRY61eTF3gYTbOoE8cLYU1u2MWj7YLQa1zml7c4J5ySA47p8QHUoP7BFz1EBpflLNm64f2UlUlKwwYdyCS=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWncChTzUtzyi4g2fsu7u62rGbxfQ_tt-c5etsgo-MHcNt4jy3L1CyeFfJZKkwKbrlzcyKgAkuY9EM8dIrHCUTQbvglEstKQ3EwE9ZXQjD-LadqI9PZuS9CHJMYZUK1F2vvby4Ydwg=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxeBOQrefmTMG7wLxNp1nVEhG2ml6j_pgj5Ohc1dNQwP9oTQsRXp4Rz7c3zqHjJ2MlI3GPde066eoMRQwuI9qol4kjrfYWnXegWViO0EG5vFofQXBDy0Z7dAbVeLY4Md3fdW4F=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7g23uhwWBQw_69TZgBKz-GdzbrCF6Fnx5AqjbYy21lofrrAdNOCqhMHsYk5sn1DlGzgBXHrAMjmMTGI7MsMAccKPAqEMqwysaNHibXuv4q2Na4thqj7K7ggpytiA_56qv45Ye=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjWNtD0TiSBTyqF-g1OTDmTuQWExALdG-UZ8QyX3MfEOd0bopsKE=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjUIJNsinM7GZyH-ZovCcHht4w7nBlcXwmnWeTyPiWsqD0o_awL3nQ=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjUmdEnP4pvOvvQb0j0QRbtrCikRr3gXK_ysC_rJCTP9FDsiht4=w36-h36-p-rp-mo-br100"
+    ],
+    "reviews": [
+      {
+        "text": "Ferry Faridh\nLocal Guide · 42 ulasan · 186 foto\n2 bulan lalu\nWaaaaw tempat nya bagus, Insyaallah Anak saya mau juga nih resepsi pernikahan disini, parkiran luas, toilet bersih, pokoknya recommended banget deh.\n0:29\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Ferry Faridh\nLocal Guide · 42 ulasan · 186 foto\n2 bulan lalu\nWaaaaw tempat nya bagus, Insyaallah Anak saya mau juga nih resepsi pernikahan disini, parkiran luas, toilet bersih, pokoknya recommended banget deh.\n0:29\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "wahyu mia handayani Sunarto\nLocal Guide · 225 ulasan · 1.173 foto\nsebulan lalu\nGedung yang megah dengan fasilitas lengkap. Toiletnya bersih. Biasanya digunakan untuk pesta pernikahan dengan jumlah tamu ribuan, karena daya tampungnya yang besar.\n+2\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "wahyu mia handayani Sunarto\nLocal Guide · 225 ulasan · 1.173 foto\nsebulan lalu\nGedung yang megah dengan fasilitas lengkap. Toiletnya bersih. Biasanya digunakan untuk pesta pernikahan dengan jumlah tamu ribuan, karena daya tampungnya yang besar.\n+2\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Tempat Kusen Pintu kayu\n2 ulasan · 3 foto\n3 bulan lalu\nOke sih gedungnya,,,toiletnya juga bersih.\nLokasinya di Kementrian keuangan,parkiran juga lumayan luas.\n0:29\n0:21\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "Toilet",
+      "Kursi roda",
+      "Restoran",
+      "Bar",
+      "Memiliki pintu masuk khusus pengguna kursi roda",
+      "Memiliki tempat parkir khusus pengguna kursi roda",
+      "Ada toilet khusus pengguna kursi roda"
+    ],
+    "attributes": {
+      "busy_hours_raw": "Foto pengulas yang menulis \"Telusuri lah dulu dan jalan kesana cukup ramai dan dekat dengan hotel Borobudur\"",
+      "has_busy_hours": true,
+      "about_sections": [
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nGedung Dhanapala\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nToilet khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m",
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nGedung Dhanapala\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nToilet khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m",
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nGedung Dhanapala\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nToilet khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m"
+      ],
+      "about_raw": "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nGedung Dhanapala\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nToilet khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m | Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nGedung Dhanapala\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nToilet khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m | Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nGedung Dhanapala\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nToilet khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m | Disimpan\nTerbaru\nGedung Dhanapala\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nToilet khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya | Disimpan\nTerbaru\nGedung Dhanapala\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nTempat parkir khusus pengguna kursi roda\nToilet khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya",
+      "aria_facilities": [
+        "Memiliki pintu masuk khusus pengguna kursi roda",
+        "Memiliki tempat parkir khusus pengguna kursi roda",
+        "Ada toilet khusus pengguna kursi roda"
+      ],
+      "analytics_total_open_hours_per_week": 56.0,
+      "analytics_is_24h": false,
+      "analytics_has_weekend": true,
+      "analytics_jam_lengkap": true,
+      "analytics_facility_score": 3,
+      "analytics_facility_count": 8,
+      "analytics_needs_busy_data": false,
+      "test_wilayah": "Jakarta Pusat"
+    },
+    "deskripsi": null,
+    "jam_ramai": "Foto pengulas yang menulis \"Telusuri lah dulu dan jalan kesana cukup ramai dan dekat dengan hotel Borobudur\"",
+    "scraped_at": "2026-08-31T16:48:42.249262"
+  },
+  {
+    "keyword": "ruang komunitas",
+    "nama": "Ruang & Tempo",
+    "kategori": "Ruang Kerja Bersama",
+    "kategori_list": [],
+    "alamat": "Gedung TEMPO, Jl. Palmerah Barat No.8 3, RT.3/RW.5, Grogol Utara, Kec. Kebayoran Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12210",
+    "alamat_lengkap": "Gedung TEMPO, Jl. Palmerah Barat No.8 3, RT.3/RW.5, Grogol Utara, Kec. Kebayoran Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12210",
+    "plus_code": "QQRQ+HX Grogol Utara, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.208545,
+    "lng": 106.7899649,
+    "place_id": "11g0dnxp2h",
+    "cid": "0x2e69f7f73653c9ab",
+    "url_google_maps": "https://www.google.com/maps/place/Ruang+%26+Tempo/@-6.208545,106.7899649,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f7f73653c9ab:0xe995f8ae55623c14!8m2!3d-6.208545!4d106.7899649!16s%2Fg%2F11g0dnxp2h?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.7,
+    "jumlah_review": 127,
+    "jam_operasional": {
+      "Senin": "09.00–17.00",
+      "Selasa": "09.00–17.00",
+      "Rabu": "09.00–17.00",
+      "Kamis": "09.00–17.00",
+      "Jumat": "09.00–17.00",
+      "Sabtu": "Tutup",
+      "Minggu": "Tutup"
+    },
+    "jam_operasional_raw": "Senin: 09.00–17.00\nSelasa: 09.00–17.00\nRabu: 09.00–17.00\nKamis: 09.00–17.00\nJumat: 09.00–17.00\nSabtu: Tutup\nMinggu: Tutup",
+    "status_buka": "Tutup",
+    "popular_times": null,
+    "telepon": "021) 22537522",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmc3YsFcnEC_zoqxIcddxR6djW6gD_aHYZ_dUX2DCv9buSQBjva2UdsFlyZltkKmtm7k-tj_cQQ8z69LKNpN2HUso82LkDkr5jWbguOZi7G-EO0WEOvQPnATiz8OSMhKiipFNVq=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmc3YsFcnEC_zoqxIcddxR6djW6gD_aHYZ_dUX2DCv9buSQBjva2UdsFlyZltkKmtm7k-tj_cQQ8z69LKNpN2HUso82LkDkr5jWbguOZi7G-EO0WEOvQPnATiz8OSMhKiipFNVq=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkTABdtb7cPWodu5EwGpkSy8MqxDOCu5X17-WFdkROGtDWAUYT64VnDWeymlaH1HfNnBPcwh_jceBiCXOwYyCWy9On1R4ssHqwVOuk1Y2iiJ58uAf8d-1NmOY4bXcPh9HHlWZ_9Vg=w160-h120-k-no",
+      "https://lh3.googleusercontent.com/a/ACg8ocInH9icRY8wn4lG9jGuvZg-d-dwL8gzmRCa3r0vxCbRDCItJA=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjUud79lsbVivfQ2HtNPTGXOrxXczp22OhePjlOGJLZfv5qy03SU6g=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjW7Ne0cBrIf_txtqYyQeehBl9LtHZ86LtPH_TcFqIz_Hxo32gwA=w36-h36-p-rp-mo-br100"
+    ],
+    "reviews": [
+      {
+        "text": "Ezy Zee\n3 ulasan · 20 foto\nsetahun lalu\nTempatnya bersih, dingin nyaman dan gak berisik. Designnya estetik udah ada pantry\nRuangan meetingnya kedap bersih dan dingin. Fasilitas jg lengkap udah ada layar besar mic speaker dll. Thankyou\n+7\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Ezy Zee\n3 ulasan · 20 foto\nsetahun lalu\nTempatnya bersih, dingin nyaman dan gak berisik. Designnya estetik udah ada pantry\nRuangan meetingnya kedap bersih dan dingin. Fasilitas jg lengkap udah ada layar besar mic speaker dll. Thankyou\n+7\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Giri Alifia\nLocal Guide · 831 ulasan · 6.636 foto\n7 tahun lalu\nTerletak di lantai 8, gedung Tempo Palmerah. Aksesnya mudah, securitynya ramah. Bangunannya besar, bersih, nyaman. Ruang & Tempo sendiri merupakan coworking space yg nyaman banget! Dindingnya banyak mural yg keren2 dan inspiratif banget. … Lainnya\n+47\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Giri Alifia\nLocal Guide · 831 ulasan · 6.636 foto\n7 tahun lalu\nTerletak di lantai 8, gedung Tempo Palmerah. Aksesnya mudah, securitynya ramah. Bangunannya besar, bersih, nyaman. Ruang & Tempo sendiri merupakan coworking space yg nyaman banget! Dindingnya banyak mural yg keren2 dan inspiratif banget. … Lainnya\n+47\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Putik Larasari\n10 ulasan · 3 foto\nsetahun lalu\nCo working space yg nyaman bgt, ada tempat tunggu-nya juga yg memungkinkan kita sambil baca buku. Pencahayaannya juga bagus. Fasilitas kayak toilet dan musholanya juga bersih dan nyaman\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "Kursi roda",
+      "Restoran",
+      "Bar",
+      "Memiliki pintu masuk khusus pengguna kursi roda"
+    ],
+    "attributes": {
+      "has_busy_hours": false,
+      "about_sections": [
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nRuang & Tempo\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m",
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nRuang & Tempo\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m",
+        "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nRuang & Tempo\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m"
+      ],
+      "about_raw": "Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nRuang & Tempo\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m | Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nRuang & Tempo\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m | Restoran\nHotel\nRekomendasi aktivitas\nTransportasi umum\nParkir\nApotek\nATM\nDisimpan\nTerbaru\nRuang & Tempo\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya\nLogin\n Lapisan\nData peta ©2026 GoogleIndonesiaPersyaratanPrivasiKirim Masukan Produk\n\t100 m | Disimpan\nTerbaru\nRuang & Tempo\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya | Disimpan\nTerbaru\nRuang & Tempo\nDapatkan aplikasi\nRingkasan\nUlasan\nTentang\nAksesibilitas\nPintu masuk khusus pengguna kursi roda\nAnda melihat tampilan terbatas dari Google Maps. Lihat lainnya",
+      "aria_facilities": [
+        "Memiliki pintu masuk khusus pengguna kursi roda"
+      ],
+      "analytics_total_open_hours_per_week": 40.0,
+      "analytics_is_24h": false,
+      "analytics_has_weekend": true,
+      "analytics_jam_lengkap": true,
+      "analytics_facility_score": 2,
+      "analytics_facility_count": 5,
+      "analytics_needs_busy_data": true,
+      "test_wilayah": "Jakarta Selatan"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-31T16:49:29.122901"
+  }
+]

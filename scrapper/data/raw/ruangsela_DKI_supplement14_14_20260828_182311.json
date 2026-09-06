@@ -1,0 +1,1080 @@
+[
+  {
+    "keyword": "gedung serbaguna",
+    "nama": "Gedung Serbaguna HKBP Cengkareng",
+    "kategori": "Gedung Pertemuan",
+    "kategori_list": [],
+    "alamat": "Jl. Bangun Nusa Raya No.2, RT.1/RW.3, Cengkareng Tim., Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11730",
+    "alamat_lengkap": "Jl. Bangun Nusa Raya No.2, RT.1/RW.3, Cengkareng Tim., Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11730",
+    "plus_code": "RPXJ+RR Cengkareng Tim., Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1503841,
+    "lng": 106.7320302,
+    "place_id": "11cltb31m4",
+    "cid": "0x2e69f7f1cb5c1d6f",
+    "url_google_maps": "https://www.google.com/maps/place/Gedung+Serbaguna+HKBP+Cengkareng/@-6.1503841,106.7320302,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f7f1cb5c1d6f:0xd48715c21a65a144!8m2!3d-6.1503841!4d106.7320302!16s%2Fg%2F11cltb31m4?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.3,
+    "jumlah_review": 108,
+    "jam_operasional": {
+      "Minggu": "pagi sepertinya digunakan untuk kegiatan sekolah minggu.\""
+    },
+    "jam_operasional_raw": "Minggu: pagi sepertinya digunakan untuk kegiatan sekolah minggu.\"",
+    "status_buka": null,
+    "popular_times": null,
+    "telepon": "021) 5413960",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnEX_7qWqlJhtMrRrX3b7nlNOgVJh3W1gS2k1kqLY2XOgzBHVvEHw0kte6w_SkhvMuhfWJwyYATiRPvfI_0B-iSVUS_9pSXxlSU8CJV4UXvFoOHUSu5UgmV5YZeBDWacKoT7SIn=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnEX_7qWqlJhtMrRrX3b7nlNOgVJh3W1gS2k1kqLY2XOgzBHVvEHw0kte6w_SkhvMuhfWJwyYATiRPvfI_0B-iSVUS_9pSXxlSU8CJV4UXvFoOHUSu5UgmV5YZeBDWacKoT7SIn=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnEX_7qWqlJhtMrRrX3b7nlNOgVJh3W1gS2k1kqLY2XOgzBHVvEHw0kte6w_SkhvMuhfWJwyYATiRPvfI_0B-iSVUS_9pSXxlSU8CJV4UXvFoOHUSu5UgmV5YZeBDWacKoT7SIn=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkXFULgMHVgOAatKtS7FgWwiPSi-on9e_tUWmv7fXHeGiqXipyzt1D42Xhe1cYyXk3BaEwReQFNtRM2wzgc8mZTl3PA9uNO_KXlckB2BmDpyRQc9_8dDSqukC-sXm4zFCp_NYk2NA=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkqqk0MiWZS1rr4KmbILRe2M2mCdbZ0vv0aFzO_cxLUzPfXKmo-T_-yUKsW1jMZTjx0W7HXDMlLvWrYQJ69k-8RYadckmvxVuxxR2iwZjC436CJIQGplgtQUYzGTM2BkyX0XcfSLw=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/a/ACg8ocKJmmawVCu4Rbm64J3osrPogFUMyBh2x5b_useQmReqxYPzXsY=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVt9IuQZ1IimxsYBQlrjwKfILVJ7dDVrApu6dz23A6IQknO2BSw=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXT-8x1orIrfaTCAsOVkynFa5rcLQzHRGElRVnXU3vfDc0wnxI=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnh99jJcCk_5IxNcGXClegx1PPW8gM5leBY84JVpVaOk6Iv7VO13jJLaEFiYsLsHNAM9_TAosWotEqQMYVPMiF7FEcgNyTpew_v8fbyR9S9sKjuKlzrIEnErlLsSLg7k-QOZA-D=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk0WdFne17jHHKEDrUsMZnknK67s-A79miIuinrLlqgh2nflkGTrnMcoGCPxe3byJZVEly9T1bi4sHggf0a59wVaWOwPhFnqYzcjc_128NW2UQiVO-DuK0ExKmEKSybCO3vf1VYuQ=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn5yqRAzx69jrXO2sqzAlUV-jfD6veBn3qj95whp-P7Wy6f2ehetb5e6YebYeXheYUeCV8eoyD7lo_rSCBQG4ZPW2HFWIkFdtCwbaiQCKTo3Gq58RnnEXRCkvYoxiZZpt2Tj27TIQ=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl7s9rpztRlVK0P_v7aj691UQKp1vxOlHf8RWq93hZUVrWSVlbQjBwTwiyRu092tDmz4-ItZfIWZX_0tsrWDmHkCB7bp4TbOd-qpPmUvR-By1VQP--Z3iHTHYPShDQO_pYFORhyKw=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Jhonson Trav\nLocal Guide · 134 ulasan · 406 foto\n2 bulan lalu\ntoliletnya krg bersih....\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Jhonson Trav\nLocal Guide · 134 ulasan · 406 foto\n2 bulan lalu\ntoliletnya krg bersih....\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "nurhaida manullang\nLocal Guide · 496 ulasan · 2.810 foto\n6 tahun lalu\ngereja dan aula kalau pesta adat batak bisa disini ,aula tdk besar cukup untuk 200 undangan dan parkir agak lumayan juga bisa sekitar 20 mobil ,cukup membantu untuk jemaat nya.\n+3\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "nurhaida manullang\nLocal Guide · 496 ulasan · 2.810 foto\n6 tahun lalu\ngereja dan aula kalau pesta adat batak bisa disini ,aula tdk besar cukup untuk 200 undangan dan parkir agak lumayan juga bisa sekitar 20 mobil ,cukup membantu untuk jemaat nya.\n+3\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Longwit Sianturi\nLocal Guide · 49 ulasan · 270 foto\nsetahun lalu\nGedungnya sudah lumayan bagus.\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "Toilet",
+      "AC"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:14:34.614978"
+  },
+  {
+    "keyword": "gedung serbaguna",
+    "nama": "Kemala Ballroom",
+    "kategori": "Gedung Pertemuan",
+    "kategori_list": [],
+    "alamat": "Jl. Arjuna Utara No.9, RT.1/RW.2, Duri Kepa, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11510",
+    "alamat_lengkap": "Jl. Arjuna Utara No.9, RT.1/RW.2, Duri Kepa, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11510",
+    "plus_code": "RQ7H+VJ Duri Kepa, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1853077,
+    "lng": 106.7790606,
+    "place_id": "11cjj6pnsy",
+    "cid": "0x2e69f6fbae909675",
+    "url_google_maps": "https://www.google.com/maps/place/Kemala+Ballroom/@-6.1853077,106.7790606,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f6fbae909675:0x8dfe621fa81778c4!8m2!3d-6.1853077!4d106.7790606!16s%2Fg%2F11cjj6pnsy?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.6,
+    "jumlah_review": 256,
+    "jam_operasional": {
+      "Senin": "10.00–17.00",
+      "Selasa": "10.00–17.00",
+      "Rabu": "10.00–17.00",
+      "Kamis": "10.00–17.00",
+      "Jumat": "10.00–17.00",
+      "Sabtu": "10.00–17.00",
+      "Minggu": "10.00–17.00"
+    },
+    "jam_operasional_raw": "Senin: 10.00–17.00\nSelasa: 10.00–17.00\nRabu: 10.00–17.00\nKamis: 10.00–17.00\nJumat: 10.00–17.00\nSabtu: 10.00–17.00\nMinggu: 10.00–17.00",
+    "status_buka": "Tutup · Buka Sab pukul 10.00",
+    "popular_times": null,
+    "telepon": "0851-4728-7880",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRYY3mO7jBuDxgXtiBlGT_41dm-A0joTyLCnrcWJpb6W2YCuPqYjF61v3WzKp8AZ__ZHEYuozvoIS4JpRkGKoYo2gOPhWIMLMmCp-RTQAZLT4zjKzRS8Vbw5QWX0M0AlIi-PbZ=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRYY3mO7jBuDxgXtiBlGT_41dm-A0joTyLCnrcWJpb6W2YCuPqYjF61v3WzKp8AZ__ZHEYuozvoIS4JpRkGKoYo2gOPhWIMLMmCp-RTQAZLT4zjKzRS8Vbw5QWX0M0AlIi-PbZ=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRYY3mO7jBuDxgXtiBlGT_41dm-A0joTyLCnrcWJpb6W2YCuPqYjF61v3WzKp8AZ__ZHEYuozvoIS4JpRkGKoYo2gOPhWIMLMmCp-RTQAZLT4zjKzRS8Vbw5QWX0M0AlIi-PbZ=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlSF8YZ8-iE890e7DDMiVOFTLHccYxiNGZ5nGobCkgISOw7c34gLgkd3B_fcziJgFO7JQo4GRIg3dJT-cqv1ZPbhbRek5lPoD7LJCqun5Dg1tKF5ZdjXU-7JQTkQgJI9aGQ2JDpUg=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlPf0HDOUkb4ZLEsx7TliXTIkYtrlVpSY73Xngv94e6FdOEiTmvPtzgzHNvqgjxDKPyNRKxY-NPGa8rZTLlcR7rAd6iqz190ib8fKOUAmgHTrgC3tt0Lzr8fFF2oyOTTrO2iuSk=w529-h298-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjU88xAVff6YY2SW5l_HdeEWOqUlTxompd-D8nheNzVjRX_GpId-=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjUkplRwIVFc8-tOXpqXM_sAblug-Z4r4HtWd9RFkcMplTuWKuRy=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVVA5zEoKHWs1KJa6Kot_4gCJ30O02lFgZmi_GAuLyEmIx_MC0u=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleCKBaZ-fSSawr7q7el8nLVpXJmayY8kfRsVlfKVQtKD640nRor76kAOuMfCqY9hKLdxeESDcc-ID7ZJgkQQG40ZKLhSLwg6dlN28guy4-VRPD2giDV40de2D8C1AOr6l38Mdf=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGEI_e-QEUmwglyFA8eyrORdUudJX1-tTinBhhMdwl-gyb0w-OC717sJ96XoXpFvIkd4eKXkh83B5K1M8sz1B7xn646DBOyA3ywmTEDU6IQrrsioKPg0JtojQdtm_cQP8_-YJ2=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlh1vIMyMQX6nQ3MNQUN65D25U97L3-9UZ8erLVDQdVxxVTY6i7ZtmT2hAzrgYbnD00-SjHwtq0ZyFC3i1K93UWtehnGDB6KCpNmkAwPrQFoPRXeRydeIai9KVwYdjH2KONIz22=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd-XAtXcwjHOEiDNeoPNm0OAgS6fOkMu2rCm9n4YedOVlxjUWF42DvSJ-OLHHsbiIwN3sloZK6VBdnjYFUcGEHU38u1v9NIHg8OxJ3LqG-f7-rKgq7v9KFO98JQYMbGSliwb4=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Darmawan HP Network\nLocal Guide · 151 ulasan · 221 foto\nsebulan lalu\nGedung/ballroom sering dipakai untuk pernikahan,ruangan didalam cukup besar, namun kapasitas parkirnya kurang luas, parkir sering sampai dipinggir jalan.\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Darmawan HP Network\nLocal Guide · 151 ulasan · 221 foto\nsebulan lalu\nGedung/ballroom sering dipakai untuk pernikahan,ruangan didalam cukup besar, namun kapasitas parkirnya kurang luas, parkir sering sampai dipinggir jalan.\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Nandra Pradipta\nLocal Guide · 26 ulasan · 7 foto\n7 bulan lalu\nAula atau ballroom serbaguna untuk segala event dan acara, ada diskon khusus untuk acara sekolah SMA/SMK loh, S&K yang berlaku ya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Nandra Pradipta\nLocal Guide · 26 ulasan · 7 foto\n7 bulan lalu\nAula atau ballroom serbaguna untuk segala event dan acara, ada diskon khusus untuk acara sekolah SMA/SMK loh, S&K yang berlaku ya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Faturrahman\nLocal Guide · 171 ulasan · 140 foto\n7 tahun lalu\nLetaknya di dalem kampus esa unggul, lumayan luas kebersihan juga terjaga, dan tersedia lahan perkir kendaraan bermotor roda 2 dan 4\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:15:14.479832"
+  },
+  {
+    "keyword": "gedung serbaguna",
+    "nama": "Gedung Serbaguna \"GSG\" Manba'ul Huda",
+    "kategori": "Asosiasi/organisasi",
+    "kategori_list": [],
+    "alamat": "Jl. H. Ja'ani No.3, RT.6/RW.11, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+    "alamat_lengkap": "Jl. H. Ja'ani No.3, RT.6/RW.11, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+    "plus_code": "RQ4C+J4 Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1934982,
+    "lng": 106.7702721,
+    "place_id": "11s4stxsh7",
+    "cid": "0x2e69f71d2318ae7f",
+    "url_google_maps": "https://www.google.com/maps/place/Gedung+Serbaguna+%22GSG%22+Manba'ul+Huda/@-6.1934982,106.7702721,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f71d2318ae7f:0x9d50021cd5a16e36!8m2!3d-6.1934982!4d106.7702721!16s%2Fg%2F11s4stxsh7?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.9,
+    "jumlah_review": 33,
+    "jam_operasional": {},
+    "jam_operasional_raw": null,
+    "status_buka": null,
+    "popular_times": null,
+    "telepon": "05873167537",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfpmuE6IDqhIwmkH28tLdv99mRnILtNemZV6njxYtnQefVYq6rkMRYbkiyI1Czq3yztMhtis0vTO5RomKCMpnFxnIKggRcJfxWGQMR3Y4Nk2EEkv3qdM7yuxkWdVirNSP2lyN6uw=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfpmuE6IDqhIwmkH28tLdv99mRnILtNemZV6njxYtnQefVYq6rkMRYbkiyI1Czq3yztMhtis0vTO5RomKCMpnFxnIKggRcJfxWGQMR3Y4Nk2EEkv3qdM7yuxkWdVirNSP2lyN6uw=w408-h862-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfpmuE6IDqhIwmkH28tLdv99mRnILtNemZV6njxYtnQefVYq6rkMRYbkiyI1Czq3yztMhtis0vTO5RomKCMpnFxnIKggRcJfxWGQMR3Y4Nk2EEkv3qdM7yuxkWdVirNSP2lyN6uw=w224-h473-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnvepj3nExThuLuehkT6QoVs2cc-UuLHdQ_V8rQcUjd4ZF8bShAPuEkR2FbSxqNH1CTgOuUKwsuXNInyGjVA5IF4_fF8pG8JUTncpbeSPmzVo7FjwyXuS94L6acQtAEFZt_YPA=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXwyMEMYlklmiZUYKZDjkaXjXp11zQO8zezEjAJq-HAJOF9JX0E=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXTt4eaiywF4hf_M93Ez7B0n0QHMZmLnUnvGOjHKDe9nGtDzgY=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjU4IoFusB8WQsKmdmvpUQarZmQq4PM5OaCLfisAK9xuMHY7-jWnTg=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltSY391FBjPdUEZch_PGbc9WjMJSlVtKAB4b3SeIvtQK9TqaKRGwjPEBjU1LO_9HYCcACLc8r6hk-9rKj8-eeVu4odlBIsJNOT3pKPTDo3Li-IALxClKPlOFISinEwRGBVwCWhgQ=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkTT-CjmQtI5hPHtp4oiuQcaMp9omIUs_kR31JXMSPx6Qwwb7Uwj-ux3lzJjqjSpXFx0ltpATSwZG0JIsIxNbPNXuskXhn92-yGu6GONCxf4S5gtro8f617E2-eZqeqN4OvJvUMIw=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl7s9rpztRlVK0P_v7aj691UQKp1vxOlHf8RWq93hZUVrWSVlbQjBwTwiyRu092tDmz4-ItZfIWZX_0tsrWDmHkCB7bp4TbOd-qpPmUvR-By1VQP--Z3iHTHYPShDQO_pYFORhyKw=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Masruchan Alfatqi\nLocal Guide · 285 ulasan · 560 foto\n8 bulan lalu\nAlhamdulillah tempatnya full AC, nyaman, semoga Allah paring sukses lancar dan barokah (pas itu menghadiri acara hajatan di gsg ini)\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Masruchan Alfatqi\nLocal Guide · 285 ulasan · 560 foto\n8 bulan lalu\nAlhamdulillah tempatnya full AC, nyaman, semoga Allah paring sukses lancar dan barokah (pas itu menghadiri acara hajatan di gsg ini)\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Gojek Noverly Jkt Driver\nLocal Guide · 45 ulasan · 5 foto\nDiedit 2 tahun lalu\nParkir Motor Mobil Memadai, Anak Anak Kecil bermain Tentram Aman Nyaman Selamat Lancar dan BAROKAH, Pokoknya SEMUA Mendukung In Syaa اللّٰه ya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Gojek Noverly Jkt Driver\nLocal Guide · 45 ulasan · 5 foto\nDiedit 2 tahun lalu\nParkir Motor Mobil Memadai, Anak Anak Kecil bermain Tentram Aman Nyaman Selamat Lancar dan BAROKAH, Pokoknya SEMUA Mendukung In Syaa اللّٰه ya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Bung Iben\nLocal Guide · 127 ulasan · 203 foto\n2 tahun lalu\nGedung serbaguna ldii pertama di jakarta barat.. lokasi nya nempel dekat msjid ldii … Lainnya\n1\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:15:54.159600"
+  },
+  {
+    "keyword": "gedung serbaguna",
+    "nama": "Aula Gedung Serbaguna Komplek Hankam Slipi",
+    "kategori": "Aula serbaguna",
+    "kategori_list": [],
+    "alamat": "RQ2V+77G, Jl. Kiwal, RT.6/RW.2, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",
+    "alamat_lengkap": "RQ2V+77G, Jl. Kiwal, RT.6/RW.2, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",
+    "plus_code": "RQ2V+77G, Jl. Kiwal, RT.6/RW.2, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",
+    "lat": -6.1993201,
+    "lng": 106.7931998,
+    "place_id": "11b7f1lgv6",
+    "cid": "0x2e69f6c06eff719b",
+    "url_google_maps": "https://www.google.com/maps/place/Aula+Gedung+Serbaguna+Komplek+Hankam+Slipi/@-6.1993201,106.7931998,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f6c06eff719b:0x70c6e64536b27b65!8m2!3d-6.1993201!4d106.7931998!16s%2Fg%2F11b7f1lgv6?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.4,
+    "jumlah_review": 810,
+    "jam_operasional": {},
+    "jam_operasional_raw": null,
+    "status_buka": "buka",
+    "popular_times": null,
+    "telepon": "05873167537",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmeQ1UMuXq98uJm_zBLLKx9U7qkCfrRx-2NVZHmPo0IIJ7He7gP0iBuatznjx9XhBglePgDU0LYy6gnbyHWTq7weD3k8kQNHoQdXn_ONtgkJsSEScpyKLCqLpMw_8Uve7m7-PuP9J92fGE_=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmeQ1UMuXq98uJm_zBLLKx9U7qkCfrRx-2NVZHmPo0IIJ7He7gP0iBuatznjx9XhBglePgDU0LYy6gnbyHWTq7weD3k8kQNHoQdXn_ONtgkJsSEScpyKLCqLpMw_8Uve7m7-PuP9J92fGE_=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmeQ1UMuXq98uJm_zBLLKx9U7qkCfrRx-2NVZHmPo0IIJ7He7gP0iBuatznjx9XhBglePgDU0LYy6gnbyHWTq7weD3k8kQNHoQdXn_ONtgkJsSEScpyKLCqLpMw_8Uve7m7-PuP9J92fGE_=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnRZiMw4g2_LcsOk648L9bjukc-picyBqaUaGqlec8WTqo9xSsLW0shXEKNVSoMqsufcY0QV3LwxsM2wuEo2sAG4GpnlZuYP2ttuVvTUgWCxPhBv18TwvXqAgIVTP-x2lymuGqcA0rMm3g=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlaXt91Fj5f_ELklk5dJKpUWdKjekF1KZKOzuJHbQwEf_BZZVXhjuRPdamm7bV7JsndO6BbU31NB8SBJXClxR_nocP8jaiMaf7DxvWvJ6KOIo_KNdiysLyCMAsOW_xLeEgPQ5Jf8Y1P07Iu=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkIv3L7FrC6krirEkDu5E-V_qFLqF0G4NTQF-pkaekQDBxf0aF7QVSRolNTFwKAz3RArfmUjkKTLZZCzDdygtT8iq5W7H6mca3k_gEafzAiJlbsesGGWFjZu9V_uN0YiRwcVI0=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkjeEEczl6KeSjpOnoU9HezY7hsqN3f7YV1wT4C-i86U2RpHJwWr7EX7TBhta0dx--_iKwowT2vhS_P9JoQG0RNIb30bbAFKAontoQnkF4WTTjiqg3ljt0ZvoqOjwAMIv37Nhde2v5GfunC=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYTSIV8uxcJLWyc_k8lsFtIUQK_WtU1nJfokRDC7lPBXnlqY1Kh_pW9lBf4ZDd8v83zHG4QZooFJeIIawQhx6JI8plb4GIMP3UHNSiCtr-eC3eUZXPEOXIDjpG-KYfddqWY8zIHP4e-mD-=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlQsN30NIu5-7RKhogNtyNnSrIJfxozIYAaLyw8k0VgE_DHQLIAeg2eRS2rV1jM-z864mAX2NcJ6gLBop84Iz1zz1hwwIwHJ9yU6TPcviGRNfHMy7YbilfTILiD2FI8GYzSoBPImxIP3UY=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlDCh7_dLHAYdB_YDJvrkImFywRSeQyr3g2Y6lSGpfXLalDSJgIrF53zHyrkBE4gr2UImyaRodizAGVkvx6b2jNM10br9LpsTUNf2WgzHA3JgAUXHMcwBMd8E8vo8BvQcWIwwd1=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDtxoYhxdoRFceIcrHNstEuN-8GFGwTHVi7VCTUmRf1rRODHuZuekJNhqQ2uMEORRSYOgYzKGFYqa1T_EFzsDH6sOcvSe5nkT56v_WyGaIz6-CrRGiO0AhvgF_uI5u5N4qntgMNvwSB-YA=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVOt9Sx2qS2xbQy9647IFLFLJe4pAwR3QjRH-BN-BrMTluXwsTuFA=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXabMjok3iCiE1NUAQFyGiBNHld7QaAJYeSxI1C3IezkMcxtxgc=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a/ACg8ocKv5iHzn7tIRjnu7SYNc8l81LdzuOOCv-6oAPkzeNy6fEFBKA=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlP1tBh7Z-V1-QmunPCQs4eV8QgO1CtnKW0XsvbI_V93tmU1VM0Zt2CH_tsgXcBdeaJkq03DlxYww02SECvUZvaWM0mg7bAhlsYiXJq0UH6sZ8WuSoxgFD1zizNFFlzhnb0AL5-=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Riyo L.of.K\nLocal Guide · 174 ulasan · 772 foto\n3 bulan lalu\nUntuk acara perkawinan yg undanganya tdkbterlalu banyak sih ok.\nTapi kalau undanganya banyak, ya gak cocok\n0:29\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Riyo L.of.K\nLocal Guide · 174 ulasan · 772 foto\n3 bulan lalu\nUntuk acara perkawinan yg undanganya tdkbterlalu banyak sih ok.\nTapi kalau undanganya banyak, ya gak cocok\n0:29\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Hafizh Maulana\nLocal Guide · 122 ulasan · 1.266 foto\n9 bulan lalu\nmenuju kesini banyak bisa jalan yg d lalui mau lewat mana aja bisa. tergantung kenyamanan dan keinginan kalian. untuk lokasi tempatnya parkir cukup luass untuk mobil, depannya juga ada kantin gitu banyak tukang makanan. terus aulanya … Lainnya\n8\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Hafizh Maulana\nLocal Guide · 122 ulasan · 1.266 foto\n9 bulan lalu\nmenuju kesini banyak bisa jalan yg d lalui mau lewat mana aja bisa. tergantung kenyamanan dan keinginan kalian. untuk lokasi tempatnya parkir cukup luass untuk mobil, depannya juga ada kantin gitu banyak tukang makanan. terus aulanya … Lainnya\n8\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Cholifah Ramdani\nLocal Guide · 32 ulasan · 59 foto\n6 bulan lalu\nTempatnya kurang luas klw buat acara pernikahan , agak gelap harus pakai lampu tambahan\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "Toilet",
+      "AC"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:16:33.660332"
+  },
+  {
+    "keyword": "gedung serbaguna",
+    "nama": "The Vida Ballroom",
+    "kategori": "Ruang Serbaguna",
+    "kategori_list": [],
+    "alamat": "Jl. Perjuangan No.8, RT.1/RW.7, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+    "alamat_lengkap": "Jl. Perjuangan No.8, RT.1/RW.7, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+    "plus_code": "RQ55+GR Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1911516,
+    "lng": 106.7596054,
+    "place_id": "11b6j48vlq",
+    "cid": "0x2e69f71b04cc3c37",
+    "url_google_maps": "https://www.google.com/maps/place/The+Vida+Ballroom/@-6.1911516,106.7596054,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f71b04cc3c37:0xe0bab0cc25e78ab3!8m2!3d-6.1911516!4d106.7596054!16s%2Fg%2F11b6j48vlq?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.4,
+    "jumlah_review": 1202,
+    "jam_operasional": {
+      "Senin": "08.00–17.00",
+      "Selasa": "08.00–17.00",
+      "Rabu": "08.00–17.00",
+      "Kamis": "08.00–17.00",
+      "Jumat": "08.00–17.00",
+      "Sabtu": "12.00–18.00",
+      "Minggu": "12.00–18.00"
+    },
+    "jam_operasional_raw": "Senin: 08.00–17.00\nSelasa: 08.00–17.00\nRabu: 08.00–17.00\nKamis: 08.00–17.00\nJumat: 08.00–17.00\nSabtu: 12.00–18.00\nMinggu: 12.00–18.00",
+    "status_buka": "Tutup · Buka Sab pukul 12.00",
+    "popular_times": null,
+    "telepon": "0811-8882-897",
+    "website": "/url?q=http://www.thevidaballroom.com/&opi=79508299&sa=U&ved=0ahUKEwj5zvWumcOWAxXJ2TgGHd7wLPEQ61gIFygS&usg=AOvVaw1hAbu7GipBgIsNPvXFoAxX",
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGEI_e-QEUmwglyFA8eyrORdUudJX1-tTinBhhMdwl-gyb0w-OC717sJ96XoXpFvIkd4eKXkh83B5K1M8sz1B7xn646DBOyA3ywmTEDU6IQrrsioKPg0JtojQdtm_cQP8_-YJ2=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGEI_e-QEUmwglyFA8eyrORdUudJX1-tTinBhhMdwl-gyb0w-OC717sJ96XoXpFvIkd4eKXkh83B5K1M8sz1B7xn646DBOyA3ywmTEDU6IQrrsioKPg0JtojQdtm_cQP8_-YJ2=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGEI_e-QEUmwglyFA8eyrORdUudJX1-tTinBhhMdwl-gyb0w-OC717sJ96XoXpFvIkd4eKXkh83B5K1M8sz1B7xn646DBOyA3ywmTEDU6IQrrsioKPg0JtojQdtm_cQP8_-YJ2=w529-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlddNzVMicK-my4LFmc4W6ch4o6X107tfS2fP2SLPjHGe6-VcWtY9ubllK6UAUyrmfjiE5WHXiL0RgYHnM2RQO63mCVF6uRvrd0s5kTlH7E0qIbcxsUky5chK2xTyDFopDaUrIvYA=w541-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkgLJLEn-eCENfeJtPOqEW3o2NkX81Y45pzjh9tMt3fr28Um_dwEOHJ2w6YtqH-sATih4oUgK7ZCtE-h0D-LRhFUBWMJvcCAH-h-Em_Lvrr3XpfpOdZ8c5aXDsAdKt7We3cDV1a=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYsl5G-NxT1cU9KTIxyeMwjQNUGYDL3X81dmjf5ubqiaVZaxfqmpH7eGrGlgU4qN6wdKb_a8DvDYZsN5kcUZj14_nXO1Q545A1ffzoP5kcuHwSZOvAcgBibFUpSuJ3hu9Au35v=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjWTFC05jaCs1OzCtxT--PNvjhLcrw89oBOci_65AkA6JCSgWM1H=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVeX1BjGPxeJ-YVtesC3PMfNq1d7c5PvkJg9m6BqUNj1-9Nf94kIA=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjV2jmqfx_ZuNXBKy56Bj0gu6zSILFg7Znrg3NkJWDCkwW3E-ZQ=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlC3We3vtqXi5Ab1Yi-ej0mgFL-xHuC7olru-BIBBYpUSnmDfWUyL6qq0o9LWCTiDsFcJlKS7wb3Cwn5SJUoEAbS0AgS6fDlrxvjozyfAAodHf-BgwrzZhuCO1fDkb5in2YRMZw=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRYY3mO7jBuDxgXtiBlGT_41dm-A0joTyLCnrcWJpb6W2YCuPqYjF61v3WzKp8AZ__ZHEYuozvoIS4JpRkGKoYo2gOPhWIMLMmCp-RTQAZLT4zjKzRS8Vbw5QWX0M0AlIi-PbZ=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlh1vIMyMQX6nQ3MNQUN65D25U97L3-9UZ8erLVDQdVxxVTY6i7ZtmT2hAzrgYbnD00-SjHwtq0ZyFC3i1K93UWtehnGDB6KCpNmkAwPrQFoPRXeRydeIai9KVwYdjH2KONIz22=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Dedy Adrianto\nLocal Guide · 13 ulasan · 42 foto\n8 bulan lalu\nRuangan ballroom berukuran sedang tapi terlihat cukup mewah.\n0:08\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Dedy Adrianto\nLocal Guide · 13 ulasan · 42 foto\n8 bulan lalu\nRuangan ballroom berukuran sedang tapi terlihat cukup mewah.\n0:08\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Elsa Tri Meilani\nLocal Guide · 71 ulasan · 178 foto\n4 tahun lalu\nTempatnya bagus buat wedding.\nini di lantai 10 ya..\nkalau mau pemberkatan pagi cangtip banget pemandangan jakarta keliatan dari … Lainnya\n+2\nSuka\nBagikan\nTanggapan dari pemilik 4 tahun lalu\nTerima kasih atas reviewnya, kak :)",
+        "rating": null
+      },
+      {
+        "text": "Elsa Tri Meilani\nLocal Guide · 71 ulasan · 178 foto\n4 tahun lalu\nTempatnya bagus buat wedding.\nini di lantai 10 ya..\nkalau mau pemberkatan pagi cangtip banget pemandangan jakarta keliatan dari … Lainnya\n+2\nSuka\nBagikan\nTanggapan dari pemilik 4 tahun lalu\nTerima kasih atas reviewnya, kak :)",
+        "rating": null
+      },
+      {
+        "text": "Johan Surya\nLocal Guide · 162 ulasan · 481 foto\n6 tahun lalu\ngreat place for event, wedding, seminar, workshop, arisan, perayaan, ulang tahun, arisan. … Lainnya\n+3\n5\nBagikan\nTanggapan dari pemilik 6 tahun lalu\nTerima kasih atas ulasannya.\nDiterjemahkan oleh Google ・ Lihat versi asli (Inggris)",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC",
+      "Parking"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:17:12.867001"
+  },
+  {
+    "keyword": "gedung serbaguna",
+    "nama": "Gedung Serbaguna Wanilan",
+    "kategori": "Aula serbaguna",
+    "kategori_list": [],
+    "alamat": "Jl. Tenis Raya No.12, RT.12/RW.14, Kapuk, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11720",
+    "alamat_lengkap": "Jl. Tenis Raya No.12, RT.12/RW.14, Kapuk, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11720",
+    "plus_code": "VP4X+H9 Kapuk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1435759,
+    "lng": 106.748482,
+    "place_id": "11cs0c_3z7",
+    "cid": "0x2e69f7dde71359d7",
+    "url_google_maps": "https://www.google.com/maps/place/Gedung+Serbaguna+Wanilan/@-6.1435759,106.748482,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f7dde71359d7:0xde17d4a65dfa3e30!8m2!3d-6.1435759!4d106.748482!16s%2Fg%2F11cs0c_3z7?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.2,
+    "jumlah_review": 415,
+    "jam_operasional": {
+      "Senin": "09.00–22.00",
+      "Selasa": "09.00–22.00",
+      "Rabu": "09.00–22.00",
+      "Kamis": "09.00–22.00",
+      "Jumat": "09.00–22.00",
+      "Sabtu": "09.00–22.00",
+      "Minggu": "09.00–22.00"
+    },
+    "jam_operasional_raw": "Senin: 09.00–22.00\nSelasa: 09.00–22.00\nRabu: 09.00–22.00\nKamis: 09.00–22.00\nJumat: 09.00–22.00\nSabtu: 09.00–22.00\nMinggu: 09.00–22.00",
+    "status_buka": "Buka · Tutup pukul 22.00",
+    "popular_times": null,
+    "telepon": "0896-3579-0042",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnplJDcZSwiFxVjfximuHQqWLsOUWULJZDA8m7nIU3Vx4i_Ha4XpUkEk6PSYyn5JrpTwQSaMDJC5tlCTrhfyNvzIZt6QQ4QRSCumyZp44pMkEi7mQICDyD_LOqHvrrPrPBV_XZP=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnplJDcZSwiFxVjfximuHQqWLsOUWULJZDA8m7nIU3Vx4i_Ha4XpUkEk6PSYyn5JrpTwQSaMDJC5tlCTrhfyNvzIZt6QQ4QRSCumyZp44pMkEi7mQICDyD_LOqHvrrPrPBV_XZP=w408-h611-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnplJDcZSwiFxVjfximuHQqWLsOUWULJZDA8m7nIU3Vx4i_Ha4XpUkEk6PSYyn5JrpTwQSaMDJC5tlCTrhfyNvzIZt6QQ4QRSCumyZp44pMkEi7mQICDyD_LOqHvrrPrPBV_XZP=w224-h335-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl9K6FLsGY8SAJF9FkeSR2wwKHUgrfRqMXyU_BW6fpv1v5KKh7V2s_3jBvJNZQqAS4TYIK2aQbgjE2zTZXwJzFDt2eytzgoJ5vRbyD-YwadLB6GTCwD6Ecpo8goModhZaroHi7q=w224-h484-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnrNkYiu1SESJBuanStUasvyg7FokUxNmFDI4rv9gmdypcdFUMe-TPFjs058dNv6CPEnzfS1j9gP12nFYFGD9n6B_HUuAdqyR7KZu1esWoKqH-wbCWzzGvHbkeTO2tbh54P7r4F=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkF9wdpObfNRpKJ032Uy9HYAez5_63YotfzLMeVuhqc3CDXAWC5YudDqSI-Te-NG2FKHMIwdeE-gMVPDUDFsUKK_RB8USoY35VNqsgkNrFwAn3YbpRtYMRcD5FO9w5xJcjofb09ag=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1q-6SjJZE-yWzJga19aA--FzmBo1Lcd0EY3fC6cDqotuYvFmdTNsTUk51iMN6oYC_wgRGMWbZS0yfEJY-ymA7cRGxz0fP4MFsR_ReNV3W4RifY3HBVxZtTSRjCSmCxsTpMneR=w645-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-sHGEKZMBP2H3LHO3aobMdmgWX_yofnw9gEqGbbDKcgmOb37rfZQ7lYXSgwmIMMRmVW0Ki16_fV1tJ224V_w1NzfE14UZksIwMBFb0fDjtfc8ZNB6hXSNKMqxhcp1avSGBKLujg=w447-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk_goTdn6ATbHo5Q7dd1Of-W_rx0J-0hV9AEkjMe8mRd49Uw2E4ysEfB3nZ898ba9x-ij19e6BK1f1zQsCfQOecqznYlRR7-CXIGPPT-nywmwowuPyeZpi6sx1qa2PkoUDonyY=w447-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlPPrqohjauGVaHxH6Q0Dwy-i_KiuojsX_dCwkAlwYwlENZnoVw0pJinw3QBMxjprgOukTzBoBUO1xHmtmCeEj_xI2cZf14G9mr7r9QsKX46A5tXmYicS2u8JqRjbxFlrhD-vmlNg=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/a/ACg8ocIaDuZ3vFbKgwJd7faEV0ZAlyiSJAYGZNmlmFyMcah_azju7Q=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjW6LSbKlEuWEZzVJbljaj_xIrnM2SCnVh1IjGa3i9ErQxuvmLA=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjX_NJ72mEzHbNPPxnorn5z8rJRb7wMyGhv8ogVPGMXBfTFg0TcD=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnh99jJcCk_5IxNcGXClegx1PPW8gM5leBY84JVpVaOk6Iv7VO13jJLaEFiYsLsHNAM9_TAosWotEqQMYVPMiF7FEcgNyTpew_v8fbyR9S9sKjuKlzrIEnErlLsSLg7k-QOZA-D=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl7s9rpztRlVK0P_v7aj691UQKp1vxOlHf8RWq93hZUVrWSVlbQjBwTwiyRu092tDmz4-ItZfIWZX_0tsrWDmHkCB7bp4TbOd-qpPmUvR-By1VQP--Z3iHTHYPShDQO_pYFORhyKw=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Gading Puriraya\n2 ulasan · 1 foto\n8 bulan lalu\nAgak pengap klo pas di pake acara nikah siang krn ngg ada blower jadi sirkulasi udara ngg maksimal\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Gading Puriraya\n2 ulasan · 1 foto\n8 bulan lalu\nAgak pengap klo pas di pake acara nikah siang krn ngg ada blower jadi sirkulasi udara ngg maksimal\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Usually Fillah\nLocal Guide · 37 ulasan · 189 foto\n6 tahun lalu\nDekornya bagus ,ruangannya cukuo utk acara hanya sajah agak panas mungkin karena ventilasinya kurang sepertinya kalau di perbaiki masalah ventilasi udaranya bisa menambah nilai positif di tempat ini\nSuka\nBagikan\nTanggapan dari pemilik 6 tahun lalu\nHallo kak, terimakasih atas masukannya :)",
+        "rating": null
+      },
+      {
+        "text": "Usually Fillah\nLocal Guide · 37 ulasan · 189 foto\n6 tahun lalu\nDekornya bagus ,ruangannya cukuo utk acara hanya sajah agak panas mungkin karena ventilasinya kurang sepertinya kalau di perbaiki masalah ventilasi udaranya bisa menambah nilai positif di tempat ini\nSuka\nBagikan\nTanggapan dari pemilik 6 tahun lalu\nHallo kak, terimakasih atas masukannya :)",
+        "rating": null
+      },
+      {
+        "text": "Tristiani Waruwu\n8 ulasan\n4 bulan lalu\nKa ada nomor yg bisa di kontak untuk tanya harga sewanya?\nSuka\nBagikan\nTanggapan dari pemilik 4 bulan lalu\n089635790042",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:17:52.709434"
+  },
+  {
+    "keyword": "gedung serbaguna",
+    "nama": "SWASANA GRAND SLIPI CONVENTION HALL",
+    "kategori": "Gedung Pernikahan",
+    "kategori_list": [],
+    "alamat": "Jl. Letjen S. Parman, RT.1/RW.4, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",
+    "alamat_lengkap": "Jl. Letjen S. Parman, RT.1/RW.4, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",
+    "plus_code": "QQXX+MC Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.2007999,
+    "lng": 106.7985726,
+    "place_id": "11dyl__ygj",
+    "cid": "0x2e69f6bef2eaaaab",
+    "url_google_maps": "https://www.google.com/maps/place/SWASANA+GRAND+SLIPI+CONVENTION+HALL/@-6.2007999,106.7985726,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f6bef2eaaaab:0x480ecca810824c84!8m2!3d-6.2007999!4d106.7985726!16s%2Fg%2F11dyl__ygj?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.6,
+    "jumlah_review": 1146,
+    "jam_operasional": {
+      "Senin": "Buka 24 jam",
+      "Selasa": "Buka 24 jam",
+      "Rabu": "Buka 24 jam",
+      "Kamis": "Buka 24 jam",
+      "Jumat": "Buka 24 jam",
+      "Sabtu": "Buka 24 jam",
+      "Minggu": "Buka 24 jam"
+    },
+    "jam_operasional_raw": "Senin: Buka 24 jam\nSelasa: Buka 24 jam\nRabu: Buka 24 jam\nKamis: Buka 24 jam\nJumat: Buka 24 jam\nSabtu: Buka 24 jam\nMinggu: Buka 24 jam",
+    "status_buka": "Buka 24 jam",
+    "popular_times": null,
+    "telepon": "0811-8339-7121",
+    "website": "/url?q=https://swasanawedding.com/grand-slipi-convention-hall/&opi=79508299&sa=U&ved=0ahUKEwiO-8zUmcOWAxUQ8zgGHbPzGl0Q61gIFygS&usg=AOvVaw0NOHQgJXxL6q_I2vcmPZ3K",
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlItDyJI_-FqGQKH1ItM7e8OWHUs_uI_ZhuTY6YAcd1IGY5JEWNuHxL9m51xya66OR17oHvbsUYix_q-icjwqHq4joJr-t7SywHl2Oaijs5LQb21gKDZmRCFhrcpMr4xvsXplXW0Q=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlItDyJI_-FqGQKH1ItM7e8OWHUs_uI_ZhuTY6YAcd1IGY5JEWNuHxL9m51xya66OR17oHvbsUYix_q-icjwqHq4joJr-t7SywHl2Oaijs5LQb21gKDZmRCFhrcpMr4xvsXplXW0Q=w428-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlItDyJI_-FqGQKH1ItM7e8OWHUs_uI_ZhuTY6YAcd1IGY5JEWNuHxL9m51xya66OR17oHvbsUYix_q-icjwqHq4joJr-t7SywHl2Oaijs5LQb21gKDZmRCFhrcpMr4xvsXplXW0Q=w531-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnyzZi3O0-l9IcUMP3byQozVgKpY1hjX2m7ohTSv6Y1Fs1yP-lZUOmx5_k0IdCIyg66qwnBo09IG47uK79A3lIYD3bZdpHtRTt8U1bUy6vaQ6SOFKPq6Ea2OUCda91V1Un3gy6LyoO5kXNE=w224-h401-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnvUU5MPK3kI1J0MUkLhVyvf4ZR74RH9Lec24gmz4zIoaRluavDNmJ38K1bozkGXqImlDJSVj7vzPQc8PXkEDfHKCO9nqkk16c4a17rcOMzv1UnTJR0lSVzit1BquzE9bK2fsk3=w529-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkemmXP9rsG5XOvWH4xfHTyRhPtvlQi7PfTKCdMxWqGZ6S4uXh-aeBhnenMo5B5ekfbLlyYakGvNijwoBrXKt6scGvOtel3kKONzcfKHfqsdiqGKLJ-HUOgJwABRQxZWS52lIeiJw=w447-h298-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjUM9mmQEfD6TyapkeiC7ypZ4NY9gZrTzLXiq2bztEDOzgjgLn0=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjWxADm50GaPM9gCLIrq4Xn4hPT9zc9_GySnjhpuvYrMoL4esJ4s=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXlrVWYPqIjie2OTzkb9ZpAqwIFvhixcsxrDE3hKkbmuXx2uiZa=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8MMDux86vAFlPwQZP3EfncX2DCa2sirEM5SzxN7sHGcHCOUniIdhSTlX_TzwQNpr9e6hxZMpCUF5aMmhWfMUWYfbsmhrTJMRwOsfDd5DY0pczZVQvNRJkIZJdQN_NisXDgqClCQ=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl4Ue2QMlumz9gJ1tTugDss0QhNRvwAXj4sHTal5BqAgrcUnNMSR03_QITVoLE3wTh6e3o0Car4HRvr9bmrjrh1c07jP-vd5lTDWBKASRfjVNr1ua9COv6DbSnxFhYUrHUtveXanQ=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWntpJu18dViX7pBVyNz51pyA-QBu4EwB--ePFT-5eyUyPojAKlq2fkKC4XRCXbCzpzVU3TvZBaPOmrKHifnsELHaC9lviTAO1soewDfkVw0RhqqbWG6Yh2fV3WTfrwx8HmRDDxc=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlN9MhItDdinvUJxDfyGXbpy_oTK1Z5VEkRjxeUjLGYJQqLl-YVOCYJUsFFpM-wFIKMvbZSCFKmwOvjcJvQC1FiOZWYL7CDrC3_N_ISzhgRXzbAx3UhrV-Hv0YeHoTE5bGornXenHjsjYQm=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGEI_e-QEUmwglyFA8eyrORdUudJX1-tTinBhhMdwl-gyb0w-OC717sJ96XoXpFvIkd4eKXkh83B5K1M8sz1B7xn646DBOyA3ywmTEDU6IQrrsioKPg0JtojQdtm_cQP8_-YJ2=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Frysca Putti Muviana - fryscpm\nLocal Guide · 114 ulasan · 627 foto\n8 bulan lalu\nTempatnya lumayan luas, ada ruang tunggu keluarganya di samping kanan panggung, gedungnya karpet jadi terlihat mewah. Parkirnya ada basement.\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Frysca Putti Muviana - fryscpm\nLocal Guide · 114 ulasan · 627 foto\n8 bulan lalu\nTempatnya lumayan luas, ada ruang tunggu keluarganya di samping kanan panggung, gedungnya karpet jadi terlihat mewah. Parkirnya ada basement.\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Idam Demus\nLocal Guide · 256 ulasan · 2.150 foto\n9 bulan lalu\nBeberapa kali menjadi Qori Akad nikah disini. Lokasi strategis, parkir mobil banyak, hall yang besar, cocok untuk wedding dengan tamu berjumlah besar. … Lainnya\n0:01\n0:03\n0:01\n0:01\n+18\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Idam Demus\nLocal Guide · 256 ulasan · 2.150 foto\n9 bulan lalu\nBeberapa kali menjadi Qori Akad nikah disini. Lokasi strategis, parkir mobil banyak, hall yang besar, cocok untuk wedding dengan tamu berjumlah besar. … Lainnya\n0:01\n0:03\n0:01\n0:01\n+18\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Metha Shinta Dewi\nLocal Guide · 257 ulasan · 674 foto\nsetahun lalu\nPosisinya strategis, akses juga mudah. Begitu keluar, bisa langsung masuk gerbang tol yang tidak jauh dari pintu keluar. Agak tricky karena jalur ramai. Pintu masuk ke area lobby utama juga agak sedikit bikin bingung, karena sebelah nya … Lainnya\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "Toilet",
+      "AC"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:18:32.402053"
+  },
+  {
+    "keyword": "co-working space",
+    "nama": "Co Work Building",
+    "kategori": "Ruang Kerja Bersama",
+    "kategori_list": [],
+    "alamat": "Jl. Panjang No.Kav. 10, RT.11/RW.10, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+    "alamat_lengkap": "Jl. Panjang No.Kav. 10, RT.11/RW.10, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+    "plus_code": "RQ49+Q9 Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1930484,
+    "lng": 106.7684877,
+    "place_id": "11fxc0mfsd",
+    "cid": "0x2e69f71dda97a38f",
+    "url_google_maps": "https://www.google.com/maps/place/Co+Work+Building/@-6.1930484,106.7684877,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f71dda97a38f:0xa5b13c214e7c206a!8m2!3d-6.1930484!4d106.7684877!16s%2Fg%2F11fxc0mfsd?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.0,
+    "jumlah_review": 23,
+    "jam_operasional": {},
+    "jam_operasional_raw": null,
+    "status_buka": null,
+    "popular_times": null,
+    "telepon": "05873167537",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkpy3sVHQIm-_By0iJnwyq-NPNhf1frZTRmyZMioE8bpCDTSKcFwsJlDYMvtyKEkG2wFg8FULHMkyLzSCx3W2HdAb0WMg2NTqE5qW-hA1jTFinfRYdtmTQqnGI32O8TzyKcnGanCA=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkpy3sVHQIm-_By0iJnwyq-NPNhf1frZTRmyZMioE8bpCDTSKcFwsJlDYMvtyKEkG2wFg8FULHMkyLzSCx3W2HdAb0WMg2NTqE5qW-hA1jTFinfRYdtmTQqnGI32O8TzyKcnGanCA=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkpy3sVHQIm-_By0iJnwyq-NPNhf1frZTRmyZMioE8bpCDTSKcFwsJlDYMvtyKEkG2wFg8FULHMkyLzSCx3W2HdAb0WMg2NTqE5qW-hA1jTFinfRYdtmTQqnGI32O8TzyKcnGanCA=w529-h298-k-no",
+      "https://lh3.googleusercontent.com/a/ACg8ocJO9sDlyoTvNGvKpPDXdWnhJ9nHoLy7NRC908Jp86jke49elF0=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXjQHLxvPr50xtr3AyAqImf0Y9ntsP3636EwQ2tTx_thy95dM4b=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a/ACg8ocLwM8TwMol_OfS7_S7pSjEz9KjTyQ4QCUpR-UcEi79DGLMqNg=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkVonbRxMM7_uF12O0UGEAiaqxE7J5BwMhDEvEWFHqF5mOoIcOaJSHbpACaNZoO73mp7E-7X9OjcFWWLu44BZekU8bIkz1h8Z0LPLFYofZxm2deDcodmLkRDxJd0iUztPmsDt0J4labazEr=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvy2SuYD8YOEVpepilUM2RaCbLUvXHTehYqN__SLF5e6fOgsDDtlrw_julDz0IGABDl_tcHAAXuo4Cya3SV3G61DFernAOs3St1OU55IarVCchvDLRxMVQ96g7EQSsw_sklQwKGg=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnpeVNANGrRzXPZrsV3D9iZ5Uc1j1zWtuwOmDwaok95J0Tcf2pF5OabdUtMziaRMW7wee_xbEn-5iKyBQFe4GISzEZjdE2SHzzhzeauE45--wgE98GHfRj2pSipBb2tYSw1UzCI=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk9JRf1VnGcm2fTJ6qRZlFMEikHG3HNGf6k0Hgn9Bd96Cl0nsr2vaOx-t4XL2UbzVdPmzXiTaWgvExqc5poHhvD3eS8Dn3L3aGF9Q1kE0kndZhcF9ihvyBqFGw2d1wKzDR-xooXSA=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "REZA NUR CAHYO KUMOLO\nLocal Guide · 62 ulasan\n7 tahun lalu\nKantornya agak masuk kedalam, seperti gedung warehouse\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "REZA NUR CAHYO KUMOLO\nLocal Guide · 62 ulasan\n7 tahun lalu\nKantornya agak masuk kedalam, seperti gedung warehouse\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Isk Erw\nLocal Guide · 116 ulasan · 108 foto\n8 tahun lalu\nBangunannya tampak seperti bukan bangunan baru\n1\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Isk Erw\nLocal Guide · 116 ulasan · 108 foto\n8 tahun lalu\nBangunannya tampak seperti bukan bangunan baru\n1\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Ghakzz\nLocal Guide · 66 ulasan · 65 foto\n7 tahun lalu\nTempat kece, enak buat kerja dan nongkrong\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:19:11.941844"
+  },
+  {
+    "keyword": "co-working space",
+    "nama": "Social Hub by TwoSpaces",
+    "kategori": "Ruang Kerja Bersama",
+    "kategori_list": [],
+    "alamat": "Jl. Sosial No.52 53, RT.4/RW.2, Wijaya Kusuma, Grogol petamburan, West Jakarta City, Jakarta 11460",
+    "alamat_lengkap": "Jl. Sosial No.52 53, RT.4/RW.2, Wijaya Kusuma, Grogol petamburan, West Jakarta City, Jakarta 11460",
+    "plus_code": "RQPH+R8 Wijaya Kusuma, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1629183,
+    "lng": 106.7782936,
+    "place_id": "11lgr88dlt",
+    "cid": "0x2e69f7d29cd9b283",
+    "url_google_maps": "https://www.google.com/maps/place/Social+Hub+by+TwoSpaces/@-6.1629183,106.7782936,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f7d29cd9b283:0xe56c79d10359a17b!8m2!3d-6.1629183!4d106.7782936!16s%2Fg%2F11lgr88dlt?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.1,
+    "jumlah_review": 301,
+    "jam_operasional": {
+      "Senin": "Buka 24 jam",
+      "Selasa": "Buka 24 jam",
+      "Rabu": "Buka 24 jam",
+      "Kamis": "Buka 24 jam",
+      "Jumat": "Buka 24 jam",
+      "Sabtu": "Buka 24 jam",
+      "Minggu": "Buka 24 jam"
+    },
+    "jam_operasional_raw": "Senin: Buka 24 jam\nSelasa: Buka 24 jam\nRabu: Buka 24 jam\nKamis: Buka 24 jam\nJumat: Buka 24 jam\nSabtu: Buka 24 jam\nMinggu: Buka 24 jam",
+    "status_buka": "Buka 24 jam",
+    "popular_times": null,
+    "telepon": "05873167537",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG27MD_Ux4ugi_iWGxRTsh-hSjCMHsFCmCgtuU5I907uqz2F4qVLo3dAy0R8PYRvbOGAqI0wvo5j4wQjxF3ILun4OiI5mvQgWO2GnNK8KlNcIX93_A191Xmb07VcpJxe4F1PouW2np0vVb00Ee13Dku1DHSGMOmP8DsgWFXRwUo0UySDweQoV8M=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG27MD_Ux4ugi_iWGxRTsh-hSjCMHsFCmCgtuU5I907uqz2F4qVLo3dAy0R8PYRvbOGAqI0wvo5j4wQjxF3ILun4OiI5mvQgWO2GnNK8KlNcIX93_A191Xmb07VcpJxe4F1PouW2np0vVb00Ee13Dku1DHSGMOmP8DsgWFXRwUo0UySDweQoV8M=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn0rQ3xcg6cgHgcXfG0mq1XXZD-6rDYICLo82-Cg8RHvtYD-9MJn1jRhDykhRi8Ls80pBDixp65hEQ7zycb5iQTQW1xWFCBu9de9dWELmcwLnu-ccJ7PDc5ht_GhB9kAtdQpnYo=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZzYHH1XKghIXxSMZz28lPCcGCVso4MvqQoFUCAlukPVIuMMfMXBqKamhskV5V0x-WnTCtCRKXcTNxW5FkdQkJ5cgjJuT_O0F3jARGOdB6Jqr0H8Iida9LG1m92RWUDpXoBl0=w224-h298-k-no-pi-10-ya3.4165974-ro-0-fo100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlo52MjQWOyB5r6T94O3p5jeHIj0-uMswsFfFBFAy0eotsPQnJD4KohZSgDJwykwFprxiiHKCCuyCtVvrH9B75jqD78qf3ijcn_7GpvEWRWY3MCTQrdrc40rJIYdvNEcE6ImqhLfA=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkoOcoqZ7nwNuz-9_pGOvT5Cm8Mn-GgsI4u-p6qGu_y1SS85BV5C6PKYjiy8c7-HjeQm-ZLteJ1TFHV77VaImcrk7XMaL7iB4SXr0Keec7KQpnuvFyqUZzW9UyHRcoeI8T8TUjwGg=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjWglE_5MYKrAU7uBbI6pPUx8UmlZ4rgqqqod6yQztosnUFC9Faa=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a/ACg8ocIq0gn5rsfWrEWpMPQjxSeGCieOeaIMdQrgQ4NoTKoqn4e78A=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVP5rimgaD48q8SboM6wtUSRW690XfXQG-brV_sl_xgdl__LimAIQ=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOMYWBq6dHaii4qyjVm7ci5ZrXLWEZDMCXFf0B87_AqthHayBjnB9wFgwouS7r30LpXX_1zXR3KZD-DFodxzyGsPk5kfg-VxTzKpwyI8I-9faC4KQATIzkQLLbzYVTcnMtOleR=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWloOmop_vwiq4dnbwUjJm5trsSdF8o8YrzKsGHntYMiqrJBhINMF_IV4gFEApHt73q6n8RO5Of1ZEuGFtd7R_LWBvTQ8ScrlfuizmcDcPY1yMXHhYY7IqjUDphOQLySRELnV8kC=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWny9BbtkdpN0L20ZzrvmAyNMSags6oCAPcVTcuwYNAh9a8Pm42cImJIm5NzT5KuWzK5-EbGxQXVxBe5XrV3FZlYoQcKQ9CwLPePM8DbqPoyKW0aq5c4WBilXXfcJStYKJamII4b=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Dimas Wahyu Wibisono\nLocal Guide · 1.411 ulasan · 5.842 foto\n2 bulan lalu\nSocial Hub by TwoSpace, ini merupakan penginapan/hotel yang sangat strategis di Jalan Daan Mogot, Jakarta Barat. Lokasinya dekat dengan berbagai sarana dan fasilitas umum, dari halte Busway Mini market, dan resto. Punya area parkir yang … Lainnya\n+5\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Dimas Wahyu Wibisono\nLocal Guide · 1.411 ulasan · 5.842 foto\n2 bulan lalu\nSocial Hub by TwoSpace, ini merupakan penginapan/hotel yang sangat strategis di Jalan Daan Mogot, Jakarta Barat. Lokasinya dekat dengan berbagai sarana dan fasilitas umum, dari halte Busway Mini market, dan resto. Punya area parkir yang … Lainnya\n+5\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Bismillah\n10 ulasan · 12 foto\n7 bulan lalu\nHotel nya oke buat harga 200k an, pegawai nya ramah, kamar bagus, AC dingin ada tv nya juga, ada kafe nya, sukaaa. Nanti bakal mampir lagi ke sini kalo maen ke jakarta, kamar bersih rapih, suka bgt design nya aesthetic ☺️💅🏻 …\n+3\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Bismillah\n10 ulasan · 12 foto\n7 bulan lalu\nHotel nya oke buat harga 200k an, pegawai nya ramah, kamar bagus, AC dingin ada tv nya juga, ada kafe nya, sukaaa. Nanti bakal mampir lagi ke sini kalo maen ke jakarta, kamar bersih rapih, suka bgt design nya aesthetic ☺️💅🏻 …\n+3\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Novi\nLocal Guide · 194 ulasan · 1.278 foto\nsetahun lalu\nStay disini untuk satu malam transit. Kamarnya lumayan luas tapi ternyata tidak ada kamar yang twin bed padahal di aplikasi pesan yang twinbed. Tempatnya lumayan bersih tapi tidak ada tisu di dalamnya. Kamar mandinya luas tapi kacanya cuma … Lainnya\n0:18\n0:06\n+14\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:19:51.840141"
+  },
+  {
+    "keyword": "co-working space",
+    "nama": "WEST 19 OFFICE SPACE",
+    "kategori": "Ruang Kerja Bersama",
+    "kategori_list": [],
+    "alamat": "Menara Citicon, Jl. Letjen S. Parman No.Kav. 72, RT.4/RW.3, Slipi, Kec. Palmerah, Kota Jakarta Barat, Provinsi DKI Jakarta Barat 11410",
+    "alamat_lengkap": "Menara Citicon, Jl. Letjen S. Parman No.Kav. 72, RT.4/RW.3, Slipi, Kec. Palmerah, Kota Jakarta Barat, Provinsi DKI Jakarta Barat 11410",
+    "plus_code": "RQ4X+X4 Slipi, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1926119,
+    "lng": 106.7978442,
+    "place_id": "11w2_8tgz0",
+    "cid": "0x2e69f70063d00bad",
+    "url_google_maps": "https://www.google.com/maps/place/WEST+19+OFFICE+SPACE/@-6.1926119,106.7978442,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f70063d00bad:0x44c621b9b279b70e!8m2!3d-6.1926119!4d106.7978442!16s%2Fg%2F11w2_8tgz0?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 5.0,
+    "jumlah_review": 50,
+    "jam_operasional": {
+      "Senin": "08.00–17.00",
+      "Selasa": "08.00–17.00",
+      "Rabu": "08.00–17.00",
+      "Kamis": "08.00–17.00",
+      "Jumat": "08.00–17.00",
+      "Sabtu": "Tutup",
+      "Minggu": "Tutup"
+    },
+    "jam_operasional_raw": "Senin: 08.00–17.00\nSelasa: 08.00–17.00\nRabu: 08.00–17.00\nKamis: 08.00–17.00\nJumat: 08.00–17.00\nSabtu: Tutup\nMinggu: Tutup",
+    "status_buka": "Tutup",
+    "popular_times": null,
+    "telepon": "05873167537",
+    "website": "/url?q=https://west19.id/&opi=79508299&sa=U&ved=0ahUKEwja5bKNmsOWAxXJ2TgGHd7wLPEQ61gIEygO&usg=AOvVaw26jFhLFEdf2QSS1YavBr3T",
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvy2SuYD8YOEVpepilUM2RaCbLUvXHTehYqN__SLF5e6fOgsDDtlrw_julDz0IGABDl_tcHAAXuo4Cya3SV3G61DFernAOs3St1OU55IarVCchvDLRxMVQ96g7EQSsw_sklQwKGg=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvy2SuYD8YOEVpepilUM2RaCbLUvXHTehYqN__SLF5e6fOgsDDtlrw_julDz0IGABDl_tcHAAXuo4Cya3SV3G61DFernAOs3St1OU55IarVCchvDLRxMVQ96g7EQSsw_sklQwKGg=w408-h278-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvy2SuYD8YOEVpepilUM2RaCbLUvXHTehYqN__SLF5e6fOgsDDtlrw_julDz0IGABDl_tcHAAXuo4Cya3SV3G61DFernAOs3St1OU55IarVCchvDLRxMVQ96g7EQSsw_sklQwKGg=w436-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmEgXIeSwuWibnfFvrB-FBzEo5StYOMfAJjezuPvHSdweIgJ484mJxcbpZjWhld2QJiVHcMjeUXwHNNCRBLMDwugf3DSVUQ22ftjfjyuy50aOTdTcGWaChUDlBMNk8cIPdyMSqMYsznhbM=w224-h401-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVN64Ufcd5Vo3qAswI-E0ES2xPtVxeo7I1TtLVh7HeAChrQwE5ELA=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a/ACg8ocLox2ke3rO4Sr9pz2I0XPtguAbvFj-LMBRcDJl__eQ3OY1PjQ=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVZ0p23kOWPidl2s6oSmnLmdE93WdMgEKxiOf4xh67hrbK8qXw3=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkpy3sVHQIm-_By0iJnwyq-NPNhf1frZTRmyZMioE8bpCDTSKcFwsJlDYMvtyKEkG2wFg8FULHMkyLzSCx3W2HdAb0WMg2NTqE5qW-hA1jTFinfRYdtmTQqnGI32O8TzyKcnGanCA=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl3FMx8_RFLz2qbRu8eEDdfmsKwaSbRkVN3HIqUZB0iFmBFYREOW1bIAmBnqRvzq1LuJAl4b1D6CWiMv2VjRgpBOFPf0ivPEJa0_7D6x-rY925Gf2dEb7wDgZur2KbxyttIP_89AA=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnaFhW5ZtGh_5wcjZ76YPEaGx_FXSnHRZKGDg98INrjckzrq17pa5CVEn3tBZ-mepo-o248uLM9eUiVHL2biWuj7zOV2AMYonSdsgiGhl8L44bJUXgOvFwbVJ7oqQJ8y8-569w=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Manahan Sinaga\nLocal Guide · 14 ulasan · 24 foto\n6 bulan lalu\nTempat kerja yang nyaman dengan pelayanan yang hangat dari team West19.\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Manahan Sinaga\nLocal Guide · 14 ulasan · 24 foto\n6 bulan lalu\nTempat kerja yang nyaman dengan pelayanan yang hangat dari team West19.\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Veby Senopati Silam\n6 ulasan · 10 foto\nsetahun lalu\nTempatnya luas, bersih dan nyaman, lokasinga strategis di tengah kota jadi samgat rekomended buat tempat meeting bersama teman kantor\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Veby Senopati Silam\n6 ulasan · 10 foto\nsetahun lalu\nTempatnya luas, bersih dan nyaman, lokasinga strategis di tengah kota jadi samgat rekomended buat tempat meeting bersama teman kantor\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "EM-Michelle Sahetapy\nLocal Guide · 22 ulasan · 17 foto\nsetahun lalu\nPertama kali datang langsung disambut hangat. Rapi, bersih dan lengkap sesuai kebutuhan kerja. Design yg simple dengan warna tenang bikin tambah fokus dan nyaman kerja deh.. lokasi strategis mudah di jangkau karena berada di tengah kota dan jalan utama. See u soon again west nineteen\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:20:32.623479"
+  },
+  {
+    "keyword": "co-working space",
+    "nama": "GoWork Central Park - Coworking and Office Space",
+    "kategori": "Ruang Kerja Bersama",
+    "kategori_list": [],
+    "alamat": "Central Park Mall, Jl. Letjen S. Parman No.114 Level LG, Unit L109, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+    "alamat_lengkap": "Central Park Mall, Jl. Letjen S. Parman No.114 Level LG, Unit L109, RT.12/RW.1, Tj. Duren Sel., Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+    "plus_code": "RQCR+GC Tj. Duren Sel., Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1786387,
+    "lng": 106.7911202,
+    "place_id": "11j91hcl51",
+    "cid": "0x2e69f79949e69187",
+    "url_google_maps": "https://www.google.com/maps/place/GoWork+Central+Park+-+Coworking+and+Office+Space/@-6.1786387,106.7911202,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f79949e69187:0x172695cc54bbeec8!8m2!3d-6.1786387!4d106.7911202!16s%2Fg%2F11j91hcl51?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.7,
+    "jumlah_review": 308,
+    "jam_operasional": {
+      "Senin": "10.00–18.00",
+      "Selasa": "10.00–18.00",
+      "Rabu": "10.00–18.00",
+      "Kamis": "10.00–18.00",
+      "Jumat": "10.00–18.00",
+      "Sabtu": "10.00–18.00",
+      "Minggu": "Tutup"
+    },
+    "jam_operasional_raw": "Senin: 10.00–18.00\nSelasa: 10.00–18.00\nRabu: 10.00–18.00\nKamis: 10.00–18.00\nJumat: 10.00–18.00\nSabtu: 10.00–18.00\nMinggu: Tutup",
+    "status_buka": "Tutup",
+    "popular_times": null,
+    "telepon": "021) 50928959",
+    "website": "/url?q=https://go-work.com/&opi=79508299&sa=U&ved=0ahUKEwiLsOugmsOWAxWMz6ACHRpFMMgQ61gIFygS&usg=AOvVaw02x5gKv2MRy6fBz18ac5CR",
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-We-tvf4JNV_nLxzHg68oTwl0-AefzrOyl94Ck_4Lxd6YoKOcIV5csDKJoaX9aIgqwLWlLOX4WQtI93oddGLSNZJEioG4x44-ypkgtxtS9kcmbEpWlsHq8igIfIas1-lHlnudQQ=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-We-tvf4JNV_nLxzHg68oTwl0-AefzrOyl94Ck_4Lxd6YoKOcIV5csDKJoaX9aIgqwLWlLOX4WQtI93oddGLSNZJEioG4x44-ypkgtxtS9kcmbEpWlsHq8igIfIas1-lHlnudQQ=w427-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-We-tvf4JNV_nLxzHg68oTwl0-AefzrOyl94Ck_4Lxd6YoKOcIV5csDKJoaX9aIgqwLWlLOX4WQtI93oddGLSNZJEioG4x44-ypkgtxtS9kcmbEpWlsHq8igIfIas1-lHlnudQQ=w530-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmbj2yIOWtUdWgkTIe62MRiQBcGcHfezi7VehyW2FFeMgRsBSUeJ3vF8tbMXaW_lfQuueCPT-bG88e3pknLYcJPIlldxGxtT6Wlno7oioCPXJpG3JN2xVF0_t4dPJ5iu5yyzxIGPA=w447-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnhTZQpZihZNqoRmb2MwnlknCHnBFiL2qOzxkLbCWR7JSdhsmwuBRyzGh61viwiMnHgiumQPauuYZwUNPNOzIE2CxSnvH-0j4GFcCX7oforNyk7LyQL6u60hOO7RcpiNl_s4g=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/a/ACg8ocJ0LSBUAevOyFiP5WtL9OsqrNu4eC7SLLssfYrL44H1unHgKA=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjUUTUE8-3a2UJs6bcd1G6JXRn8CRvBeJlEf15v5qhR3bHpAs-fE=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXmsRyHAD9oQ5o0_ZqKEx7jecEYxMv4fQU3M3QK2gmPIGjR8wV5gw=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWloOmop_vwiq4dnbwUjJm5trsSdF8o8YrzKsGHntYMiqrJBhINMF_IV4gFEApHt73q6n8RO5Of1ZEuGFtd7R_LWBvTQ8ScrlfuizmcDcPY1yMXHhYY7IqjUDphOQLySRELnV8kC=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnt-z-D5FGdQOlQg1g7uC6BG2BzTElMfuPHAcCUllkIU9Yf3c92sl9sV_quFHTSGJ4EWZo9gAagxD_WAnshcPDSaIujVOhZ6jgklVzqPdDfXlai2SvuEjlfleYBnRYGoUILPn4Z=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmoyPFWhQ2GUW8rTnCv97CCcl1kxX5XIgh30SCvUtMlFuWunCbn9iUp4woHHnNoZfNiDQiEv0dTgErZ7G_FWHVWRnoCOuVbxKx-tcL-dEa5UYbwDtwyd87JNfamfu-unk9SJWY=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Andris cool\n6 ulasan · 7 foto\nsebulan lalu\nHari ini saya ketemu dengan seorang kakek mungkin WNA korea, setelah melihat review customer sebelumnya bahwa kakek ini nonton youtube bawa laptop tapi pakai loudspeaker, tidak memakai headseat sama sekali, brisik sekali, saya tidak bisa … Lainnya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Andris cool\n6 ulasan · 7 foto\nsebulan lalu\nHari ini saya ketemu dengan seorang kakek mungkin WNA korea, setelah melihat review customer sebelumnya bahwa kakek ini nonton youtube bawa laptop tapi pakai loudspeaker, tidak memakai headseat sama sekali, brisik sekali, saya tidak bisa … Lainnya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Raden Diky Dermawan\nLocal Guide · 865 ulasan · 4.541 foto\nsetahun lalu\nCoWorking space yang enak dan nyaman. Selain office space dengan bilik, ada open space yang sangat luas dan variatif. … Lainnya\nSuka\nBagikan\nTanggapan dari pemilik setahun lalu\nTerima kasih telah meluangkan waktu untuk berbagi cerita! Kami sangat senang mengetahui Anda merasa puas dengan pengalaman di ruang kerja kami. Masukan Anda sangat berarti bagi kami dalam menciptakan layanan dan lingkungan kerja yang … Lainnya",
+        "rating": null
+      },
+      {
+        "text": "Raden Diky Dermawan\nLocal Guide · 865 ulasan · 4.541 foto\nsetahun lalu\nCoWorking space yang enak dan nyaman. Selain office space dengan bilik, ada open space yang sangat luas dan variatif. … Lainnya\nSuka\nBagikan\nTanggapan dari pemilik setahun lalu\nTerima kasih telah meluangkan waktu untuk berbagi cerita! Kami sangat senang mengetahui Anda merasa puas dengan pengalaman di ruang kerja kami. Masukan Anda sangat berarti bagi kami dalam menciptakan layanan dan lingkungan kerja yang … Lainnya",
+        "rating": null
+      },
+      {
+        "text": "Josephine Angela\nLocal Guide · 73 ulasan · 267 foto\n4 tahun lalu\nLumayan besar tempatnya, ada kursi yang lucu juga, wifinya juga kenceng, terdapat ruangan untuk meeting juga yang kedap suara, menurutku acnya lumayan dingin,\nbisa refill air minum juga di pantrynya, … Lainnya\n2\nBagikan\nTanggapan dari pemilik 4 tahun lalu\nHai Josephine,\nTerima kasih atas ulasan & penilaian Anda! … Lainnya\nDiterjemahkan oleh Google ・ Lihat versi asli (Inggris)",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:21:12.281340"
+  },
+  {
+    "keyword": "co-working space",
+    "nama": "Twospaces Intercon - Coworking Space",
+    "kategori": "Ruang Kerja Bersama",
+    "kategori_list": [],
+    "alamat": "Jl. Perumahan Intercon Kb. Jeruk No.16, RT.5/RW.8, Srengseng, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11630",
+    "alamat_lengkap": "Jl. Perumahan Intercon Kb. Jeruk No.16, RT.5/RW.8, Srengseng, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11630",
+    "plus_code": "RP2X+W7 Srengseng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1976906,
+    "lng": 106.7481394,
+    "place_id": "11rwq19w8q",
+    "cid": "0x2e69f76509a2bcb5",
+    "url_google_maps": "https://www.google.com/maps/place/Twospaces+Intercon+-+Coworking+Space/@-6.1976906,106.7481394,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f76509a2bcb5:0xbcf77c1af76184f6!8m2!3d-6.1976906!4d106.7481394!16s%2Fg%2F11rwq19w8q?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.8,
+    "jumlah_review": 63,
+    "jam_operasional": {
+      "Senin": "08.00–18.00",
+      "Selasa": "08.00–18.00",
+      "Rabu": "08.00–18.00",
+      "Kamis": "08.00–18.00",
+      "Jumat": "08.00–18.00",
+      "Sabtu": "08.00–18.00",
+      "Minggu": "Tutup"
+    },
+    "jam_operasional_raw": "Senin: 08.00–18.00\nSelasa: 08.00–18.00\nRabu: 08.00–18.00\nKamis: 08.00–18.00\nJumat: 08.00–18.00\nSabtu: 08.00–18.00\nMinggu: Tutup",
+    "status_buka": "Tutup",
+    "popular_times": null,
+    "telepon": "0878-8000-1256",
+    "website": "/url?q=https://twospaces.id/property/kebon-jeruk-intercon&opi=79508299&sa=U&ved=0ahUKEwiq2uGzmsOWAxX1zjgGHULALo4Q61gIFygS&usg=AOvVaw1kjajAPs3bINzRnzkBLY1c",
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOiI2CaUOVzLpoGDswthtA1yFn4y1JRuTv0eKGaXkg51JN92Pie3y8UJhYuq1bnn6DEGMwAsCTs6kaTYqADYPn2xF7rQ7qEYjgaQT9y_sTTLrVxQ0sMxGZpapHgpp822PjNkF3sA=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOiI2CaUOVzLpoGDswthtA1yFn4y1JRuTv0eKGaXkg51JN92Pie3y8UJhYuq1bnn6DEGMwAsCTs6kaTYqADYPn2xF7rQ7qEYjgaQT9y_sTTLrVxQ0sMxGZpapHgpp822PjNkF3sA=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOiI2CaUOVzLpoGDswthtA1yFn4y1JRuTv0eKGaXkg51JN92Pie3y8UJhYuq1bnn6DEGMwAsCTs6kaTYqADYPn2xF7rQ7qEYjgaQT9y_sTTLrVxQ0sMxGZpapHgpp822PjNkF3sA=w446-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmbmuBWvwxWxp0xpwKreSvS7w0IyqCet2CQLKoLpkHEtzVr0lcrlo-cGliU7KwuQLeXxOBOPMZS94wuQXFJeT-kN7qv9oozueHTJLgIJF8h_vwxcsUd5fGj6A_-5vMxdDe5AcCq=w446-h298-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjX2OmKJvpG09E9IKIPwmMzQH6L47K-s3m3JTuvxAn13HFVTI3O2HQ=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a/ACg8ocIn1G0pFJB7D1kUU2ocf2tixpQ2kdyCRW1MqbPn44KYYKexPw=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjU2FoapGg1OTGrSYus4T4rCYYZobBYNfu4sQHgc10CQVcfOnjsO=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/proxy/CYT6jz4kxasx5-iySXXR2wY88hH64Zkse8YY0jsq2FWe76v07dOetDjdh68x9YdZ_R-gqnamIWMOFtJfThddQ1gggRMIl6Mo_D2hVCY2QgIOppw1iOHY55Ka6S1i5t-5h3gQOySGcxWRzwhzLT5AN5Ag0mE3FA=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWny9BbtkdpN0L20ZzrvmAyNMSags6oCAPcVTcuwYNAh9a8Pm42cImJIm5NzT5KuWzK5-EbGxQXVxBe5XrV3FZlYoQcKQ9CwLPePM8DbqPoyKW0aq5c4WBilXXfcJStYKJamII4b=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmAJ1TV1zU9V4N1oHE5-bWGkxZmEnIcb78-uTMQuaot9fqumH2CVIfb8vWXnvVdFZLYh7NH1dxWvBop3Ua0PxAJfQV72vphk8Iql1ARZqz0cVkMPbzkomH4BPGnzeu28zYjWEs=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnpeVNANGrRzXPZrsV3D9iZ5Uc1j1zWtuwOmDwaok95J0Tcf2pF5OabdUtMziaRMW7wee_xbEn-5iKyBQFe4GISzEZjdE2SHzzhzeauE45--wgE98GHfRj2pSipBb2tYSw1UzCI=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Muhammad Wildan\nLocal Guide · 352 ulasan · 1.058 foto\n3 tahun lalu\nCo Working place ini seingat saya ada 3 tipe ruangan:\n1. Private (full booked, kalo ga salah 120rb/hari) … Lainnya\n+3\n1\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Muhammad Wildan\nLocal Guide · 352 ulasan · 1.058 foto\n3 tahun lalu\nCo Working place ini seingat saya ada 3 tipe ruangan:\n1. Private (full booked, kalo ga salah 120rb/hari) … Lainnya\n+3\n1\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Datam Afgan\nLocal Guide · 27 ulasan · 2 foto\n2 bulan lalu\nIni niat jualan apa ga sih saya nunggu di depan kepanasan ga ada respon\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Datam Afgan\nLocal Guide · 27 ulasan · 2 foto\n2 bulan lalu\nIni niat jualan apa ga sih saya nunggu di depan kepanasan ga ada respon\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Ariana Susilo\nLocal Guide · 124 ulasan · 155 foto\nDiedit 2 tahun lalu\nNice, clean place for working if u happen to be in the area. Mungkin masih harga promo? 20k untuk 5 jam\n1\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "Toilet",
+      "AC"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:21:51.822258"
+  },
+  {
+    "keyword": "co-working space",
+    "nama": "REQ space",
+    "kategori": "Ruang Kerja Bersama",
+    "kategori_list": [],
+    "alamat": "Jl. Raya Pos Pengumben No.12A, RT.4/RW.5, Sukabumi Sel., Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11560",
+    "alamat_lengkap": "Jl. Raya Pos Pengumben No.12A, RT.4/RW.5, Sukabumi Sel., Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11560",
+    "plus_code": "QQM8+6M Sukabumi Sel., Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.2169729,
+    "lng": 106.7666253,
+    "place_id": "11hz2dw_mj",
+    "cid": "0x2e69f71fa3ce4c15",
+    "url_google_maps": "https://www.google.com/maps/place/REQ+space/@-6.2169729,106.7666253,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f71fa3ce4c15:0xcc516cea4324fe6f!8m2!3d-6.2169729!4d106.7666253!16s%2Fg%2F11hz2dw_mj?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.9,
+    "jumlah_review": 125,
+    "jam_operasional": {
+      "Senin": "08.00–22.00",
+      "Selasa": "08.00–22.00",
+      "Rabu": "08.00–22.00",
+      "Kamis": "08.00–22.00",
+      "Jumat": "08.00–22.00",
+      "Sabtu": "08.00–16.00",
+      "Minggu": "Tutup"
+    },
+    "jam_operasional_raw": "Senin: 08.00–22.00\nSelasa: 08.00–22.00\nRabu: 08.00–22.00\nKamis: 08.00–22.00\nJumat: 08.00–22.00\nSabtu: 08.00–16.00\nMinggu: Tutup",
+    "status_buka": "Tutup",
+    "popular_times": null,
+    "telepon": "021) 5349000",
+    "website": "/url?q=http://www.reqspace.id/&opi=79508299&sa=U&ved=0ahUKEwi_3M3GmsOWAxXKZSoJHdJ1AH0Q61gIFygS&usg=AOvVaw1MtQLtApNRGz96oRkonFkf",
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmAJ1TV1zU9V4N1oHE5-bWGkxZmEnIcb78-uTMQuaot9fqumH2CVIfb8vWXnvVdFZLYh7NH1dxWvBop3Ua0PxAJfQV72vphk8Iql1ARZqz0cVkMPbzkomH4BPGnzeu28zYjWEs=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmAJ1TV1zU9V4N1oHE5-bWGkxZmEnIcb78-uTMQuaot9fqumH2CVIfb8vWXnvVdFZLYh7NH1dxWvBop3Ua0PxAJfQV72vphk8Iql1ARZqz0cVkMPbzkomH4BPGnzeu28zYjWEs=w408-h725-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmAJ1TV1zU9V4N1oHE5-bWGkxZmEnIcb78-uTMQuaot9fqumH2CVIfb8vWXnvVdFZLYh7NH1dxWvBop3Ua0PxAJfQV72vphk8Iql1ARZqz0cVkMPbzkomH4BPGnzeu28zYjWEs=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWntARu1qpW8aXv7tewgxIZftJUPJwMDPFpSWVGBvkBZEmvuWzOdd7hCJaoXC2IeG5KRVOHNzh2Qoxps00rfm-K1I61l9q3oC0X9f7gev8lbgUjMNfT3wP-MAj2TOiQJM4RlBSRDzi86bQQ=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGAmi6u17pYBnTU64nD658RA_pphqmXf9cfuN9213DUQhasO6HbkVzpKXcpFagyoBBRsa1MJuKpnCHo2g7zrjwG5aZ9oGQnbEhZZbHmGRORP5v7A0hVNXMYdADC9WEwA2McdqJBkMOhN54=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjX2OmKJvpG09E9IKIPwmMzQH6L47K-s3m3JTuvxAn13HFVTI3O2HQ=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjWSDXYo_KfDciqi4uG9GIim18DWr-2u1_j7n9ZF2BV8lQt3PlTO=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a/ACg8ocJWKkyan_PUA8YI2MdEkW2EvynVHMm2YO409_zOAkeAGID5JA=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkVonbRxMM7_uF12O0UGEAiaqxE7J5BwMhDEvEWFHqF5mOoIcOaJSHbpACaNZoO73mp7E-7X9OjcFWWLu44BZekU8bIkz1h8Z0LPLFYofZxm2deDcodmLkRDxJd0iUztPmsDt0J4labazEr=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOiI2CaUOVzLpoGDswthtA1yFn4y1JRuTv0eKGaXkg51JN92Pie3y8UJhYuq1bnn6DEGMwAsCTs6kaTYqADYPn2xF7rQ7qEYjgaQT9y_sTTLrVxQ0sMxGZpapHgpp822PjNkF3sA=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnpdLbM0crCjtTa8boIsv4kG7sxuLnmVkI5we7GJF8H4pPoQ-RvKo1oYnfrw7c5PpuqYLMw_ze_fmlKyPRKN4mUZsqsHSYOd3ua8Nrc5ShI2P4MM7g-IlAk6VgntZyXvesTyZap=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlBNZm6Pgjnyvor-0p1uqMl7CXsoMoQOzE7Ns8v79BZDlPR4OzNxLr7xgDfVWrGn_-2z-5SiXbtAm09JS90_IfYPyW625FiDAHzZ57moRwYhk9hcuOcXc8C3sx2kOsSZ5M-Yy4CBIN6zACC=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Muhammad Wildan\nLocal Guide · 352 ulasan · 1.058 foto\nsetahun lalu\nTempatnya nyaman, ga terlalu ramai, jadinya bisa fokus kerja. Mushollanya juga nyaman, adem.\nDisediakan kopi dan teh gratis. … Lainnya\n+5\n2\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Muhammad Wildan\nLocal Guide · 352 ulasan · 1.058 foto\nsetahun lalu\nTempatnya nyaman, ga terlalu ramai, jadinya bisa fokus kerja. Mushollanya juga nyaman, adem.\nDisediakan kopi dan teh gratis. … Lainnya\n+5\n2\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Restu Ahnaf Sofian\n7 ulasan · 2 foto\nDiedit 6 bulan lalu\nTempat ini sangat nyaman, terutama karena ada lift yang memudahkan akses ke lantai atas. Suasana kerja yang mendukung\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Restu Ahnaf Sofian\n7 ulasan · 2 foto\nDiedit 6 bulan lalu\nTempat ini sangat nyaman, terutama karena ada lift yang memudahkan akses ke lantai atas. Suasana kerja yang mendukung\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Farel Muhammad\n2 ulasan\n6 bulan lalu\nTempat nya bagus nya cocok buat bikin tugas kuliah/tugas kantor ada Mushola nya juga di ruftop free kopi dan teh cocok deh pokonya\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC",
+      "Musholla"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:22:31.551278"
+  },
+  {
+    "keyword": "co-working space",
+    "nama": "TwoSpaces Meruya - Coworking Space",
+    "kategori": "Ruang Kerja Bersama",
+    "kategori_list": [],
+    "alamat": "Komplex Perkantoran Taman Meruya, Jl. Batu Mulia M No.73 6, RT.6/RW.7, Meruya Utara, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11620",
+    "alamat_lengkap": "Komplex Perkantoran Taman Meruya, Jl. Batu Mulia M No.73 6, RT.6/RW.7, Meruya Utara, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11620",
+    "plus_code": "RP4R+X2 Meruya Utara, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1926026,
+    "lng": 106.740088,
+    "place_id": "11h4dykbj2",
+    "cid": "0x2e69f7cada6f0643",
+    "url_google_maps": "https://www.google.com/maps/place/TwoSpaces+Meruya+-+Coworking+Space/@-6.1926026,106.740088,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f7cada6f0643:0x77c6a652157eabb3!8m2!3d-6.1926026!4d106.740088!16s%2Fg%2F11h4dykbj2?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.8,
+    "jumlah_review": 85,
+    "jam_operasional": {
+      "Senin": "08.00–18.00",
+      "Selasa": "08.00–18.00",
+      "Rabu": "08.00–18.00",
+      "Kamis": "08.00–18.00",
+      "Jumat": "08.00–18.00",
+      "Sabtu": "08.00–18.00",
+      "Minggu": "Tutup"
+    },
+    "jam_operasional_raw": "Senin: 08.00–18.00\nSelasa: 08.00–18.00\nRabu: 08.00–18.00\nKamis: 08.00–18.00\nJumat: 08.00–18.00\nSabtu: 08.00–18.00\nMinggu: Tutup",
+    "status_buka": "Tutup",
+    "popular_times": null,
+    "telepon": "0878-8000-126",
+    "website": "/url?q=http://twospacesgroup.com/&opi=79508299&sa=U&ved=0ahUKEwjhpsbZmsOWAxWayDgGHRg-BFkQ61gIFygS&usg=AOvVaw1r6X9-4iZLaoYaDARzr9SM",
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOMYWBq6dHaii4qyjVm7ci5ZrXLWEZDMCXFf0B87_AqthHayBjnB9wFgwouS7r30LpXX_1zXR3KZD-DFodxzyGsPk5kfg-VxTzKpwyI8I-9faC4KQATIzkQLLbzYVTcnMtOleR=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOMYWBq6dHaii4qyjVm7ci5ZrXLWEZDMCXFf0B87_AqthHayBjnB9wFgwouS7r30LpXX_1zXR3KZD-DFodxzyGsPk5kfg-VxTzKpwyI8I-9faC4KQATIzkQLLbzYVTcnMtOleR=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOMYWBq6dHaii4qyjVm7ci5ZrXLWEZDMCXFf0B87_AqthHayBjnB9wFgwouS7r30LpXX_1zXR3KZD-DFodxzyGsPk5kfg-VxTzKpwyI8I-9faC4KQATIzkQLLbzYVTcnMtOleR=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjWQ8VKhOsfGktjNzH-x1gOlsZOAm9INhnWB2rQEyO4CXEvC8hF9=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a/ACg8ocKDzCok3D7iH3wlpAEE5YI2LQHrFOkeM6i4whdcAYymsUVeLg=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVg89XIke9JfLIi7X8HDfLmTpiGiro42IfxZtA6hKBMEdnOsLZL=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnpeVNANGrRzXPZrsV3D9iZ5Uc1j1zWtuwOmDwaok95J0Tcf2pF5OabdUtMziaRMW7wee_xbEn-5iKyBQFe4GISzEZjdE2SHzzhzeauE45--wgE98GHfRj2pSipBb2tYSw1UzCI=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/proxy/CYT6jz4kxasx5-iySXXR2wY88hH64Zkse8YY0jsq2FWe76v07dOetDjdh68x9YdZ_R-gqnamIWMOFtJfThddQ1gggRMIl6Mo_D2hVCY2QgIOppw1iOHY55Ka6S1i5t-5h3gQOySGcxWRzwhzLT5AN5Ag0mE3FA=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWny9BbtkdpN0L20ZzrvmAyNMSags6oCAPcVTcuwYNAh9a8Pm42cImJIm5NzT5KuWzK5-EbGxQXVxBe5XrV3FZlYoQcKQ9CwLPePM8DbqPoyKW0aq5c4WBilXXfcJStYKJamII4b=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Sonia Limous\nLocal Guide · 49 ulasan · 38 foto\n4 tahun lalu\nCoworking yang affordable banget dan nyaman. Cuma sayang cukup kecil ruangannya untuk yang daily pass hot desk dan deket dengan kasir yang nyalain lagu, agak terganggu kalau lagi meeting … Lainnya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Sonia Limous\nLocal Guide · 49 ulasan · 38 foto\n4 tahun lalu\nCoworking yang affordable banget dan nyaman. Cuma sayang cukup kecil ruangannya untuk yang daily pass hot desk dan deket dengan kasir yang nyalain lagu, agak terganggu kalau lagi meeting … Lainnya\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Ssproject work\n2 ulasan · 1 foto\n4 tahun lalu\nTempatnya cozy banget. Nyaman gak bising karna dia ada diarea perkantoran. Harga kopinya pun bersahabat, Almost all of them are really good 😍 …\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Ssproject work\n2 ulasan · 1 foto\n4 tahun lalu\nTempatnya cozy banget. Nyaman gak bising karna dia ada diarea perkantoran. Harga kopinya pun bersahabat, Almost all of them are really good 😍 …\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Dio Febritama\n1 ulasan · 1 foto\n11 bulan lalu\nInternet yang disediaiin buat coworking space ga bisa diharapkan buat kerja online.\nSelain speednya lambat, kapasitas yg dikasih cuma buat 5 devices aja. Speed internetnya 5 Mbps dan shared 🫠. …\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC"
+    ],
+    "attributes": {
+      "wilayah_search": "Jakarta Barat"
+    },
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T18:23:10.926397"
+  }
+]

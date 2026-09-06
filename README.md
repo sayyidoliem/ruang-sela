@@ -1,15 +1,15 @@
 <div align="center">
   
   # RuangSela 
-  ### [Tagline Singkat dan Menarik]
-  
+  ### Temukan Ruang, Wujudkan Kegiatan.
+
   [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-success?style=for-the-badge)](https://[URL_DEMO])
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sayyidoliem/ruang-sela)
   [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
   
   **Submission for ITECHNO CUP 2026 - Web Development**
   
-  **By kita ikut lomba ITechnoCup soalnya lagi gabut aja sih**
+  **Dibuat untuk mengikuti ITECHNO CUP 2026 sekaligus mengembangkan solusi digital yang dapat membantu masyarakat menemukan dan memanfaatkan ruang secara lebih optimal.**
   
 </div>
 
@@ -33,11 +33,11 @@
 
 ## 👥 Tim Developer
 
-| Nama                 | Peran                               | GitHub                                       |
-| -------------------- | ----------------------------------- | -------------------------------------------- |
-| **Sayyid Muhammad Muslim As'ad Sunarko** | Project Lead & Front-end Developer | [GitHub](https://github.com/[username1])     |
-| **Michael Kristianto** | Back-end Developer                  | [GitHub](https://github.com/emkax)     |
-| **Muhammad Ryan Apriansyah** | UI/UX Designer & Front-end Developer                   | [GitHub](https://github.com/ryanocks)     |
+| Nama | Peran | GitHub |
+| ---- | ----- | ------ |
+| **Sayyid Muhammad Muslim As'ad Sunarko** | Project Lead & Front-end Developer | [GitHub](https://github.com/sayyidoliem) |
+| **Michael Kristianto** | Back-end Developer | [GitHub](https://github.com/emkax) |
+| **Muhammad Ryan Apriansyah** | UI/UX Designer & Front-end Developer | [GitHub](https://github.com/ryanocks) |
 
 ---
 
@@ -45,17 +45,44 @@
 
 ### Latar Belakang
 
-[Jelaskan konteks permasalahan yang ingin diselesaikan. Gunakan data atau fakta untuk memperkuat argumen. Contoh: "Berdasarkan survei X, 70% pengguna mengalami kesulitan dalam..."]
+Jakarta merupakan kota dengan aktivitas masyarakat dan komunitas yang sangat beragam, mulai dari kegiatan sosial, pendidikan, kreatif, hingga organisasi. Namun, kebutuhan terhadap ruang yang dapat digunakan untuk berbagai aktivitas tersebut masih menjadi tantangan.
+
+Dinas Perpustakaan dan Kearsipan Provinsi DKI Jakarta menyoroti minimnya ruang publik yang dapat digunakan secara bebas di Jakarta. Ruang publik memiliki peran penting dalam mendukung masyarakat untuk belajar, berkarya, berkolaborasi, serta menjalankan berbagai aktivitas komunitas.
+
+Di sisi lain, persoalan tidak hanya berkaitan dengan jumlah ruang, tetapi juga bagaimana ruang yang tersedia dapat dimanfaatkan secara optimal. Penelitian mengenai taman kota di Jakarta menunjukkan bahwa hanya sebagian kecil taman kota yang dimanfaatkan masyarakat sebagai wadah kegiatan kreatif, sementara sebagian lainnya lebih banyak digunakan untuk aktivitas rekreasi dan berkumpul.
+
+Pemerintah Provinsi DKI Jakarta juga terus mendorong pengembangan dan optimalisasi ruang publik. Luas Ruang Terbuka Hijau (RTH) Jakarta masih berada di sekitar 5,2% dari luas wilayah Jakarta, sementara pemerintah menargetkan peningkatan proporsi RTH hingga 30% pada tahun 2030.
+
+Permasalahan tersebut juga berkaitan dengan visibilitas dan akses informasi mengenai tempat yang tersedia. Masyarakat atau komunitas dapat memiliki kebutuhan terhadap ruang untuk berkegiatan, sementara di sisi lain terdapat berbagai tempat dengan fasilitas dan kapasitas yang berpotensi dimanfaatkan. Namun, informasi mengenai lokasi, fasilitas, kapasitas, harga, ketersediaan jadwal, dan mekanisme pengajuan tempat belum tentu mudah ditemukan dalam satu platform.
 
 ### Solusi yang Ditawarkan
 
-[Jelaskan bagaimana aplikasi ini menyelesaikan masalah tersebut dengan pendekatan yang unik atau inovatif]
+**RuangSela** merupakan platform digital yang membantu masyarakat dan komunitas menemukan serta mengajukan penggunaan tempat sesuai dengan kebutuhan kegiatan mereka.
+
+Platform ini menyediakan informasi mengenai:
+
+- 📍 Lokasi tempat
+- 👥 Kapasitas
+- 🏢 Fasilitas
+- 💰 Harga
+- 📅 Ketersediaan jadwal
+- ⭐ Rating dan ulasan
+- 📞 Informasi kontak tempat
+- 📝 Mekanisme pengajuan penggunaan tempat
+
+Bagi pengguna, RuangSela mempermudah proses pencarian dan pengajuan tempat tanpa harus mencari informasi dari berbagai sumber secara terpisah.
+
+Sementara bagi pengelola tempat, RuangSela membantu meningkatkan visibilitas tempat yang mereka miliki sehingga lebih mudah ditemukan oleh calon pengguna.
+
+Dengan mempertemukan kebutuhan pengguna dengan tempat yang tersedia, RuangSela bertujuan menciptakan ekosistem pemanfaatan ruang yang lebih mudah diakses, informatif, dan efisien.
 
 ### Tujuan Proyek
 
-- 🎯 **Tujuan Utama**: [Tujuan primer aplikasi]
-- 📊 **Target Pengguna**: [Siapa yang akan menggunakan aplikasi ini]
-- 💡 **Value Proposition**: [Apa yang membuat aplikasi ini berbeda dari solusi lain]
+- 🎯 **Tujuan Utama**: Mempermudah masyarakat dan komunitas dalam menemukan serta mengajukan penggunaan ruang yang sesuai dengan kebutuhan kegiatan mereka.
+
+- 📊 **Target Pengguna**: Masyarakat, mahasiswa, komunitas, organisasi, penyelenggara kegiatan, serta pengelola tempat di wilayah Jakarta.
+
+- 💡 **Value Proposition**: Menyatukan proses pencarian, eksplorasi informasi, pengecekan ketersediaan, dan pengajuan tempat dalam satu platform sehingga ruang yang tersedia menjadi lebih mudah ditemukan dan dimanfaatkan.
 
 ---
 
@@ -63,19 +90,27 @@
 
 ### Fitur Utama
 
-| Fitur              | Deskripsi                 | Keunggulan                       |
-| ------------------ | ------------------------- | -------------------------------- |
-| **[Nama Fitur 1]** | [Deskripsi singkat fitur] | [Mengapa fitur ini penting/unik] |
-| **[Nama Fitur 2]** | [Deskripsi singkat fitur] | [Mengapa fitur ini penting/unik] |
-| **[Nama Fitur 3]** | [Deskripsi singkat fitur] | [Mengapa fitur ini penting/unik] |
-| **[Nama Fitur 4]** | [Deskripsi singkat fitur] | [Mengapa fitur ini penting/unik] |
+| Fitur | Deskripsi | Keunggulan |
+| ----- | --------- | ---------- |
+| **Pencarian Tempat** | Pengguna dapat mencari tempat berdasarkan kebutuhan kegiatan dan informasi tempat. | Mempercepat proses menemukan ruang yang sesuai. |
+| **Detail Tempat** | Menampilkan informasi lengkap mengenai tempat, seperti foto, lokasi, kapasitas, fasilitas, harga, jam operasional, dan informasi kontak. | Pengguna dapat memahami kondisi tempat sebelum mengajukan penggunaan. |
+| **Jadwal Ketersediaan** | Menampilkan jadwal dan slot waktu yang tersedia pada suatu tempat. | Membantu pengguna mengetahui waktu yang dapat digunakan sebelum melakukan pengajuan. |
+| **Pengajuan Tempat** | Pengguna dapat mengajukan penggunaan tempat sesuai tanggal, waktu, dan kebutuhan kegiatan. | Membuat proses pengajuan menjadi lebih terstruktur dan praktis. |
+| **Ulasan & Rating** | Pengguna dapat melihat pengalaman pengguna lain melalui rating dan ulasan. | Membantu pengguna mempertimbangkan kualitas tempat sebelum memilih. |
+| **Peta & Lokasi** | Menampilkan lokasi tempat dan informasi akses. | Memudahkan pengguna memahami lokasi dan akses menuju tempat. |
+| **Manajemen Tempat** | Pengelola dapat mengelola informasi tempat yang mereka daftarkan. | Membantu pengelola menjaga informasi tempat tetap relevan dan mudah ditemukan. |
+| **Dashboard Admin** | Admin dapat memantau pengguna, tempat, pengajuan, pendapatan, serta aktivitas platform. | Mempermudah pengelolaan dan pengawasan platform. |
 
 ### Fitur Tambahan
 
-- **[Fitur A]** - [Penjelasan singkat]
-- **[Fitur B]** - [Penjelasan singkat]
-- **[Fitur C]** - [Penjelasan singkat]
-- **[Fitur D]** - [Penjelasan singkat]
+- **Rekomendasi Tempat** - Menampilkan tempat yang dapat menjadi pilihan berdasarkan kebutuhan pengguna.
+- **Trending Places** - Menampilkan tempat yang sedang banyak dilihat atau diminati.
+- **Filter Tempat** - Membantu pengguna mempersempit hasil pencarian berdasarkan kategori dan karakteristik tempat.
+- **Status Pengajuan** - Pengguna dapat melihat perkembangan pengajuan mulai dari menunggu hingga selesai.
+- **Verifikasi Tempat** - Admin dapat melakukan proses verifikasi terhadap tempat yang didaftarkan oleh pengelola.
+- **Verifikasi Pengguna** - Admin dapat memantau dan mengelola status pengguna.
+- **Riwayat Pengajuan** - Pengguna dapat melihat seluruh riwayat pengajuan tempat yang pernah dilakukan.
+- **Manajemen Fasilitas** - Informasi fasilitas ditampilkan berdasarkan fasilitas yang benar-benar tersedia pada masing-masing tempat.
 
 ---
 
@@ -85,22 +120,27 @@
 
 🔗 **[Kunjungi Website](https://[URL_DEMO])**
 
+> URL demo akan ditambahkan setelah deployment aplikasi tersedia.
+
 ### Screenshot Aplikasi
 
-<div align="center">
-  <img src="[URL_SCREENSHOT_1]" alt="Homepage" width="800"/>
-  <p><em>Homepage - Tampilan utama aplikasi</em></p>
-  
-  <img src="[URL_SCREENSHOT_2]" alt="Dashboard" width="800"/>
-  <p><em>Dashboard - Panel kontrol pengguna</em></p>
-  
-  <img src="[URL_SCREENSHOT_3]" alt="Feature" width="800"/>
-  <p><em>[Nama Fitur] - [Deskripsi screenshot]</em></p>
-</div>
+Screenshot aplikasi dapat ditambahkan setelah seluruh halaman utama selesai dan deployment tersedia.
+
+Contoh halaman yang dapat ditampilkan:
+
+- Homepage
+- Halaman pencarian tempat
+- Detail tempat
+- Halaman Pengajuan Saya
+- Dashboard Admin
+- Halaman Verifikasi Tempat
+- Halaman Verifikasi User
 
 ### Video Demo
 
-📹 **[Link Video Demo](https://[URL_VIDEO])** _(opsional)_
+📹 **[Link Video Demo](https://[URL_VIDEO])**
+
+> Link video demo akan ditambahkan setelah video demonstrasi aplikasi tersedia.
 
 ---
 
@@ -110,50 +150,91 @@
 
 #### Frontend
 
-```
-Framework    : [React / Next.js / Vue / dll]
-UI Library   : [Tailwind CSS / Material-UI / Chakra UI / dll]
-State Mgmt   : [Redux / Zustand / Context API / dll]
-Validation   : [Zod / Yup / React Hook Form / dll]
-```
+```text
+Framework    : Next.js
+Language     : TypeScript
+Styling      : Tailwind CSS
+UI           : Custom React Components
+Routing      : Next.js App Router
 
 #### Backend
 
-```
-Runtime      : [Node.js / Bun / Deno / dll]
-Framework    : [Express / Fastify / Hono / dll]
-Database     : [PostgreSQL / MongoDB / MySQL / dll]
-ORM          : [Prisma / Drizzle / TypeORM / dll]
-Auth         : [JWT / NextAuth / Clerk / dll]
-```
+
+Backend      : Supabase
+Database     : PostgreSQL (Supabase)
+Authentication: Supabase Auth
+API          : Supabase API
+Storage : Supabase Storage
+
 
 #### DevOps & Tools
 
-```
-Deployment   : [Vercel / Netlify / Railway / dll]
-CI/CD        : [GitHub Actions / Vercel / dll]
-Testing      : [Jest / Vitest / Playwright / dll]
-Monitoring   : [Sentry / LogRocket / dll]
-```
+Version Control : Git & GitHub
+Design          : Figma
+Development     : Visual Studio Code
+Deployment      : Vercel
 
 ### Alasan Pemilihan Teknologi
 
 | Teknologi    | Alasan Pemilihan                                                         |
 | ------------ | ------------------------------------------------------------------------ |
-| **[Tech 1]** | [Jelaskan mengapa memilih teknologi ini, keunggulannya untuk proyek ini] |
-| **[Tech 2]** | [Jelaskan mengapa memilih teknologi ini, keunggulannya untuk proyek ini] |
-| **[Tech 3]** | [Jelaskan mengapa memilih teknologi ini, keunggulannya untuk proyek ini] |
+| **Next JS** | Digunakan sebagai framework utama karena mendukung pengembangan aplikasi web modern dengan routing, rendering, dan struktur project yang terorganisir. |
+| **TypeScript** | Membantu meningkatkan type safety dan mengurangi kesalahan saat pengembangan aplikasi. |
+| **Tailwind CSS** | Mempermudah pembuatan antarmuka yang konsisten, responsif, dan dapat dikembangkan dengan cepat. |
+| **Figma** | Digunakan untuk merancang UI/UX sebelum implementasi ke dalam aplikasi. |
+| **Git & GitHub** | Digunakan untuk version control dan memudahkan kolaborasi antar anggota tim. |
+| **Vercel** | Digunakan sebagai platform deployment yang terintegrasi dengan workflow Next.js. |
+| **Supabase** | Digunakan sebagai backend platform yang menyediakan PostgreSQL database, authentication, storage, serta API sehingga proses pengembangan backend dapat dilakukan secara efisien. |
+| **PostgreSQL** | Digunakan sebagai database relasional untuk menyimpan data pengguna, tempat, pengajuan, fasilitas, jadwal, dan ulasan. |
+
 
 ### Dependencies Utama
 
 ```json
 {
+  "name": "itechno-cup-nextjs-starter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "quality": "npm run typecheck && npm run test && npm run build"
+  },
   "dependencies": {
-    "[package-1]": "^x.x.x",
-    "[package-2]": "^x.x.x",
-    "[package-3]": "^x.x.x"
+    "@hookform/resolvers": "^5.2.1",
+    "@supabase/ssr": "^0.7.0",
+    "@supabase/supabase-js": "^2.56.1",
+    "lucide-react": "^0.542.0",
+    "next": "^15.5.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-hook-form": "^7.62.0",
+    "zod": "^4.1.5"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@playwright/test": "^1.55.0",
+    "@tailwindcss/postcss": "^4.1.12",
+    "@testing-library/jest-dom": "^6.8.0",
+    "@testing-library/react": "^16.3.0",
+    "@types/node": "22.20.1",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "^19.1.9",
+    "eslint": "^9.34.0",
+    "eslint-config-next": "^15.5.2",
+    "jsdom": "^26.1.0",
+    "tailwindcss": "^4.1.12",
+    "typescript": "5.9.3",
+    "vitest": "^3.2.4"
   }
 }
+
 ```
 
 ---
@@ -163,7 +244,7 @@ Monitoring   : [Sentry / LogRocket / dll]
 ### System Architecture
 
 ```
-[Tambahkan diagram arsitektur sistem - bisa menggunakan Mermaid atau gambar]
+ 
 ```
 
 ### Database Schema
@@ -287,16 +368,31 @@ npm run lint
 
 #### Untuk Pengguna Umum
 
-1. **Registrasi/Login**: [Jelaskan cara mendaftar atau login]
-2. **[Fitur 1]**: [Jelaskan cara menggunakan fitur ini]
-3. **[Fitur 2]**: [Jelaskan cara menggunakan fitur ini]
+1. **Registrasi/Login**: Membuat akun atau masuk untuk mengakses fitur RuangSela.
+2. **Mencari Tempat**: Mencari dan memfilter tempat berdasarkan kebutuhan, kategori, kapasitas, fasilitas, dan harga.
+3. **Melihat Detail Tempat**: Melihat foto, lokasi, fasilitas, harga, ketersediaan, dan ulasan tempat.
+4. **Mengajukan Tempat**: Memilih tanggal dan waktu yang tersedia kemudian mengirimkan pengajuan penggunaan tempat.
+5. **Pengajuan Saya**: Memantau status seluruh pengajuan melalui menu Pengajuan Saya.
+6. **Memberikan Ulasan**: Memberikan rating dan ulasan setelah penggunaan tempat selesai.
+
+#### Untuk Manager / Pengelola Tempat
+
+1. **Dashboard & Analitik**: Melihat performa tempat melalui informasi seperti total booking, booking yang diproses, booking disetujui, pendapatan, tingkat penggunaan tempat, dan tren booking.
+2. **Mendaftarkan Tempat**: Menambahkan informasi tempat, fasilitas, harga, foto, dan detail lainnya.
+3. **Mengelola Tempat**: Memperbarui informasi, fasilitas, harga, dan jam operasional tempat.
+4. **Mengatur Ketersediaan**: Mengatur tanggal dan slot waktu yang dapat digunakan oleh pengguna.
+5. **Mengelola Pengajuan**: Melihat, menerima, atau menolak pengajuan penggunaan tempat.
+6. **Melihat Ulasan**: Memantau rating dan ulasan pengguna terhadap tempat yang dikelola.
+
+
 
 #### Untuk Admin
 
-1. **Akses Admin Panel**: [Jelaskan cara mengakses]
-2. **[Fungsi Admin 1]**: [Jelaskan cara menggunakan]
-3. **[Fungsi Admin 2]**: [Jelaskan cara menggunakan]
-
+1. **Akses Admin Panel**: Masuk menggunakan akun administrator untuk mengakses dashboard.
+2. **Dashboard**: Memantau pengguna, booking, pendapatan, dan status tempat.
+3. **Verifikasi Tempat**: Memeriksa dan memverifikasi tempat yang didaftarkan oleh manager.
+4. **Verifikasi User**: Mengelola status dan verifikasi akun pengguna.
+5. **Monitoring**: Memantau pengajuan, aktivitas platform, dan pendapatan.
 ---
 
 ## 📚 API Documentation

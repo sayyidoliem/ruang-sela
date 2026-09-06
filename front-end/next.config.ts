@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
 
   poweredByHeader: false,
 
-  typedRoutes: true,
+  typedRoutes: false,
 
   images: {
     remotePatterns: [

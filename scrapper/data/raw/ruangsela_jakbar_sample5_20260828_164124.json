@@ -1,0 +1,374 @@
+[
+  {
+    "keyword": "aula",
+    "nama": "The Vida Ballroom",
+    "kategori": "Ruang Serbaguna",
+    "kategori_list": [],
+    "alamat": "Jl. Perjuangan No.8, RT.1/RW.7, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+    "alamat_lengkap": "Jl. Perjuangan No.8, RT.1/RW.7, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+    "plus_code": "RQ55+GR Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1911516,
+    "lng": 106.7596054,
+    "place_id": "11b6j48vlq",
+    "cid": "0x2e69f71b04cc3c37",
+    "url_google_maps": "https://www.google.com/maps/place/The+Vida+Ballroom/@-6.1911516,106.7596054,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f71b04cc3c37:0xe0bab0cc25e78ab3!8m2!3d-6.1911516!4d106.7596054!16s%2Fg%2F11b6j48vlq?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.4,
+    "jumlah_review": 1202,
+    "jam_operasional": {
+      "Senin": "08.00–17.00",
+      "Selasa": "08.00–17.00",
+      "Rabu": "08.00–17.00",
+      "Kamis": "08.00–17.00",
+      "Jumat": "08.00–17.00",
+      "Sabtu": "12.00–18.00",
+      "Minggu": "12.00–18.00"
+    },
+    "jam_operasional_raw": "Senin: 08.00–17.00\nSelasa: 08.00–17.00\nRabu: 08.00–17.00\nKamis: 08.00–17.00\nJumat: 08.00–17.00\nSabtu: 12.00–18.00\nMinggu: 12.00–18.00",
+    "status_buka": "tutup · 17.00 · Buka Sab pukul 12.0",
+    "popular_times": null,
+    "telepon": "0811-8882-897",
+    "website": "http://www.thevidaballroom.com/",
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGEI_e-QEUmwglyFA8eyrORdUudJX1-tTinBhhMdwl-gyb0w-OC717sJ96XoXpFvIkd4eKXkh83B5K1M8sz1B7xn646DBOyA3ywmTEDU6IQrrsioKPg0JtojQdtm_cQP8_-YJ2=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGEI_e-QEUmwglyFA8eyrORdUudJX1-tTinBhhMdwl-gyb0w-OC717sJ96XoXpFvIkd4eKXkh83B5K1M8sz1B7xn646DBOyA3ywmTEDU6IQrrsioKPg0JtojQdtm_cQP8_-YJ2=w426-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGEI_e-QEUmwglyFA8eyrORdUudJX1-tTinBhhMdwl-gyb0w-OC717sJ96XoXpFvIkd4eKXkh83B5K1M8sz1B7xn646DBOyA3ywmTEDU6IQrrsioKPg0JtojQdtm_cQP8_-YJ2=w529-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlddNzVMicK-my4LFmc4W6ch4o6X107tfS2fP2SLPjHGe6-VcWtY9ubllK6UAUyrmfjiE5WHXiL0RgYHnM2RQO63mCVF6uRvrd0s5kTlH7E0qIbcxsUky5chK2xTyDFopDaUrIvYA=w541-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkgLJLEn-eCENfeJtPOqEW3o2NkX81Y45pzjh9tMt3fr28Um_dwEOHJ2w6YtqH-sATih4oUgK7ZCtE-h0D-LRhFUBWMJvcCAH-h-Em_Lvrr3XpfpOdZ8c5aXDsAdKt7We3cDV1a=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYsl5G-NxT1cU9KTIxyeMwjQNUGYDL3X81dmjf5ubqiaVZaxfqmpH7eGrGlgU4qN6wdKb_a8DvDYZsN5kcUZj14_nXO1Q545A1ffzoP5kcuHwSZOvAcgBibFUpSuJ3hu9Au35v=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjWTFC05jaCs1OzCtxT--PNvjhLcrw89oBOci_65AkA6JCSgWM1H=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVeX1BjGPxeJ-YVtesC3PMfNq1d7c5PvkJg9m6BqUNj1-9Nf94kIA=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjV2jmqfx_ZuNXBKy56Bj0gu6zSILFg7Znrg3NkJWDCkwW3E-ZQ=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlC3We3vtqXi5Ab1Yi-ej0mgFL-xHuC7olru-BIBBYpUSnmDfWUyL6qq0o9LWCTiDsFcJlKS7wb3Cwn5SJUoEAbS0AgS6fDlrxvjozyfAAodHf-BgwrzZhuCO1fDkb5in2YRMZw=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRYY3mO7jBuDxgXtiBlGT_41dm-A0joTyLCnrcWJpb6W2YCuPqYjF61v3WzKp8AZ__ZHEYuozvoIS4JpRkGKoYo2gOPhWIMLMmCp-RTQAZLT4zjKzRS8Vbw5QWX0M0AlIi-PbZ=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlh1vIMyMQX6nQ3MNQUN65D25U97L3-9UZ8erLVDQdVxxVTY6i7ZtmT2hAzrgYbnD00-SjHwtq0ZyFC3i1K93UWtehnGDB6KCpNmkAwPrQFoPRXeRydeIai9KVwYdjH2KONIz22=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Dedy Adrianto\nLocal Guide · 13 ulasan · 42 foto\n8 bulan lalu\nRuangan ballroom berukuran sedang tapi terlihat cukup mewah.\n0:08\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Dedy Adrianto\nLocal Guide · 13 ulasan · 42 foto\n8 bulan lalu\nRuangan ballroom berukuran sedang tapi terlihat cukup mewah.\n0:08\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Elsa Tri Meilani\nLocal Guide · 71 ulasan · 178 foto\n4 tahun lalu\nTempatnya bagus buat wedding.\nini di lantai 10 ya..\nkalau mau pemberkatan pagi cangtip banget pemandangan jakarta keliatan dari … Lainnya\n+2\nSuka\nBagikan\nTanggapan dari pemilik 4 tahun lalu\nTerima kasih atas reviewnya, kak :)",
+        "rating": null
+      },
+      {
+        "text": "Elsa Tri Meilani\nLocal Guide · 71 ulasan · 178 foto\n4 tahun lalu\nTempatnya bagus buat wedding.\nini di lantai 10 ya..\nkalau mau pemberkatan pagi cangtip banget pemandangan jakarta keliatan dari … Lainnya\n+2\nSuka\nBagikan\nTanggapan dari pemilik 4 tahun lalu\nTerima kasih atas reviewnya, kak :)",
+        "rating": null
+      },
+      {
+        "text": "Johan Surya\nLocal Guide · 162 ulasan · 481 foto\n6 tahun lalu\ngreat place for event, wedding, seminar, workshop, arisan, perayaan, ulang tahun, arisan. … Lainnya\n+3\n5\nBagikan\nTanggapan dari pemilik 6 tahun lalu\nTerima kasih atas ulasannya.\nDiterjemahkan oleh Google ・ Lihat versi asli (Inggris)",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC",
+      "Parking"
+    ],
+    "attributes": {},
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T16:38:33.029527"
+  },
+  {
+    "keyword": "aula",
+    "nama": "Aula Gedung Serbaguna Komplek Hankam Slipi",
+    "kategori": "Aula serbaguna",
+    "kategori_list": [],
+    "alamat": "RQ2V+77G, Jl. Kiwal, RT.6/RW.2, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",
+    "alamat_lengkap": "RQ2V+77G, Jl. Kiwal, RT.6/RW.2, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",
+    "plus_code": "RQ2V+77G, Jl. Kiwal, RT.6/RW.2, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",
+    "lat": -6.1993201,
+    "lng": 106.7931998,
+    "place_id": "11b7f1lgv6",
+    "cid": "0x2e69f6c06eff719b",
+    "url_google_maps": "https://www.google.com/maps/place/Aula+Gedung+Serbaguna+Komplek+Hankam+Slipi/@-6.1993201,106.7931998,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f6c06eff719b:0x70c6e64536b27b65!8m2!3d-6.1993201!4d106.7931998!16s%2Fg%2F11b7f1lgv6?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.4,
+    "jumlah_review": 810,
+    "jam_operasional": {},
+    "jam_operasional_raw": null,
+    "status_buka": "buka",
+    "popular_times": null,
+    "telepon": "05873167537",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmeQ1UMuXq98uJm_zBLLKx9U7qkCfrRx-2NVZHmPo0IIJ7He7gP0iBuatznjx9XhBglePgDU0LYy6gnbyHWTq7weD3k8kQNHoQdXn_ONtgkJsSEScpyKLCqLpMw_8Uve7m7-PuP9J92fGE_=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmeQ1UMuXq98uJm_zBLLKx9U7qkCfrRx-2NVZHmPo0IIJ7He7gP0iBuatznjx9XhBglePgDU0LYy6gnbyHWTq7weD3k8kQNHoQdXn_ONtgkJsSEScpyKLCqLpMw_8Uve7m7-PuP9J92fGE_=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmeQ1UMuXq98uJm_zBLLKx9U7qkCfrRx-2NVZHmPo0IIJ7He7gP0iBuatznjx9XhBglePgDU0LYy6gnbyHWTq7weD3k8kQNHoQdXn_ONtgkJsSEScpyKLCqLpMw_8Uve7m7-PuP9J92fGE_=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnRZiMw4g2_LcsOk648L9bjukc-picyBqaUaGqlec8WTqo9xSsLW0shXEKNVSoMqsufcY0QV3LwxsM2wuEo2sAG4GpnlZuYP2ttuVvTUgWCxPhBv18TwvXqAgIVTP-x2lymuGqcA0rMm3g=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlaXt91Fj5f_ELklk5dJKpUWdKjekF1KZKOzuJHbQwEf_BZZVXhjuRPdamm7bV7JsndO6BbU31NB8SBJXClxR_nocP8jaiMaf7DxvWvJ6KOIo_KNdiysLyCMAsOW_xLeEgPQ5Jf8Y1P07Iu=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkIv3L7FrC6krirEkDu5E-V_qFLqF0G4NTQF-pkaekQDBxf0aF7QVSRolNTFwKAz3RArfmUjkKTLZZCzDdygtT8iq5W7H6mca3k_gEafzAiJlbsesGGWFjZu9V_uN0YiRwcVI0=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkjeEEczl6KeSjpOnoU9HezY7hsqN3f7YV1wT4C-i86U2RpHJwWr7EX7TBhta0dx--_iKwowT2vhS_P9JoQG0RNIb30bbAFKAontoQnkF4WTTjiqg3ljt0ZvoqOjwAMIv37Nhde2v5GfunC=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYTSIV8uxcJLWyc_k8lsFtIUQK_WtU1nJfokRDC7lPBXnlqY1Kh_pW9lBf4ZDd8v83zHG4QZooFJeIIawQhx6JI8plb4GIMP3UHNSiCtr-eC3eUZXPEOXIDjpG-KYfddqWY8zIHP4e-mD-=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlQsN30NIu5-7RKhogNtyNnSrIJfxozIYAaLyw8k0VgE_DHQLIAeg2eRS2rV1jM-z864mAX2NcJ6gLBop84Iz1zz1hwwIwHJ9yU6TPcviGRNfHMy7YbilfTILiD2FI8GYzSoBPImxIP3UY=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlDCh7_dLHAYdB_YDJvrkImFywRSeQyr3g2Y6lSGpfXLalDSJgIrF53zHyrkBE4gr2UImyaRodizAGVkvx6b2jNM10br9LpsTUNf2WgzHA3JgAUXHMcwBMd8E8vo8BvQcWIwwd1=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDtxoYhxdoRFceIcrHNstEuN-8GFGwTHVi7VCTUmRf1rRODHuZuekJNhqQ2uMEORRSYOgYzKGFYqa1T_EFzsDH6sOcvSe5nkT56v_WyGaIz6-CrRGiO0AhvgF_uI5u5N4qntgMNvwSB-YA=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVOt9Sx2qS2xbQy9647IFLFLJe4pAwR3QjRH-BN-BrMTluXwsTuFA=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXabMjok3iCiE1NUAQFyGiBNHld7QaAJYeSxI1C3IezkMcxtxgc=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a/ACg8ocKv5iHzn7tIRjnu7SYNc8l81LdzuOOCv-6oAPkzeNy6fEFBKA=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlP1tBh7Z-V1-QmunPCQs4eV8QgO1CtnKW0XsvbI_V93tmU1VM0Zt2CH_tsgXcBdeaJkq03DlxYww02SECvUZvaWM0mg7bAhlsYiXJq0UH6sZ8WuSoxgFD1zizNFFlzhnb0AL5-=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Riyo L.of.K\nLocal Guide · 174 ulasan · 772 foto\n3 bulan lalu\nUntuk acara perkawinan yg undanganya tdkbterlalu banyak sih ok.\nTapi kalau undanganya banyak, ya gak cocok\n0:29\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Riyo L.of.K\nLocal Guide · 174 ulasan · 772 foto\n3 bulan lalu\nUntuk acara perkawinan yg undanganya tdkbterlalu banyak sih ok.\nTapi kalau undanganya banyak, ya gak cocok\n0:29\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Hafizh Maulana\nLocal Guide · 122 ulasan · 1.266 foto\n9 bulan lalu\nmenuju kesini banyak bisa jalan yg d lalui mau lewat mana aja bisa. tergantung kenyamanan dan keinginan kalian. untuk lokasi tempatnya parkir cukup luass untuk mobil, depannya juga ada kantin gitu banyak tukang makanan. terus aulanya … Lainnya\n8\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Hafizh Maulana\nLocal Guide · 122 ulasan · 1.266 foto\n9 bulan lalu\nmenuju kesini banyak bisa jalan yg d lalui mau lewat mana aja bisa. tergantung kenyamanan dan keinginan kalian. untuk lokasi tempatnya parkir cukup luass untuk mobil, depannya juga ada kantin gitu banyak tukang makanan. terus aulanya … Lainnya\n8\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Cholifah Ramdani\nLocal Guide · 32 ulasan · 59 foto\n6 bulan lalu\nTempatnya kurang luas klw buat acara pernikahan , agak gelap harus pakai lampu tambahan\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "Toilet",
+      "AC"
+    ],
+    "attributes": {},
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T16:39:15.488437"
+  },
+  {
+    "keyword": "aula",
+    "nama": "ONE-A WEDDING HALL",
+    "kategori": "Gedung Parkir",
+    "kategori_list": [],
+    "alamat": "Jalan Arjuna Utara No.9 kebon jeruk, Universitas esa unggul, Duri Kepa, Kebon Jeruk, RT.1/RW.2, RT.1/RW.2, Duri Kepa, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11510",
+    "alamat_lengkap": "Jalan Arjuna Utara No.9 kebon jeruk, Universitas esa unggul, Duri Kepa, Kebon Jeruk, RT.1/RW.2, RT.1/RW.2, Duri Kepa, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11510",
+    "plus_code": "RQ7H+VJ Duri Kepa, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1852831,
+    "lng": 106.7790153,
+    "place_id": "11c325f003",
+    "cid": "0x2e69f6fba93900bb",
+    "url_google_maps": "https://www.google.com/maps/place/ONE-A+WEDDING+HALL/@-6.1852831,106.7790153,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f6fba93900bb:0x37fea21255de4af9!8m2!3d-6.1852831!4d106.7790153!16s%2Fg%2F11c325f003?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.5,
+    "jumlah_review": 41,
+    "jam_operasional": {
+      "Sabtu": "minggu sering dipakai untuk acara pesta pernikahan.",
+      "Minggu": "sering dipakai untuk acara pesta pernikahan."
+    },
+    "jam_operasional_raw": "Sabtu: minggu sering dipakai untuk acara pesta pernikahan.\nMinggu: sering dipakai untuk acara pesta pernikahan.",
+    "status_buka": null,
+    "popular_times": null,
+    "telepon": "0851-4728-7880",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleCKBaZ-fSSawr7q7el8nLVpXJmayY8kfRsVlfKVQtKD640nRor76kAOuMfCqY9hKLdxeESDcc-ID7ZJgkQQG40ZKLhSLwg6dlN28guy4-VRPD2giDV40de2D8C1AOr6l38Mdf=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleCKBaZ-fSSawr7q7el8nLVpXJmayY8kfRsVlfKVQtKD640nRor76kAOuMfCqY9hKLdxeESDcc-ID7ZJgkQQG40ZKLhSLwg6dlN28guy4-VRPD2giDV40de2D8C1AOr6l38Mdf=w408-h272-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleCKBaZ-fSSawr7q7el8nLVpXJmayY8kfRsVlfKVQtKD640nRor76kAOuMfCqY9hKLdxeESDcc-ID7ZJgkQQG40ZKLhSLwg6dlN28guy4-VRPD2giDV40de2D8C1AOr6l38Mdf=w447-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkqvofo-eNbmdypNHl8FIRedFrLg8CBCV_03mVYb6rktGYHb5goy0V_pDCRYxsCkv2ytryTlkj7ZFhhG95oNex_RFQqJ7OMTHvyRMJK6BoKhvLde9X4I-3Z8-GVNoebVsHVwHk=w224-h401-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVYMNnkY51oa4mu7837Wqo3ufhJcavu-xmSNy-5T_e8evFZ-t_9=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjW1oaJ6_j9tMjKPB0Q2Oa2zRfE63um995wYLrl-pTx59TNPccSduA=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjUEMS-NuFBD-v9CfIiWVoUgeQQ3Ed39Pp4QZIDBAqOjqu9fERo=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRYY3mO7jBuDxgXtiBlGT_41dm-A0joTyLCnrcWJpb6W2YCuPqYjF61v3WzKp8AZ__ZHEYuozvoIS4JpRkGKoYo2gOPhWIMLMmCp-RTQAZLT4zjKzRS8Vbw5QWX0M0AlIi-PbZ=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlh1vIMyMQX6nQ3MNQUN65D25U97L3-9UZ8erLVDQdVxxVTY6i7ZtmT2hAzrgYbnD00-SjHwtq0ZyFC3i1K93UWtehnGDB6KCpNmkAwPrQFoPRXeRydeIai9KVwYdjH2KONIz22=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGEI_e-QEUmwglyFA8eyrORdUudJX1-tTinBhhMdwl-gyb0w-OC717sJ96XoXpFvIkd4eKXkh83B5K1M8sz1B7xn646DBOyA3ywmTEDU6IQrrsioKPg0JtojQdtm_cQP8_-YJ2=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkThaYqoOKtT3qc3zZSO_xNNOIpvZPgE0wc7UfIDSIqwTKCy4syjpFuvImsnaTLsV3c7hrnJk5Tg-14LbFfutZ4ewP_1JnZZvaFreOc986cBJ1rNMLzIFier4-AsnDDHPg2=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "APRIL LIANA MARWATI\nLocal Guide · 47 ulasan · 101 foto\n6 tahun lalu\nGedung pernikahan, tempat oke, parkiran luas, jadi satu sama kampus\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "APRIL LIANA MARWATI\nLocal Guide · 47 ulasan · 101 foto\n6 tahun lalu\nGedung pernikahan, tempat oke, parkiran luas, jadi satu sama kampus\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Gilang Ramdani\nLocal Guide · 9 ulasan · 14 foto\n2 tahun lalu\nCukup luas, parkiran juga lega, lobby luas dan suasana didalem dingin banget cielingnya juga tinggi, recommended bangetttt.....\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Gilang Ramdani\nLocal Guide · 9 ulasan · 14 foto\n2 tahun lalu\nCukup luas, parkiran juga lega, lobby luas dan suasana didalem dingin banget cielingnya juga tinggi, recommended bangetttt.....\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Ahmad Irfandi\nLocal Guide · 62 ulasan · 321 foto\n4 tahun lalu\nGedung ini dipakai untuk kegiatan2 besar kampus dan juga pada hari sabtu minggu sering dipakai untuk acara pesta pernikahan.\n1\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC"
+    ],
+    "attributes": {},
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T16:39:57.716666"
+  },
+  {
+    "keyword": "aula",
+    "nama": "XO Hall",
+    "kategori": "Ruang Serbaguna",
+    "kategori_list": [],
+    "alamat": "Jl. Tanjung Duren Barat III No.1, RT.9/RW.5, Tj. Duren Utara, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+    "alamat_lengkap": "Jl. Tanjung Duren Barat III No.1, RT.9/RW.5, Tj. Duren Utara, Kec. Grogol petamburan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11470",
+    "plus_code": "RQCJ+V4 Tj. Duren Utara, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.1777508,
+    "lng": 106.7802651,
+    "place_id": "11c3tjv859",
+    "cid": "0x2e69f64c6e79acd3",
+    "url_google_maps": "https://www.google.com/maps/place/XO+Hall/@-6.1777508,106.7802651,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f64c6e79acd3:0x11af83eb8647c8c9!8m2!3d-6.1777508!4d106.7802651!16s%2Fg%2F11c3tjv859?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.7,
+    "jumlah_review": 310,
+    "jam_operasional": {
+      "Senin": "07.00–21.00",
+      "Selasa": "07.00–21.00",
+      "Rabu": "07.00–21.00",
+      "Kamis": "07.00–21.00",
+      "Jumat": "07.00–21.00",
+      "Sabtu": "07.00–21.00",
+      "Minggu": "07.00–21.00"
+    },
+    "jam_operasional_raw": "Senin: 07.00–21.00\nSelasa: 07.00–21.00\nRabu: 07.00–21.00\nKamis: 07.00–21.00\nJumat: 07.00–21.00\nSabtu: 07.00–21.00\nMinggu: 07.00–21.00",
+    "status_buka": "Buka · Tutup pukul 21.00",
+    "popular_times": null,
+    "telepon": "0811-8082-080",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkkXvzOK-xQl3R-FoUZLAqup4bEgmDb9QCG0XJyM89Klz_f5y1cq_PEmm3mAN3ir6ZlyE4cnZQK7BAXNgKxEgtkWdyQCuOnZBM378-Wh-jRMbe0V1n9VGBdVstXk3126m0csDXOhA=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkkXvzOK-xQl3R-FoUZLAqup4bEgmDb9QCG0XJyM89Klz_f5y1cq_PEmm3mAN3ir6ZlyE4cnZQK7BAXNgKxEgtkWdyQCuOnZBM378-Wh-jRMbe0V1n9VGBdVstXk3126m0csDXOhA=w442-h240-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkkXvzOK-xQl3R-FoUZLAqup4bEgmDb9QCG0XJyM89Klz_f5y1cq_PEmm3mAN3ir6ZlyE4cnZQK7BAXNgKxEgtkWdyQCuOnZBM378-Wh-jRMbe0V1n9VGBdVstXk3126m0csDXOhA=w549-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm49JceyK2w7PUcRiVxvxCw9_pnyeCas5nbGIe8VE3ZvA5mQEAwzI-nUeXDr7dUOUUl7nyJn-uxJxp6DTxjvPdeCllaBGf2LkjGknTGK6yBeS-jNTZx1vRSub3XnUhx0-wOQG_O=w529-h298-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjXW9SNg6OZSslgl-K2fC4aKjjsDhl3T7XfU8IyEnD_Z4mTgq-4=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVSAvaAoeMD1ZI4NRt8aYwRGcyOwGylA-kfJKp738qWE_vJc8Xl=w36-h36-p-rp-mo-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjVz9JP_76sSx18Stsc1Y0jIixVA5i9BqyT7nO5na-Ao80wjOHtg=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkGc8dUUfNxuuY27t0C4Cbm29NacMBY1WS1xXw_FH__XaZE4iPA1Df4-xb2oKnDJZJ8xb_CQ4mDx-Jc6tA8rWslMu4cuzx_FVXL0iFLA87S3FcV0Or8FY_Rf60HWhjzhWpWHtBbEw=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd-XAtXcwjHOEiDNeoPNm0OAgS6fOkMu2rCm9n4YedOVlxjUWF42DvSJ-OLHHsbiIwN3sloZK6VBdnjYFUcGEHU38u1v9NIHg8OxJ3LqG-f7-rKgq7v9KFO98JQYMbGSliwb4=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlN9MhItDdinvUJxDfyGXbpy_oTK1Z5VEkRjxeUjLGYJQqLl-YVOCYJUsFFpM-wFIKMvbZSCFKmwOvjcJvQC1FiOZWYL7CDrC3_N_ISzhgRXzbAx3UhrV-Hv0YeHoTE5bGornXenHjsjYQm=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl1jpYa1bytTyQE2V06nBjjFn36xV4NBorh_OdikHQW1E9oylUlJQIFLerLqCdpwc_xZ0_KYSoMkttvjhMOvwNoXj_Jkcv8RnmDcDc-5WL7x5OG7sHAZmuNe5BklkO4G1z5bj8VWejHAxdh=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkEyjGFWpC2fjNPozgQUnIOUsZ6MWDsXVed4cWN0-STpJWDpEzDAvgU0d-ZnZ6ujctcZIG9N8as6vkc933jtAX2rW6alV0Cw8XIUTnWKC4b3eqeD0hNJIpR_BbBJ7Wg24LvAnxE=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Ahmdadi_p\nLocal Guide · 329 ulasan · 1.943 foto\nsetahun lalu\nGokil. Yang biasanya cuman liat di YouTube mpl live. Akhirnya bisa nyobain nonton langsung dan keseruan nya luar biasa.. suporter nya bener bener Derby STM banget haha.. seru si. Dari awal kesini awal bingung parkir nya... Di arahkan yaudah … Lainnya\n0:14\n+7\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Ahmdadi_p\nLocal Guide · 329 ulasan · 1.943 foto\nsetahun lalu\nGokil. Yang biasanya cuman liat di YouTube mpl live. Akhirnya bisa nyobain nonton langsung dan keseruan nya luar biasa.. suporter nya bener bener Derby STM banget haha.. seru si. Dari awal kesini awal bingung parkir nya... Di arahkan yaudah … Lainnya\n0:14\n+7\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Joshua Setiadi\n10 ulasan · 7 foto\nsetahun lalu\nTempatnya nyaman, dengan hall yang besar, Ada Overcomer Church dan Event MPL juga berlangsung disini, Best place for event!! Lighting, Sound, LED terbaik !!\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Joshua Setiadi\n10 ulasan · 7 foto\nsetahun lalu\nTempatnya nyaman, dengan hall yang besar, Ada Overcomer Church dan Event MPL juga berlangsung disini, Best place for event!! Lighting, Sound, LED terbaik !!\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Ahmad Solikhin\nLocal Guide · 55 ulasan · 156 foto\n3 tahun lalu\nTempat MPL Season 10 diselenggarakan offline. Tempatnya strategis, karena dipinggir jalan dan akan terlihat jelas lokasinya. Tempatnya gak terlalu besar, tetapi cukup untuk acara yang penontonnya terbatas. Tempat yang selalu ramai oleh para fans e sport terutama mobile legend. Seru dan semangatnya dapat, pokoknya keren si.\n+2\n8\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC"
+    ],
+    "attributes": {},
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T16:40:40.477050"
+  },
+  {
+    "keyword": "aula",
+    "nama": "Aula Karang Taruna",
+    "kategori": "Gedung Pertemuan",
+    "kategori_list": [],
+    "alamat": "Rawa Belong 2 No.3, RT.3/RW.11, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",
+    "alamat_lengkap": "Rawa Belong 2 No.3, RT.3/RW.11, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",
+    "plus_code": "QQXQ+98 Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta",
+    "lat": -6.2015948,
+    "lng": 106.7882547,
+    "place_id": "11b6gjmmnm",
+    "cid": "0x2e69f6c3df1f7e67",
+    "url_google_maps": "https://www.google.com/maps/place/Aula+Karang+Taruna/@-6.2015948,106.7882547,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f6c3df1f7e67:0x6a69ab05ff820672!8m2!3d-6.2015948!4d106.7882547!16s%2Fg%2F11b6gjmmnm?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.5,
+    "jumlah_review": 52,
+    "jam_operasional": {
+      "Rabu": "sore dan Jumat sore di tunggu",
+      "Jumat": "sore di tunggu"
+    },
+    "jam_operasional_raw": "Rabu: sore dan Jumat sore di tunggu\nJumat: sore di tunggu",
+    "status_buka": "buka",
+    "popular_times": null,
+    "telepon": "05873167537",
+    "website": null,
+    "price_level": null,
+    "price_range": null,
+    "harga_text": null,
+    "foto_urls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlP1tBh7Z-V1-QmunPCQs4eV8QgO1CtnKW0XsvbI_V93tmU1VM0Zt2CH_tsgXcBdeaJkq03DlxYww02SECvUZvaWM0mg7bAhlsYiXJq0UH6sZ8WuSoxgFD1zizNFFlzhnb0AL5-=w32-h32-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlP1tBh7Z-V1-QmunPCQs4eV8QgO1CtnKW0XsvbI_V93tmU1VM0Zt2CH_tsgXcBdeaJkq03DlxYww02SECvUZvaWM0mg7bAhlsYiXJq0UH6sZ8WuSoxgFD1zizNFFlzhnb0AL5-=w408-h306-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlP1tBh7Z-V1-QmunPCQs4eV8QgO1CtnKW0XsvbI_V93tmU1VM0Zt2CH_tsgXcBdeaJkq03DlxYww02SECvUZvaWM0mg7bAhlsYiXJq0UH6sZ8WuSoxgFD1zizNFFlzhnb0AL5-=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnApqGmEQVEIbvigQeAwGv_-SelDURimAxet-A6zDCIvwiXU5U3ZqeS4YF3QqJCJQLQMVQ0DIaGO8gNlQnKvfHw5Nm5YrGdAqb1L-KaEabMiJz-R0SZmPpxSqqd5np1Z9PM828=w529-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmy7qJGMXETVE20Co5Cr6PYyY_MFSej45IVzJgPJzK0WaojVINq8rvmv1HIZ_8IWF4Hz7vSnqOvDd8XOHuDRfsMjCKQNgZx-ZA4so1hSd1-8vthTdtLiHH9ZdCfIBeo1SsyQfMixw=w80-h92-p-k-no",
+      "https://lh3.googleusercontent.com/a-/ALV-UjWfiBvg_sT4aGCgbZgs40foPk3WNlYcGFPYvXq5XBRCeHH3hmaU=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a-/ALV-UjV7_o7rpAIZXF97RXQy3XNSDTJgpuNSXGG4jK1xWUSbfB4sgailkw=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/a/ACg8ocIvuKMv1NuXVX_ai8C92BNXc5DukZgz42AKWUiAvd4VBqu0Uw=w36-h36-p-rp-mo-ba12-br100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnf1E1Xo3BKWU_njJDvG8squPXqu8h0TDvkNRsrDEjDRRRcHGGA61wz9saTlcG5_Bay-FQ4yRTyTrog-rf1fyRp1Vqd6ajmW3d8RuPmq7NlYnX43xlZdjcXp_Jvrv360T1YD_vHZQ=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmeQ1UMuXq98uJm_zBLLKx9U7qkCfrRx-2NVZHmPo0IIJ7He7gP0iBuatznjx9XhBglePgDU0LYy6gnbyHWTq7weD3k8kQNHoQdXn_ONtgkJsSEScpyKLCqLpMw_8Uve7m7-PuP9J92fGE_=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmSaNPPW-nbUIKdjr_YfsEDe9hoU1hxd3TnamydSwYoO1gmqX9Y7MQ5rMB2OxrG89ZxAQgq7c7Hs6SM4RMM9KklVI9Ekkmqvo0lHdOAbNPBLhm_CzKxmF17zkErPhFIRv7KollpSQ=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlFeSwSdG7dl6inyHxlFxCwqUFYnSWTtF4YKX-ctpGTRVd1fchAC0aUikgDSZpD3P_n5bkA_e7se9fII35TwAfEDDOC7L7G35ypt_BRRkK3JaJcxYOR1UO5CJ25lsl8O1KQ6qeX_Q=w156-h114-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkM50agZG8cjPEZ7Pfj18wYI9Qw2QUH377GK-tUo1OCA7DKl5GpPWcwPY-MouIeqj0AiYt7UB700sEyucE9TjEFfxLQJbTj0IVemMwpB3uVEZSexPSg09YPgpSMwv5UmFAcons=w156-h114-p-k-no"
+    ],
+    "reviews": [
+      {
+        "text": "Manari Dancerstudio\nLocal Guide · 3 ulasan · 37 foto\n2 tahun lalu\nYuk adik-adik yang mau ikutan kelas Tari\nNusantara\nBisa datang langsung setiap Rabu sore dan Jumat sore di tunggu\n+8\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Manari Dancerstudio\nLocal Guide · 3 ulasan · 37 foto\n2 tahun lalu\nYuk adik-adik yang mau ikutan kelas Tari\nNusantara\nBisa datang langsung setiap Rabu sore dan Jumat sore di tunggu\n+8\nSuka\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Silvya Nada Fatima\nLocal Guide · 284 ulasan · 3.460 foto\n7 tahun lalu\nsanggar les nari silvya...parkir luas tempat bersih deket rumah\n+12\n9\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "Silvya Nada Fatima\nLocal Guide · 284 ulasan · 3.460 foto\n7 tahun lalu\nsanggar les nari silvya...parkir luas tempat bersih deket rumah\n+12\n9\nBagikan",
+        "rating": null
+      },
+      {
+        "text": "David Rinto\nLocal Guide · 152 ulasan · 121 foto\n8 tahun lalu\nDapat di gunakan berbagai kegiatan : pernikahan, teater, buat pemilu, imunisasi dan lainnya, parkir kurang luas, gedung sudah pernah di renovasi, kebersihan dan kerapihan perlu di tingkatkan, kalo sore atau pagi jalan cukup padat, daerah sekitarnya banyak yang jual makanan kalo sore hari, pagi hari ada yang jual makanan\nSuka\nBagikan",
+        "rating": null
+      }
+    ],
+    "fasilitas": [
+      "Parkir",
+      "AC"
+    ],
+    "attributes": {},
+    "deskripsi": null,
+    "jam_ramai": null,
+    "scraped_at": "2026-08-28T16:41:22.833428"
+  }
+]
