@@ -17,17 +17,17 @@
 
 ## 📋 Daftar Isi
 
-- [Tentang Proyek](#-tentang-proyek)
-- [Fitur Unggulan](#-fitur-unggulan)
-- [Demo & Screenshot](#-demo--screenshot)
-- [Teknologi](#-teknologi)
-- [Arsitektur Sistem](#-arsitektur-sistem)
-- [Instalasi & Setup](#-instalasi--setup)
-- [Penggunaan](#-penggunaan)
-- [API Documentation](#-api-documentation)
-- [Testing](#-testing)
-- [Tim Developer](#-tim-pengembang)
-- [Lisensi](#-lisensi)
+* [Tentang Proyek](#-tentang-proyek)
+* [Fitur Unggulan](#-fitur-unggulan)
+* [Demo & Screenshot](#-demo--screenshot)
+* [Teknologi](#-teknologi)
+* [Arsitektur Sistem](#-arsitektur-sistem)
+* [Instalasi & Setup](#-instalasi--setup)
+* [Penggunaan](#-penggunaan)
+* [API Documentation](#-api-documentation)
+* [Testing](#-testing)
+* [Tim Developer](#-tim-pengembang)
+* [Lisensi](#-lisensi)
 
 ---
 
@@ -61,14 +61,14 @@ Permasalahan tersebut juga berkaitan dengan visibilitas dan akses informasi meng
 
 Platform ini menyediakan informasi mengenai:
 
-- 📍 Lokasi tempat
-- 👥 Kapasitas
-- 🏢 Fasilitas
-- 💰 Harga
-- 📅 Ketersediaan jadwal
-- ⭐ Rating dan ulasan
-- 📞 Informasi kontak tempat
-- 📝 Mekanisme pengajuan penggunaan tempat
+* 📍 Lokasi tempat
+* 👥 Kapasitas
+* 🏢 Fasilitas
+* 💰 Harga
+* 📅 Ketersediaan jadwal
+* ⭐ Rating dan ulasan
+* 📞 Informasi kontak tempat
+* 📝 Mekanisme pengajuan penggunaan tempat
 
 Bagi pengguna, RuangSela mempermudah proses pencarian dan pengajuan tempat tanpa harus mencari informasi dari berbagai sumber secara terpisah.
 
@@ -78,11 +78,11 @@ Dengan mempertemukan kebutuhan pengguna dengan tempat yang tersedia, RuangSela b
 
 ### Tujuan Proyek
 
-- 🎯 **Tujuan Utama**: Mempermudah masyarakat dan komunitas dalam menemukan serta mengajukan penggunaan ruang yang sesuai dengan kebutuhan kegiatan mereka.
+* 🎯 **Tujuan Utama**: Mempermudah masyarakat dan komunitas dalam menemukan serta mengajukan penggunaan ruang yang sesuai dengan kebutuhan kegiatan mereka.
 
-- 📊 **Target Pengguna**: Masyarakat, mahasiswa, komunitas, organisasi, penyelenggara kegiatan, serta pengelola tempat di wilayah Jakarta.
+* 📊 **Target Pengguna**: Masyarakat, mahasiswa, komunitas, organisasi, penyelenggara kegiatan, serta pengelola tempat di wilayah Jakarta.
 
-- 💡 **Value Proposition**: Menyatukan proses pencarian, eksplorasi informasi, pengecekan ketersediaan, dan pengajuan tempat dalam satu platform sehingga ruang yang tersedia menjadi lebih mudah ditemukan dan dimanfaatkan.
+* 💡 **Value Proposition**: Menyatukan proses pencarian, eksplorasi informasi, pengecekan ketersediaan, dan pengajuan tempat dalam satu platform sehingga ruang yang tersedia menjadi lebih mudah ditemukan dan dimanfaatkan.
 
 ---
 
@@ -103,14 +103,14 @@ Dengan mempertemukan kebutuhan pengguna dengan tempat yang tersedia, RuangSela b
 
 ### Fitur Tambahan
 
-- **Rekomendasi Tempat** - Menampilkan tempat yang dapat menjadi pilihan berdasarkan kebutuhan pengguna.
-- **Trending Places** - Menampilkan tempat yang sedang banyak dilihat atau diminati.
-- **Filter Tempat** - Membantu pengguna mempersempit hasil pencarian berdasarkan kategori dan karakteristik tempat.
-- **Status Pengajuan** - Pengguna dapat melihat perkembangan pengajuan mulai dari menunggu hingga selesai.
-- **Verifikasi Tempat** - Admin dapat melakukan proses verifikasi terhadap tempat yang didaftarkan oleh pengelola.
-- **Verifikasi Pengguna** - Admin dapat memantau dan mengelola status pengguna.
-- **Riwayat Pengajuan** - Pengguna dapat melihat seluruh riwayat pengajuan tempat yang pernah dilakukan.
-- **Manajemen Fasilitas** - Informasi fasilitas ditampilkan berdasarkan fasilitas yang benar-benar tersedia pada masing-masing tempat.
+* **Rekomendasi Tempat** - Menampilkan tempat yang dapat menjadi pilihan berdasarkan kebutuhan pengguna.
+* **Trending Places** - Menampilkan tempat yang sedang banyak dilihat atau diminati.
+* **Filter Tempat** - Membantu pengguna mempersempit hasil pencarian berdasarkan kategori dan karakteristik tempat.
+* **Status Pengajuan** - Pengguna dapat melihat perkembangan pengajuan mulai dari menunggu hingga selesai.
+* **Verifikasi Tempat** - Admin dapat melakukan proses verifikasi terhadap tempat yang didaftarkan oleh pengelola.
+* **Verifikasi Pengguna** - Admin dapat memantau dan mengelola status pengguna.
+* **Riwayat Pengajuan** - Pengguna dapat melihat seluruh riwayat pengajuan tempat yang pernah dilakukan.
+* **Manajemen Fasilitas** - Informasi fasilitas ditampilkan berdasarkan fasilitas yang benar-benar tersedia pada masing-masing tempat.
 
 ---
 
@@ -124,17 +124,24 @@ Dengan mempertemukan kebutuhan pengguna dengan tempat yang tersedia, RuangSela b
 
 ### Screenshot Aplikasi
 
-Screenshot aplikasi dapat ditambahkan setelah seluruh halaman utama selesai dan deployment tersedia.
+<div align="center">
+  <img src="./front-end/public/screenshots/Homepage.jpeg" alt="Homepage" width="800"/>
+  <p><em>Homepage - Tampilan utama aplikasi</em></p>
 
-Contoh halaman yang dapat ditampilkan:
+  <img src="./front-end/public/screenshots/Pencarian.jpeg" alt="Halaman Pencarian Tempat" width="800"/>
+  <p><em>Pencarian Tempat - Filter dan pencarian ruang</em></p>
 
-- Homepage
-- Halaman pencarian tempat
-- Detail tempat
-- Halaman Pengajuan Saya
-- Dashboard Admin
-- Halaman Verifikasi Tempat
-- Halaman Verifikasi User
+  <img src="./front-end/public/screenshots/DetailTempat.jpeg" alt="Detail Tempat" width="800"/>
+  <p><em>Detail Tempat - Informasi lengkap suatu tempat</em></p>
+
+  <img src="./front-end/public/screenshots/AdminDashboard.png" alt="Dashboard Admin" width="800"/>
+  <p><em>Dashboard Admin - Panel monitoring platform</em></p>
+
+  <img src="./front-end/public/screenshots/PengelolaDashboard.png" alt="Dashboard Pengelola" width="800"/>
+  <p><em>Dashboard Pengelola - Panel monitoring platform</em></p>
+
+</div>
+
 
 ### Video Demo
 
@@ -148,37 +155,191 @@ Contoh halaman yang dapat ditampilkan:
 
 ### Tech Stack
 
-#### Frontend
+## Frontend
 
-```text
-Framework    : Next.js
-Language     : TypeScript
-Styling      : Tailwind CSS
-UI           : Custom React Components
-Routing      : Next.js App Router
+| Technology | Version | Purpose |
+|---|---|---|
+| *Next.js* | 15.5 | React framework (App Router, SSR, SSG, Turbopack) |
+| *React* | 19.1 | UI library |
+| *TypeScript* | 5.9 | Type safety |
+| *Tailwind CSS* | 4.1 | Utility-first CSS |
+| *Zod* | 4.1 | Schema validation |
+| *React Hook Form* | 7.62 | Form handling + validation |
+| *@supabase/ssr* | 0.7 | Supabase server-side auth |
+| *@supabase/supabase-js* | 2.56 | Supabase client SDK |
+| *Leaflet* | 1.9 | Peta OpenStreetMap (marker, tile, zoom) |
+| *Lucide React* | 0.542 | Icon library |
+| *Vitest* | 3.2 | Unit testing |
+| *Playwright* | 1.55 | E2E testing |
+| *ESLint* | 9.34 | Linting |
 
-#### Backend
+### Deployment
+
+| Platform | Purpose |
+|---|---|
+| *Vercel* | Frontend hosting + CI/CD dari branch master |
+
+---
+
+## Backend
+
+| Technology | Version | Purpose |
+|---|---|---|
+| *Python* | 3.10+ | Runtime |
+| *FastAPI* | 0.110 | REST API framework |
+| *Uvicorn* | 0.29 | ASGI server |
+| *Pydantic* | 2.8 | Data validation & schemas |
+| *pydantic-settings* | 2.4 | Environment config |
+| *Supabase* | 2.15+ | PostgreSQL + pgvector (database & vector search) |
+| *OpenAI* | 1.52 | LLM API (GPT query expansion) |
+| *Gemini (REST)* | - | LLM fallback via httpx direct REST |
+| *httpx* | 0.27 | HTTP client (Gemini REST) |
+| *Mangum* | 0.17 | AWS Lambda / Vercel serverless adapter |
+| *python-dotenv* | 1.0 | .env loader |
+| *python-multipart* | 0.09 | File upload support |
+
+### ML / Embedding (Local Only)
+
+| Technology | Version | Purpose |
+|---|---|---|
+| *PyTorch* | 2.4 | Deep learning runtime |
+| *Transformers* | 4.44 | HuggingFace tokenizer + model |
+| *NumPy* | 1.26 | Numerical computation |
+
+> *Catatan:* torch dan transformers tidak diinstal di Vercel (melebihi limit 250MB). Hosting fallback ke dummy_embedding (hash-based). ML deps hanya dipakai lokal untuk job embedding.
+
+### Deployment
+
+| Platform | Purpose |
+|---|---|
+| *Vercel* | Python serverless (FastAPI via Mangum) |
+| *Supabase* | PostgreSQL + pgvector + Auth |
+
+---
+
+## Scraper
+
+| Technology | Version | Purpose |
+|---|---|---|
+| *Playwright* | 1.48 | Browser automation (Chromium) |
+| *Pandas* | 2.2 | Data manipulation & export CSV |
+| *openpyxl* | 3.1 | Excel export |
+
+---
+
+## Database
+
+| Technology | Purpose |
+|---|---|
+| *PostgreSQL* | Relational database (via Supabase) |
+| *pgvector* | Vector similarity search (embedding IndoBERT 768-dim) |
+
+### Schema
+
+| Tabel | Description |
+|---|---|
+| places | Data tempat (nama, kategori, alamat, lat/lng, rating, foto, jam operasional) |
+| place_embeddings | Vektor embedding 768-dim (pgvector) |
+| place_facilities | Relasi many-to-many tempat ↔️ fasilitas |
+| reviews | Ulasan pengguna |
+
+---
+
+## AI / ML Pipeline
 
 
-Backend      : Supabase
-Database     : PostgreSQL (Supabase)
-Authentication: Supabase Auth
-API          : Supabase API
-Storage : Supabase Storage
+User Query (natural language)
+        │
+        ▼
+┌─────────────────────┐
+│  LLM Expansion      │  OpenAI GPT / Google Gemini
+│  (intent parsing)   │  → expanded_query + intent
+└─────────┬───────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  IndoBERT Embedding  │  indobenchmark/indobert-base-p1
+│  (768-dim vector)   │  → query vector
+└─────────┬───────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  pgvector Search     │  Supabase RPC hybrid_search
+│  (cosine similarity)│  → ranked results
+└─────────┬───────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  Hybrid Scoring      │  sim + facility + busy + geo + rating
+│  (soft filter)      │  → final ranked places
+└─────────────────────┘
 
 
-#### DevOps & Tools
+### Hybrid Search Weights
 
-Version Control : Git & GitHub
-Design          : Figma
-Development     : Visual Studio Code
-Deployment      : Vercel
+
+final_score = 0.55 × sim_score         (IndoBERT cosine similarity)
+            + facility_bonus            (+0.15 AC, +0.10 parkir, +0.05 lega)
+            + busy_bonus                ((40 - busy_pct)/40 × 0.15)
+            + rating_norm               (rating/5 × 0.05)
+            + geo_bonus                 ((10 - dist_km)/10 × 0.05)
+
+
+---
+
+## API Endpoints Summary
+
+### Backend (ruang-sela-be.vercel.app)
+
+| Method | Endpoint | Auth | Description |
+|---|---|---|---|
+| GET | /health | Public | Status server + model |
+| GET | /locations | USER/ADMIN | Daftar tempat |
+| GET | /location/:id | USER/ADMIN | Detail tempat |
+| POST | /location | USER/ADMIN | Ajukan tempat baru |
+| POST | /search/json | ALL | Pencarian hybrid (LLM + IndoBERT) |
+| GET | /recommendations | USER | Rekomendasi berdasarkan profil |
+| GET | /profile | USER | Ambil profil |
+| PUT | /profile | USER | Update preferensi |
+| POST | /admin/verifyLocation | ADMIN | Verifikasi tempat |
+| DELETE | /admin/deleteLocation/:id | ADMIN | Hapus tempat |
+
+> Dokumentasi lengkap: [API.md](https://github.com/sayyidoliem/ruang-sela/blob/back-end/BE/docs/API.md)
+
+---
+
+## Infrastructure
+
+
+┌──────────────┐      ┌──────────────────┐      ┌─────────────────┐
+│   Browser     │─────▶️│   Vercel (FE)     │─────▶️│  Vercel (BE)     │
+│   (User)      │◀️─────│   Next.js 15      │◀️─────│  FastAPI          │
+└──────────────┘      └──────────────────┘      └────────┬────────┘
+                                                         │
+                                                         ▼
+                                                ┌─────────────────┐
+                                                │   Supabase       │
+                                                │   PostgreSQL     │
+                                                │   pgvector       │
+                                                └─────────────────┘
+
+
+| Layer | Technology | Hosting |
+|---|---|---|
+| Frontend | Next.js 15 + React 19 | Vercel |
+| Backend | FastAPI + Python 3.10 | Vercel (serverless) |
+| Database | PostgreSQL + pgvector | Supabase |
+| Auth | Supabase Auth | Supabase |
+| AI/ML | IndoBERT + OpenAI/Gemini | HuggingFace + API |
+| Map | Leaflet + OpenStreetMap | OpenStreetMap tiles |
+
+
 
 ### Alasan Pemilihan Teknologi
 
-| Teknologi    | Alasan Pemilihan                                                         |
-| ------------ | ------------------------------------------------------------------------ |
-| **Next JS** | Digunakan sebagai framework utama karena mendukung pengembangan aplikasi web modern dengan routing, rendering, dan struktur project yang terorganisir. |
+| Teknologi | Alasan Pemilihan |
+| --------- | ----------------- |
+| **Next.js** | Digunakan sebagai framework utama karena mendukung pengembangan aplikasi web modern dengan routing, rendering, dan struktur project yang terorganisir. |
 | **TypeScript** | Membantu meningkatkan type safety dan mengurangi kesalahan saat pengembangan aplikasi. |
 | **Tailwind CSS** | Mempermudah pembuatan antarmuka yang konsisten, responsif, dan dapat dikembangkan dengan cepat. |
 | **Figma** | Digunakan untuk merancang UI/UX sebelum implementasi ke dalam aplikasi. |
@@ -186,7 +347,6 @@ Deployment      : Vercel
 | **Vercel** | Digunakan sebagai platform deployment yang terintegrasi dengan workflow Next.js. |
 | **Supabase** | Digunakan sebagai backend platform yang menyediakan PostgreSQL database, authentication, storage, serta API sehingga proses pengembangan backend dapat dilakukan secara efisien. |
 | **PostgreSQL** | Digunakan sebagai database relasional untuk menyimpan data pengguna, tempat, pengajuan, fasilitas, jadwal, dan ulasan. |
-
 
 ### Dependencies Utama
 
@@ -234,7 +394,6 @@ Deployment      : Vercel
     "vitest": "^3.2.4"
   }
 }
-
 ```
 
 ---
@@ -244,105 +403,415 @@ Deployment      : Vercel
 ### System Architecture
 
 ```
- 
+[Tambahkan diagram arsitektur sistem di sini — bisa menggunakan Mermaid atau gambar]
 ```
 
 ### Database Schema
 
 ```
-[Tambahkan diagram ERD atau schema database]
+TABLE: places
+* id                  uuid       PK
+* place_id            text
+* cid                 text
+* keyword             text
+* nama                text
+* kategori            text
+* kategori_list       text
+* alamat              text
+* alamat_lengkap      text
+* plus_code           text
+* lat                 float8
+* lng                 float8
+* geom                geography
+* rating              float8
+* jumlah_review       int
+* jam_operasional     json
+* jam_operasional_raw text
+* status_buka         text
+* popular_times_raw   text
+* jam_ramai           text
+* telepon             text
+* website             text
+* harga_text          text
+* price_level         text
+* price_range         text
+* deskripsi           text
+* scraped_at          timestamp
+* total_open_hours    float8
+* is_24h              bool
+* has_weekend         bool
+* facility_score      int
+* fasilitas_raw       text
+* foto_urls           text[]
+* foto_count          int
+* created_at          timestamp
+
+TABLE: reviews
+* id        uuid   PK
+* place_id  uuid   FK -> places.id
+* text      text
+* rating    int
+* hash      text
+
+TABLE: busy_hours
+* place_id     uuid   FK -> places.id
+* day          text
+* hour         int
+* busy_percent int
+
+TABLE: place_facilities
+* place_id    uuid   FK -> places.id
+* facility_id int    FK -> facilities.id
+* is_negative bool
+
+TABLE: facilities
+* id         int    PK
+* name       text
+* is_generic bool
+
+TABLE: place_embeddings
+* place_id   uuid        FK -> places.id
+* content    text
+* embedding  vector
+* model      text
+* updated_at timestamptz
+
+TABLE: eval_queries
+* id        uuid   PK
+* query_text text
+* lat       float8
+* lng       float8
+* radius_m  int
+
+TABLE: eval_results
+* id          uuid   PK
+* query_id    uuid   FK -> eval_queries.id
+* system      text
+* place_id    uuid   FK -> places.id
+* rank        int
+* sim         float8
+* final_score float8
+* llm_score   int
+
+TABLE: spatial_ref_sys
+* srid      int    PK
+* auth_name varchar
+* auth_srid int
+* srtext    varchar
+* proj4text varchar
 ```
 
 ### Folder Structure
 
 ```
-project-root/
+ruang-sela/
+├── docs/
+├── public/
+│   └── images/
+│
 ├── src/
-│   ├── components/     # Reusable components
-│   ├── pages/          # Page components
-│   ├── hooks/          # Custom hooks
-│   ├── utils/          # Utility functions
-│   ├── services/       # API services
-│   ├── store/          # State management
-│   └── types/          # TypeScript types
-├── public/             # Static assets
-├── tests/              # Test files
-└── docs/               # Documentation
+│   ├── app/
+│   │   ├── (admin)/
+│   │   ├── (manager)/
+│   │   ├── (public)/
+│   │   ├── (settings)/
+│   │   ├── (user)/
+│   │   ├── api/
+│   │   ├── components/
+│   │   ├── error.tsx
+│   │   ├── favicon.ico
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   ├── loading.tsx
+│   │   ├── not-found.tsx
+│   │   └── page.tsx
+│   │
+│   ├── config/
+│   ├── features/
+│   └── shared/
+│
+├── tests/
+│
+├── .env.example
+├── .gitignore
+├── eslint.config.mjs
+├── next-env.d.ts
+├── next.config.ts
+├── package.json
+├── playwright.config.ts
+├── postcss.config.mjs
+├── README.md
+├── SECURITY.md
+├── tsconfig.json
+└── vitest.config.ts
 ```
 
 ---
 
 ## ⚙️ Instalasi & Setup
 
+
+## Struktur Repository
+
+ruang-sela/
+├── front-end/          # Next.js 15 Frontend
+├── BE/                 # FastAPI Backend (Python)
+├── api/                # Vercel serverless entrypoint
+├── data/               # Data mentah (CSV/JSON)
+├── scraper/            # Google Maps Scraper (Playwright)
+├── scripts/            # Utility scripts
+└── vercel.json         # Root Vercel config
+
+
+---
+
+## 1. Frontend (Next.js)
+
 ### Prerequisites
 
-Pastikan Anda telah menginstall:
+- *Node.js* >= 18.x
+- *npm* >= 9.x
 
-- **Node.js** (v18.x atau lebih tinggi)
-- **npm** / **yarn** / **pnpm**
-- **[Database]** (jika diperlukan)
-- **Git**
+### Install
 
-### Langkah Instalasi
-
-#### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/[username]/[repo-name].git
-cd [repo-name]
-```
-
-#### 2️⃣ Install Dependencies
-
-```bash
-# Menggunakan npm
+bash
+cd front-end
 npm install
 
-# Atau menggunakan yarn
-yarn install
 
-# Atau menggunakan pnpm
-pnpm install
-```
+### Environment Variables
 
-#### 3️⃣ Setup Environment Variables
+Buat file front-end/.env.local:
 
-Buat file `.env` di root directory:
+env
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+NEXT_PUBLIC_API_URL=https://ruang-sela-be.vercel.app
 
-```env
-# Database
-DATABASE_URL="[connection_string]"
+# Supabase (opsional untuk auth)
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
 
-# Authentication
-JWT_SECRET="[your_jwt_secret]"
-NEXTAUTH_SECRET="[your_nextauth_secret]"
+# AI Keys (opsional)
+AI_API_KEY=
+AI_BASE_URL=
 
-# API Keys
-API_KEY="[your_api_key]"
 
-# Other configs
-NODE_ENV="development"
-PORT=3000
-```
+| Variable | Required | Description |
+|---|---|---|
+| NEXT_PUBLIC_APP_URL | Ya | URL frontend (default: http://localhost:3000) |
+| NEXT_PUBLIC_API_URL | Ya | URL backend hosted (default: https://ruang-sela-be.vercel.app) |
+| NEXT_PUBLIC_SUPABASE_URL | Tidak | Supabase project URL |
+| NEXT_PUBLIC_SUPABASE_ANON_KEY | Tidak | Supabase anonymous key |
 
-#### 4️⃣ Setup Database
+### Jalankan
 
-```bash
-# Jalankan migrasi database
-npm run db:migrate
+bash
+npm run dev          # Development (http://localhost:3000)
+npm run build        # Production build
+npm start            # Jalankan production build
+npm run lint         # Linting
+npm run typecheck    # Type check TypeScript
+npm run test         # Unit tests
 
-# Seed data (opsional)
-npm run db:seed
-```
 
-#### 5️⃣ Run Development Server
+### Deployment (Vercel)
 
-```bash
+Framework: Next.js. Deploy otomatis dari branch master.
+
+*Root Directory:* front-end/
+
+---
+
+## 2. Backend (FastAPI)
+
+### Prerequisites
+
+- *Python* >= 3.10
+- *pip*
+
+### Install
+
+bash
+cd BE
+pip install -r requirements.txt
+
+
+Untuk fitur ML embedding lokal (opsional — hanya untuk ETL/embedding script):
+
+bash
+pip install -r requirements.ml.txt
+
+
+### Environment Variables
+
+Buat file BE/.env:
+
+env
+SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_SERVICE_KEY=eyJhbGci...
+SUPABASE_ANON_KEY=eyJhbGci...
+
+# LLM Provider (pilih salah satu)
+OPENAI_API_KEY=sk-...          # OpenAI
+GEMINI_API_KEY=AIza...         # Google Gemini (fallback)
+
+# Opsional
+ADMIN_KEY=changeme
+MODEL_NAME=indobenchmark/indobert-base-p1
+HF_TOKEN=hf_...               # Jika model private
+
+
+| Variable | Required | Description |
+|---|---|---|
+| SUPABASE_URL | Ya | URL project Supabase |
+| SUPABASE_SERVICE_KEY | Ya* | Supabase service role key (*fallback: SUPABASE_SERVICE_ROLE_KEY) |
+| SUPABASE_ANON_KEY | Tidak | Supabase anon key |
+| OPENAI_API_KEY | Tidak | API key OpenAI untuk LLM search |
+| GEMINI_API_KEY | Tidak | API key Google Gemini (jika tidak pakai OpenAI) |
+| ADMIN_KEY | Tidak | Key untuk endpoint admin (default: changeme) |
+| MODEL_NAME | Tidak | Nama model IndoBERT (default: indobenchmark/indobert-base-p1) |
+
+### Jalankan
+
+bash
+cd BE
+uvicorn app.main:app --reload --port 8000
+
+
+Backend berjalan di http://localhost:8000
+
+### API Docs
+
+- Swagger UI: http://localhost:8000/docs
+- OpenAPI JSON: http://localhost:8000/openapi.json
+- Health check: http://localhost:8000/health
+
+### Deployment (Vercel)
+
+Backend di-deploy via Vercel Python serverless.
+
+*Root Directory:* BE/
+
+> *Catatan Vercel:* File requirements.txt di BE/ tidak menyertakan torch/transformers (melebihi limit 250MB). Backend akan fallback ke embedding berbasis hash saat model tidak tersedia.
+
+---
+
+## 3. Scraper (Playwright)
+
+### Prerequisites
+
+- *Python* >= 3.10
+- *pip*
+- *Playwright Chromium* (diinstall otomatis)
+
+### Install
+
+bash
+pip install -r requirements.txt
+pip install -r requirements-scraper.txt
+playwright install chromium
+
+
+### Jalankan
+
+bash
+# Sampel 5 tempat Jakarta Barat
+python -m scraper.main --limit 5 --location "Jakarta Barat"
+
+# Headless mode
+python -m scraper.main --limit 5 --headless
+
+# Bulk 75 tempat DKI
+python scripts/collect_75.py
+
+
+Output tersimpan di data/raw/ dalam format .json dan .csv.
+
+---
+
+## 4. Database (Supabase)
+
+### Schema
+
+Schema SQL tersedia di:
+
+- BE/supabase/schema.sql — DDL lengkap (tabel, index, vector)
+- BE/supabase/rpc.sql — RPC function hybrid_search untuk pgvector
+
+### Setup
+
+1. Buat project di [Supabase](https://supabase.com)
+2. Jalankan schema.sql di SQL Editor Supabase
+3. Jalankan rpc.sql untuk membuat fungsi hybrid search
+4. Import data dari BE/schema/places.csv ke tabel places
+5. Jalankan ETL untuk embedding:
+   bash
+   cd BE
+   pip install -r requirements.txt -r requirements.ml.txt
+   python scripts/etl_bulk75.py
+   python scripts/embed_places.py
+   
+
+### Tabel Utama
+
+| Tabel | Description |
+|---|---|
+| places | Data tempat/ruang |
+| place_embeddings | Vektor embedding (pgvector) |
+| place_facilities | Relasi tempat ↔️ fasilitas |
+| users | Data pengguna |
+
+---
+
+## Quick Start
+
+### 1. Clone & Install
+
+bash
+git clone https://github.com/sayyidoliem/ruang-sela.git
+cd ruang-sela
+
+# Frontend
+cd front-end && npm install && cd ..
+
+# Backend
+cd BE && pip install -r requirements.txt && cd ..
+
+
+### 2. Setup Environment
+
+bash
+# Frontend
+cp front-end/.env.example front-end/.env.local
+# Edit .env.local sesuai kebutuhan
+
+# Backend
+cp BE/.env.example BE/.env  # atau buat manual
+# Edit .env dengan credential Supabase dan API key
+
+
+### 3. Jalankan
+
+bash
+# Terminal 1: Backend
+cd BE
+uvicorn app.main:app --reload --port 8000
+
+# Terminal 2: Frontend
+cd front-end
 npm run dev
-```
 
-Aplikasi akan berjalan di `http://localhost:3000`
 
+### 4. Akses
+
+| Service | URL |
+|---|---|
+| Frontend | http://localhost:3000 |
+| Backend API | http://localhost:8000 |
+| Backend Docs | http://localhost:8000/docs |
+
+> *Tanpa Supabase/Model:* Frontend tetap berjalan menggunakan backend hosted (ruang-sela-be.vercel.app). Search menggunakan fallback lokal (keyword scoring). Gambar & detail tetap ter-load dari endpoint hosted.
 ---
 
 ## 🚀 Penggunaan
@@ -355,13 +824,6 @@ npm run dev
 
 # Production build
 npm run build
-npm run start
-
-# Run tests
-npm run test
-
-# Linting
-npm run lint
 ```
 
 ### User Guide
@@ -384,8 +846,6 @@ npm run lint
 5. **Mengelola Pengajuan**: Melihat, menerima, atau menolak pengajuan penggunaan tempat.
 6. **Melihat Ulasan**: Memantau rating dan ulasan pengguna terhadap tempat yang dikelola.
 
-
-
 #### Untuk Admin
 
 1. **Akses Admin Panel**: Masuk menggunakan akun administrator untuk mengakses dashboard.
@@ -393,6 +853,7 @@ npm run lint
 3. **Verifikasi Tempat**: Memeriksa dan memverifikasi tempat yang didaftarkan oleh manager.
 4. **Verifikasi User**: Mengelola status dan verifikasi akun pengguna.
 5. **Monitoring**: Memantau pengajuan, aktivitas platform, dan pendapatan.
+
 ---
 
 ## 📚 API Documentation
@@ -400,32 +861,200 @@ npm run lint
 ### Base URL
 
 ```
-Development: http://localhost:3000/api
-Production:  https://[domain]/api
-```
+| Environment | URL |
+|---|---|
+| Development | http://localhost:3000/api |
+| Production | https://[domain]/api |
 
-### Endpoints
+> Frontend di-deploy secara terpisah. API request dari client-side langsung ke backend hosted.
 
-#### Authentication
+## Backend Hosted
 
-```http
-POST /api/auth/register
-POST /api/auth/login
-POST /api/auth/logout
-GET  /api/auth/me
-```
+| Environment | URL |
+|---|---|
+| Production | https://ruang-sela-be.vercel.app |
 
-#### [Resource 1]
+> Dokumentasi lengkap endpoint backend: [API.md (back-end branch)](https://github.com/sayyidoliem/ruang-sela/blob/back-end/BE/docs/API.md)
 
-```http
-GET    /api/[resource]       # Get all
-GET    /api/[resource]/:id   # Get by ID
-POST   /api/[resource]       # Create
-PUT    /api/[resource]/:id   # Update
-DELETE /api/[resource]/:id   # Delete
-```
+---
 
-### Example Request
+## Authentication
+
+| Method | Endpoint | Description |
+|---|---|---|
+| POST | /api/auth/register | Register akun baru |
+| POST | /api/auth/login | Login dan dapatkan token |
+| POST | /api/auth/logout | Hapus sesi / logout |
+| GET | /api/auth/me | Ambil data user yang sedang login |
+
+### Auth Headers
+
+
+Authorization: Bearer <jwt_token>
+X-Role: USER | ADMIN          (mock dev mode)
+X-User-Id: <uuid>             (mock dev mode)
+
+
+---
+
+## Resource Endpoints (CRUD)
+
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | /api/[resource] | Ambil semua data |
+| GET | /api/[resource]/:id | Ambil data berdasarkan ID |
+| POST | /api/[resource] | Buat data baru |
+| PUT | /api/[resource]/:id | Update data |
+| DELETE | /api/[resource]/:id | Hapus data |
+
+---
+
+## Backend Endpoints (Hosted)
+
+Berikut mapping endpoint backend https://ruang-sela-be.vercel.app yang digunakan frontend:
+
+### Public
+
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | /health | Cek status server dan model |
+| POST | /search/json | Pencarian hybrid (LLM + IndoBERT) |
+| POST | /search/file | Pencarian via file JSON (legacy) |
+| GET | /search/test?q=... | Quick test pencarian (tanpa auth) |
+| GET | /locations | Daftar lokasi (USER: published, ADMIN: all) |
+| GET | /location/:id | Detail lokasi |
+| GET | /recommendations | Rekomendasi berdasarkan profil user |
+
+### Auth Required
+
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | /profile | Ambil profil user |
+| PUT | /profile | Update preferensi profil |
+| POST | /location | Ajukan lokasi baru (USER → pending, ADMIN → published) |
+
+### Admin Only
+
+| Method | Endpoint | Description |
+|---|---|---|
+| POST | /admin/verifyLocation | Verifikasi / tolak lokasi pending |
+| DELETE | /admin/deleteLocation/:id | Hapus lokasi |
+
+---
+
+## Example Request
+
+### Login
+
+ts
+const response = await fetch("https://ruang-sela-be.vercel.app/profile", {
+  method: "GET",
+  headers: {
+    "X-Role": "USER",
+  },
+});
+const data = await response.json();
+
+
+### Cari Lokasi
+
+ts
+const response = await fetch("https://ruang-sela-be.vercel.app/locations?limit=10&offset=0", {
+  headers: { "X-Role": "USER" },
+});
+const data = await response.json();
+// { role: "USER", total: 75, data: [...] }
+
+
+### Detail Lokasi
+
+ts
+const response = await fetch("https://ruang-sela-be.vercel.app/location/11cs0c_3z7", {
+  headers: { "X-Role": "USER" },
+});
+const data = await response.json();
+// { nama: "...", kategori: "...", foto_urls: [...], fasilitas: [...], ... }
+
+
+### Search (JSON + LLM)
+
+ts
+const response = await fetch("https://ruang-sela-be.vercel.app/search/json", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    "X-Role": "USER",
+  },
+  body: JSON.stringify({
+    data_text: "ruangan yang memiliki AC dan juga parkir",
+    top_k: 10,
+    mode: "hybrid",
+  }),
+});
+const data = await response.json();
+// { query: "...", results: [...], debug: {...} }
+
+
+### Ajukan Lokasi Baru
+
+ts
+const response = await fetch("https://ruang-sela-be.vercel.app/location", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    "X-Role": "USER",
+  },
+  body: JSON.stringify({
+    nama: "Aula Warga Baru",
+    alamat: "Jl. Contah No. 1, Jakarta",
+    lat: -6.17,
+    lng: 106.76,
+    kategori: "Aula serbaguna",
+    fasilitas: ["Parkir", "AC"],
+  }),
+});
+const data = await response.json();
+// { place_id: "...", status: "pending", message: "Menunggu verifikasi admin" }
+
+
+### Verifikasi Lokasi (Admin)
+
+ts
+const response = await fetch("https://ruang-sela-be.vercel.app/admin/verifyLocation", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    "X-Role": "ADMIN",
+  },
+  body: JSON.stringify({
+    location_id: "11new_xxx",
+    action: "accept",
+  }),
+});
+
+
+---
+
+## Error Response Format
+
+json
+{
+  "detail": "Error message dari server"
+}
+
+
+Validation error (422):
+
+json
+{
+  "detail": [
+    {
+      "loc": ["body", "nama"],
+      "msg": "String should have at least 3 characters",
+      "type": "string_too_short"
+    }
+  ]
+}
 
 ```javascript
 // Login
@@ -443,35 +1072,6 @@ const response = await fetch("/api/auth/login", {
 
 ---
 
-## 🧪 Testing
-
-### Running Tests
-
-```bash
-# Unit tests
-npm run test
-
-# Integration tests
-npm run test:integration
-
-# E2E tests
-npm run test:e2e
-
-# Test coverage
-npm run test:coverage
-```
-
-### Test Coverage
-
-```
-Statements   : XX%
-Branches     : XX%
-Functions    : XX%
-Lines        : XX%
-```
-
----
-
 ## 📄 Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE) - lihat file LICENSE untuk detail lebih lanjut.
@@ -480,6 +1080,6 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE) - lihat file LICENSE unt
 
 <div align="center">
 
-**Made with ❤️ by kita ikut lomba ITechnoCup soalnya lagi gabut aja sih for ITECHNO CUP 2026**
+**Made with ❤️ for ITECHNO CUP 2026**
 
 </div>

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import type { SVGProps } from "react";
 import Link from "next/link";
+import { api } from "@/shared/lib/api";
 
 import Footer from "@/app/components/Footer";
 import Navbar from "./components/Navbar";
@@ -112,89 +113,9 @@ const categories = [
   },
 ] as const;
 
-const trendingSpaces = [
-  {
-    id: "taman-kolaborasi-jakarta-timur",
-    title: "Taman Kolaborasi",
-    location: "Jakarta Timur",
-    rating: 4.9,
-    capacity: 120,
-    imageSrc:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuDMvqtlF-UEvTf90ROnI6mU59OHbyJS4t0zK38gva_-L17qUB4z0xFwxSveKvGz4gx2-jSh-TPG40Ihn0-VsxRiLblGgxMxEOfdFMYBvl7tWRz00uU2XBTpWLV28LsKnPROPteMBEhr_b8UrByHJnKx3XMbAwWhTwbB8e_9WSvtJx2_Jhh1H48T837q8ikfWoo0RfXen8GlBEayeFpj-eork_HVrnUzE4TqUjZVRWgM-ZG1uW7WYnYs",
-    imageAlt: "Taman Kolaborasi Komunitas",
-  },
-  {
-    id: "taman-kolaborasi-ruang-terbuka",
-    title: "Taman Kolaborasi",
-    location: "Jakarta Timur",
-    rating: 4.9,
-    capacity: 120,
-    imageSrc:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuA3QpFo3zaaamw7BTHyPkELdL7jrdr2rNoXHr4kPplSh1y09degaf4eJuD5Lij4SPsiHmfVIOwQYP4ws0y2-AVG4Jvq7Yw4ytVQI0iaiy6SMalz6TUdCOR8OPqRKbliTjdt5Vyl9wbtcAFbbNxKbJeOujWsR_0JoyW0xxfDFrUIMovn_EYZee_tcHZ4AtAPEwg6qqMEs79p0Cnd6NwHryBHf522m1H-Ze-U1sGvIzXElLZHYmxjFGaI",
-    imageAlt: "Taman Kolaborasi ruang terbuka",
-  },
-  {
-    id: "taman-kolaborasi-ruang-hijau",
-    title: "Taman Kolaborasi",
-    location: "Jakarta Timur",
-    rating: 4.9,
-    capacity: 120,
-    imageSrc:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuDAtYcrSdw3oW3sqDfN3ZM4nZyMvS-ysLIjN7lrK7RfojZhZoM8VV7jh0ZDQ7dscw6t9tSl1uEbUR_sYSQE_yTnR6kxfBR73kOMOQQbf-eR0TckSoMW0PB-SaINyC2w88JV3V-wE-kEA8B39JnH_exrEqJHNkHLqheVJcNT3qN2uEkeOmhce6ghDxzTzsQzFphlPeg-o5i-qKllMWsQRSbrjEV0BwPTqi3jx8draCceas2K3O1AF7Tg",
-    imageAlt: "Taman Kolaborasi ruang hijau",
-  },
-] as const;
-
-const recommendedSpaces = [
-  {
-    id: "ruang-diskusi-cempaka",
-    title: "Ruang Diskusi Cempaka",
-    description:
-      "Cocok untuk rapat kecil dan diskusi tim dengan fasilitas lengkap.",
-    rating: 4.7,
-    area: "Cempaka Putih",
-    imageSrc:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBYVYcmISZgEqwhHoJMAtv_khjA4wefOgzT5ZW2XqNgLLXxB3RtCK3xcg0NoaFq1B_TAKQHxCo4FLc3mxzqfNgpmTNBjBp8LTt_nJVay7zo427E-U2zeZJnjCGZoFkcm8uGT2ufzPF4HYtbv33L9EjM2Hgk3xVowxFL8G0Wu6bhHBIEdQtMC6g7ig8gwIp9GWqgVaB-4MOSHsP8XqcRDw7KAbed6U06HCBTgmOPTDqrS3WoJ7EX9nUn",
-    imageAlt: "Ruang Diskusi Cempaka",
-  },
-  {
-    id: "ruang-diskusi-tanjung-duren",
-    title: "Ruang Diskusi Tanjung Duren",
-    description:
-      "Cocok untuk rapat kecil dan diskusi tim dengan fasilitas lengkap.",
-    rating: 4.7,
-    area: "Tanjung Duren",
-    imageSrc:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuCWarpLvYJfO6TjysIkgNG-RHNWd04AuWQcpO5vP2PxdqQpok1AqrSIskZsaXg1r3oNUEmdXNHpcZe_SIC6sOFq36xGYmmT7K3kS02Me1mdBYWbVDtHo2WqVa7ncBgj4GTnoV0TM-YIPOFprjFeXcB5rfEkHEvskcCupiNf8N3pEyKNhH03S9wksmXc0Z48edB4BATZ8QeHDlEWdIQ5AaDvJ0DZ203mCfej2yh81RpvwUB88NJjsFVc",
-    imageAlt: "Ruang Diskusi Tanjung Duren",
-  },
-  {
-    id: "ruang-diskusi-kemanggisan",
-    title: "Ruang Diskusi Kemanggisan",
-    description:
-      "Cocok untuk rapat kecil dan diskusi tim dengan fasilitas lengkap.",
-    rating: 4.7,
-    area: "Kemanggisan",
-    imageSrc:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBmuLl4XiYAakBU026Gf2ofb5n6wma02aztaGAf4pKJW9h3RZyoMUR8wQbgD0UNqAYsViX8uofxEHi8_pNW0L__lfnHvXZmEF5woL-DmjvL8hiOrpCCBboTGiz_mQZTB-_kKOufxychNHPJCKP-Yn3yIeCCW7hNUt8RvR7cNEjvCLDyifp082LuyVarW0bF4bixLGwY4WZVIAZgJehTSSiP8zJLXQfflKZRcvllnFhGeYlws0XYzhk8",
-    imageAlt: "Ruang Diskusi Kemanggisan",
-  },
-  {
-    id: "ruang-diskusi-tanah-abang",
-    title: "Ruang Diskusi Tanah Abang",
-    description:
-      "Cocok untuk rapat kecil dan diskusi tim dengan fasilitas lengkap.",
-    rating: 4.7,
-    area: "Tanah Abang",
-    imageSrc:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAvj6iRvNfrgWQyn2Z8PJcXPZaktO41A3XqSNyl88fuyEjIOuHKWuarcha4RobASaw2kXBn3gX_Zx5TW13W09hIywqYapA1Gy7Mr1tRjjCnfEq3BOMJ4ACElpxfNPoBnTUFSqCS72p7x3Og69lNhrf7gMVXxgwnF53HCqEJSiceuGLJ68zJI6Mu61WBxnlKTeuE2R_XSGP5fR0xtETlxeXFIMtnLB3OelAN0Tf0CYZn7LweMoi__GxI",
-    imageAlt: "Ruang Diskusi Tanah Abang",
-  },
-] as const;
-
 const impactMetrics = [
   {
-    value: "15k+",
+    value: "75+",
     label: "Ruang Tersedia",
   },
   {
@@ -202,16 +123,70 @@ const impactMetrics = [
     label: "Komunitas Terbantu",
   },
   {
-    value: "120+",
+    value: "13+",
     label: "Kota",
   },
   {
-    value: "4.9/5",
+    value: "4.0/5",
     label: "Rata-rata Rating",
   },
 ] as const;
 
-export default function HomePage() {
+interface SpaceCardData {
+  id: string;
+  title: string;
+  location: string;
+  rating: number;
+  capacity: number;
+  imageSrc: string;
+  imageAlt: string;
+  description: string;
+  area: string;
+}
+
+async function fetchSpaces(): Promise<SpaceCardData[]> {
+  try {
+    const response = await api.locations({ limit: 100 }, { timeoutMs: 30000 });
+    const placeIds = response.data.map((p) => p.place_id);
+
+    const detailMap = new Map<string, string>();
+    for (let i = 0; i < placeIds.length; i += 8) {
+      const batch = placeIds.slice(i, i + 8);
+      const results = await Promise.allSettled(
+        batch.map((id) =>
+          api.locationDetail(id, { timeoutMs: 10000 }),
+        ),
+      );
+      results.forEach((r, idx) => {
+        if (r.status === "fulfilled" && r.value.foto_urls?.[0]) {
+          detailMap.set(batch[idx], r.value.foto_urls[0]);
+        }
+      });
+    }
+
+    return response.data.map((place) => ({
+      id: place.place_id || place.nama,
+      title: place.nama || "Tanpa Nama",
+      location: place.alamat?.split(",")[0] || "Jakarta",
+      rating: place.rating ?? 0,
+      capacity: place.jumlah_review ?? 0,
+      imageSrc: detailMap.get(place.place_id) || "https://placehold.co/640x480?text=RuangSela",
+      imageAlt: place.nama || "Ruang",
+      description:
+        place.kategori || "Ruang publik untuk kegiatan komunitas warga.",
+      area: place.alamat?.split(",")[0] || "Jakarta",
+    }));
+  } catch {
+    return [];
+  }
+}
+
+export const dynamic = "force-dynamic";
+
+export default async function HomePage() {
+  const trendingSpaces = await fetchSpaces();
+  const recommendedSpaces = trendingSpaces.slice(0, 4);
+
   return (
     <div className="min-h-screen bg-white text-slate-800 antialiased selection:bg-violet-500 selection:text-white">
       <Navbar />
@@ -337,7 +312,7 @@ export default function HomePage() {
             </div>
 
             <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
-              {trendingSpaces.map((space) => (
+              {trendingSpaces.slice(0, 6).map((space) => (
                 <article
                   key={space.id}
                   className="card-shadow group flex flex-col overflow-hidden rounded-2xl border border-slate-200/80 bg-white transition-all duration-300 hover:-translate-y-1"

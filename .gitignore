@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+# env & secrets - jangan bocor
+.env
+.env*
+*.env
+# cookies & session - JANGAN COMMIT
+www.google.com_cookies.txt
+*.cookies.txt
+**/*cookies*.txt
+*cookie*.txt
+# npm / node
+package-lock.json
+node_modules/
+# data temp / checkpoint - jangan commit
+data/raw/_ckpt*
+data/raw/_collected*
+data/raw/_remaining*
+data/raw/_supplement*
+data/raw/_ckpt_bulk*
+# python cache
+scraper/__pycache__/
+scripts/__pycache__/
+# OS
+.DS_Store
+Thumbs.db

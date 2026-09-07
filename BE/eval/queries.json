@@ -1,0 +1,12 @@
+[
+  {"id": "q1", "data_text": "ruangan yang memiliki AC dan juga parkir tempat lega dan kosong pada jam 12", "expected_hour": 12, "note": "hard: AC+parkir+empty jam 12"},
+  {"id": "q2", "data_text": "aula murah kapasitas besar untuk pernikahan 200 orang", "note": "price + capacity via reviews"},
+  {"id": "q3", "data_text": "taman yang sepi pagi untuk komunitas lari", "expected_hour": 6, "note": "taman + sepi pagi"},
+  {"id": "q4", "data_text": "co-working space ada wifi kencang dan toilet bersih dekat Jakarta Barat", "note": "co-working + wifi + toilet"},
+  {"id": "q5", "data_text": "tempat 24 jam yang buka minggu", "note": "24h + weekend"},
+  {"id": "q6", "data_text": "lapangan futsal dengan parkir luas dan rating tinggi", "note": "lapangan + parkir + rating"},
+  {"id": "q7", "data_text": "ruang komunitas ada AC dan akses kursi roda", "note": "AC + wheelchair"},
+  {"id": "q8", "data_text": "balai warga dekat Jakarta Barat dengan harga terjangkau", "lat": -6.168242, "lng": 106.758986, "radius_m": 5000, "note": "geo test"},
+  {"id": "q9", "data_text": "gedung serbaguna yang tidak ramai di siang hari jam 14", "expected_hour": 14, "note": "gedung serbaguna + empty jam 14"},
+  {"id": "q10", "data_text": "taman bermain anak dengan toilet dan musholla", "note": "taman bermain + toilet + musholla"}
+]

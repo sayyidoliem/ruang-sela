@@ -11,6 +11,7 @@ interface BookingCardProps {
   durationHours: number;
   capacity: number;
   minimumBooking: string;
+  priceText?: string;
 }
 
 const formatRupiah = (value: number) =>
@@ -27,29 +28,50 @@ export default function BookingCard({
   durationHours,
   capacity,
   minimumBooking,
+  priceText,
 }: BookingCardProps) {
   const router = useRouter();
+  const hasCapacity = capacity > 0;
+  const hasDuration = durationHours > 0;
+  const hasPrice = price > 0;
+  const hasBooking = minimumBooking.length > 0;
 
   return (
     <aside className="lg:sticky lg:top-24">
       <div className="rounded-3xl border border-slate-100 bg-white p-6 shadow-sm">
         <div className="mb-6">
-          <span className="text-2xl font-black tracking-tight text-slate-900">
-            {formatRupiah(price)}
-          </span>
-          <span className="mt-0.5 block text-xs font-medium text-slate-400">
-            / {priceUnit} ({durationHours} jam)
-          </span>
+          {hasPrice ? (
+            <>
+              <span className="text-2xl font-black tracking-tight text-slate-900">
+                {formatRupiah(price)}
+              </span>
+              {hasDuration && (
+                <span className="mt-0.5 block text-xs font-medium text-slate-400">
+                  / {priceUnit} ({durationHours} jam)
+                </span>
+              )}
+            </>
+          ) : priceText ? (
+            <span className="text-lg font-bold text-slate-900">{priceText}</span>
+          ) : (
+            <span className="block text-base font-semibold text-slate-500">
+              Harga belum tersedia
+            </span>
+          )}
         </div>
         <div className="mb-6 space-y-3 text-xs font-medium text-slate-600">
-          <div className="flex items-center gap-2.5">
-            <Users className="h-4 w-4 text-[#7c3aed]" />
-            <span>Kapasitas: Hingga {capacity} orang</span>
-          </div>
-          <div className="flex items-center gap-2.5">
-            <Clock3 className="h-4 w-4 text-[#7c3aed]" />
-            <span>Min. Booking: {minimumBooking}</span>
-          </div>
+          {hasCapacity && (
+            <div className="flex items-center gap-2.5">
+              <Users className="h-4 w-4 text-[#7c3aed]" />
+              <span>Kapasitas: Hingga {capacity} orang</span>
+            </div>
+          )}
+          {hasBooking && (
+            <div className="flex items-center gap-2.5">
+              <Clock3 className="h-4 w-4 text-[#7c3aed]" />
+              <span>Min. Booking: {minimumBooking}</span>
+            </div>
+          )}
         </div>
         <button
           type="button"

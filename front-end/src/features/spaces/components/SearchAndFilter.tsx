@@ -8,6 +8,7 @@ interface SearchAndFilterProps {
   onQueryChange: (query: string) => void;
   onSubmit: () => void;
   onFilterClick?: () => void;
+  loading?: boolean;
 }
 
 const FILTERS = ["Kapasitas", "Harga", "Fasilitas"];
@@ -17,6 +18,7 @@ export default function SearchAndFilter({
   onQueryChange,
   onSubmit,
   onFilterClick,
+  loading = false,
 }: SearchAndFilterProps) {
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();

@@ -1,0 +1,6 @@
+# Local scraper deps (NOT installed on Vercel).
+# Install with: pip install -r requirements-scraper.txt
+#               playwright install chromium
+playwright==1.48.0
+pandas==2.2.3
+openpyxl==3.1.5

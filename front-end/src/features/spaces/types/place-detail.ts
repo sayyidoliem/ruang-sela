@@ -29,4 +29,13 @@ export interface PlaceDetail {
   bookedDates: number[];
   reviews: PlaceReview[];
   crowdLevels: number[];
+  category?: string;
+  rating?: number;
+  reviewCount?: number;
+  phone?: string;
+  website?: string;
+  priceText?: string;
+  statusOpen?: string;
+  lat?: number;
+  lng?: number;
 }

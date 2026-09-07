@@ -154,12 +154,18 @@ export default function CardAvailable({
         </div>
 
         <div className="mt-5 flex items-center justify-between border-t border-slate-100 pt-3">
-          <div>
-            <span className="text-base font-bold text-slate-900 sm:text-lg">
-              {formatRupiah(price)}
+          {price > 0 ? (
+            <div>
+              <span className="text-base font-bold text-slate-900 sm:text-lg">
+                {formatRupiah(price)}
+              </span>
+              <span className="text-xs text-slate-500"> / {priceUnit}</span>
+            </div>
+          ) : (
+            <span className="text-sm font-semibold text-slate-400">
+              Harga belum tersedia
             </span>
-            <span className="text-xs text-slate-500"> / {priceUnit}</span>
-          </div>
+          )}
           <div className="flex items-center gap-2">
             <button
               type="button"

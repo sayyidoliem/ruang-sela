@@ -1,0 +1,5 @@
+# Heavy ML deps for LOCAL embedding jobs only (NOT Vercel — exceeds 250MB limit).
+# Install locally with: pip install -r requirements.txt -r requirements.ml.txt
+transformers==4.44.2
+torch==2.4.0
+numpy==1.26.4

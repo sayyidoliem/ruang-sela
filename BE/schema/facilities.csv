@@ -1,0 +1,45 @@
+id,name,is_generic
+1,AC,false
+2,Ada tempat parkir di lokasi,false
+3,Ada toilet,false
+4,Ada toilet khusus pengguna kursi roda,false
+5,Ada toilet netral gender,false
+6,Ada toilet umum,false
+7,Banyak tempat parkir,false
+8,Bar,true
+9,Gedung parkir berbayar,false
+10,Gym,false
+11,"Jakarta barat well·Bintang 0,0·Tempat Parkir",false
+12,Kolam,false
+13,Kursi roda,false
+14,Lift,false
+15,Memiliki kursi khusus pengguna kursi roda,false
+16,Memiliki pintu masuk khusus pengguna kursi roda,false
+17,Memiliki tempat parkir khusus pengguna kursi roda,false
+18,Menerima reservasi,false
+19,Menyediakan layanan pesan tempat,false
+20,Parkir,false
+21,Parkir di jalan berbayar,false
+22,Parkir di jalan gratis,false
+23,Parkir gratis,false
+24,Parkir valet,false
+25,"Public Toilet·Bintang 5,0·3 ulasan·Kamar Mandi Umum",false
+26,Reservasi,false
+27,Restoran,true
+28,"TEMPAT BEOL FARHAN DAN FAISAL·Bintang 0,0·Toilet Umum Pria",false
+29,Tempat parkir berbayar,false
+30,Tempat parkir gratis,false
+31,Tersedia layanan di tempat,false
+32,Tidak ada toilet khusus pengguna kursi roda,false
+33,Tidak memiliki pintu masuk khusus pengguna kursi roda,false
+34,Tidak memiliki tempat parkir khusus pengguna kursi roda,false
+35,Tidak menyediakan layanan pengiriman,false
+36,Toilet,false
+37,"Toilet·Bintang 5,0·1 ulasan·Kamar Mandi Umum",false
+38,Wi-Fi,false
+39,WiFi,false
+40,"parkir, disebutkan dalam 3 ulasan",false
+41,"parkir, disebutkan dalam 8 ulasan",false
+42,"toilet, disebutkan dalam 3 ulasan",false
+43,"wifi, disebutkan dalam 10 ulasan",false
+44,"wifi, disebutkan dalam 20 ulasan",false

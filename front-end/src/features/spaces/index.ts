@@ -4,5 +4,8 @@ export { default as SpaceSearchContent } from "./components/SpaceSearchContent";
 export { default as PlaceDetailPage } from "./components/detail/PlaceDetailPage";
 export { SPACES } from "./data/spaces";
 export { PLACE_DETAILS, getPlaceBySlug } from "./data/place-details";
+export { mapLocationToSpace } from "./data/map-space";
+export { listSpaces, searchSpaces } from "./service";
+export { getPlaceDetail } from "./service-detail";
 export type { Space } from "./types/space";
 export type { PlaceDetail, PlaceReview, OperatingHour } from "./types/place-detail";

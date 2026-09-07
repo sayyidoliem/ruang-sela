@@ -1,0 +1,17 @@
+# Lite requirements for Vercel (tanpa torch/transformers berat >250MB limit)
+# Vercel Python serverless limit 250MB unzipped - torch 2GB akan gagal
+# BE akan fallback ke dummy_embedding (hash) di BE/app/services/embed_service.py:110
+fastapi==0.110.2
+uvicorn==0.29.0
+pydantic==2.8.2
+pydantic-settings==2.4.0
+python-multipart==0.0.9
+supabase>=2.15.0
+openai==1.52.0
+httpx==0.27.2
+python-dotenv==1.0.1
+mangum==0.17.0
+# NOT included to stay under Vercel 250MB limit:
+#   - google-generativeai -> replaced by direct Gemini REST via httpx (llm_service.py)
+#   - numpy              -> optional, pure-Python fallback in embed_service.py
+#   - torch/transformers -> local-only (BE/requirements.ml.txt)
