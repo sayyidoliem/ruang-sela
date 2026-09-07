@@ -10,6 +10,10 @@ class Settings(BaseSettings):
     supabase_url: Optional[str] = None
     supabase_service_key: Optional[str] = None
     supabase_anon_key: Optional[str] = None
+    # URL publik BE itu sendiri (dipakai OAuth redirect_to -> callback BE)
+    public_api_url: Optional[str] = None
+    # URL frontend (tujuan redirect setelah login/signup/google callback)
+    frontend_url: Optional[str] = None
     model_name: str = "indobenchmark/indobert-base-p1"
     embedding_dim: int = 768
     openai_api_key: Optional[str] = None
@@ -28,6 +32,8 @@ class Settings(BaseSettings):
             "supabase_url": {"env": "SUPABASE_URL"},
             "supabase_service_key": {"env": "SUPABASE_SERVICE_KEY"},
             "supabase_anon_key": {"env": "SUPABASE_ANON_KEY"},
+            "public_api_url": {"env": "PUBLIC_API_URL"},
+            "frontend_url": {"env": "FRONTEND_URL"},
             "openai_api_key": {"env": "OPENAI_API_KEY"},
             "gemini_api_key": {"env": "GEMINI_API_KEY"},
             "hf_token": {"env": "HF_TOKEN"},
@@ -52,6 +58,12 @@ def get_settings() -> Settings:
     for k in ["SUPABASE_URL", "NEXT_PUBLIC_SUPABASE_URL"]:
         if not os.getenv("SUPABASE_URL") and os.getenv(k):
             os.environ["SUPABASE_URL"] = os.getenv(k)
+    # PUBLIC_API_URL fallback dari SUPABASE_URL (asumsi BE di localhost:8000 saat dev)
+    if not os.getenv("PUBLIC_API_URL"):
+        os.environ["PUBLIC_API_URL"] = "http://localhost:8000"
+    # FRONTEND_URL fallback dari NEXT_PUBLIC_APP_URL atau default localhost:3000
+    if not os.getenv("FRONTEND_URL"):
+        os.environ["FRONTEND_URL"] = os.getenv("NEXT_PUBLIC_APP_URL", "http://localhost:3000")
     for k in ["SUPABASE_ANON_KEY", "NEXT_PUBLIC_SUPABASE_ANON_KEY", "NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY"]:
         if not os.getenv("SUPABASE_ANON_KEY") and os.getenv(k):
             os.environ["SUPABASE_ANON_KEY"] = os.getenv(k)

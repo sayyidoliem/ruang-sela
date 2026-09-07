@@ -1,9 +1,5 @@
 import type { ReactNode } from "react";
 
 export default function AuthLayout({ children }: { children: ReactNode }) {
-  return (
-    <main className="grid min-h-screen place-items-center bg-slate-50 px-4 py-10">
-      {children}
-    </main>
-  );
+  return <main className="min-h-screen bg-slate-50">{children}</main>;
 }

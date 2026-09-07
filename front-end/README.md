@@ -343,7 +343,7 @@ const response = await fetch("/api/auth/login", {
 });
 ```
 
-📖 **[Dokumentasi API Lengkap](./docs/API.md)** _(opsional)_
+📖 **[Dokumentasi API Lengkap](https://github.com/sayyidoliem/ruang-sela/blob/master/BE/docs/API.md)**
 
 ---
 

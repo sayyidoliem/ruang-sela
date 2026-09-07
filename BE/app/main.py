@@ -2,7 +2,7 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.routers import health, search, places, ingest, recommendations, locations, profile, location_mutation, admin
+from app.routers import health, search, places, ingest, recommendations, locations, profile, location_mutation, admin, auth
 from app.config import get_settings
 
 @asynccontextmanager
@@ -43,6 +43,7 @@ def create_app() -> FastAPI:
     app.include_router(profile.router, prefix="/profile", tags=["profile"])
     app.include_router(location_mutation.router, prefix="/location", tags=["location"])
     app.include_router(admin.router, prefix="/admin", tags=["admin"])
+    app.include_router(auth.router, prefix="/auth", tags=["auth"])
 
     @app.get("/", tags=["root"])
     def root():
@@ -57,6 +58,7 @@ def create_app() -> FastAPI:
             "location_detail": "GET /location/{id} (USER published only)",
             "location_create": "POST /location",
             "profile": "GET /profile",
+            "auth": "POST /auth/signup, POST /auth/login, GET /auth/google (Google OAuth), GET /auth/me",
             "admin": "POST /admin/verifyLocation, DELETE /admin/deleteLocation/{id}",
             "legacy_places": "GET /places",
             "model": settings.model_name,

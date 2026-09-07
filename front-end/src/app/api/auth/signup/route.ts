@@ -1,4 +1,7 @@
 import { NextResponse } from "next/server";
+import { env } from "@/config/env";
+
+const BE_URL = env.NEXT_PUBLIC_API_URL.replace(/\/$/, "");
 
 type AccountRole = "user" | "admin" | "manager";
 
@@ -28,19 +31,30 @@ export async function POST(request: Request) {
     );
   }
 
-  // Placeholder: ganti blok ini dengan supabase.auth.signUp(...).
-  return NextResponse.json(
-    {
-      data: {
-        user: {
-          email: input.email,
-          app_metadata: { role: input.role },
-          user_metadata: { name: input.name },
-        },
-        session: null,
-      },
-      error: null,
-    },
-    { status: 201 },
-  );
+  try {
+    const res = await fetch(`${BE_URL}/auth/signup`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        name: input.name,
+        email: input.email,
+        password: input.password,
+        role: input.role,
+      }),
+    });
+    const json = await res.json().catch(() => null);
+
+    if (!res.ok) {
+      return NextResponse.json(
+        { error: { message: json?.detail || "Pendaftaran gagal." } },
+        { status: res.status },
+      );
+    }
+    return NextResponse.json(json, { status: 201 });
+  } catch {
+    return NextResponse.json(
+      { error: { message: "Gagal menghubungi server autentikasi." } },
+      { status: 502 },
+    );
+  }
 }
