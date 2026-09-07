@@ -153,9 +153,7 @@ async function fetchSpaces(): Promise<SpaceCardData[]> {
     for (let i = 0; i < placeIds.length; i += 8) {
       const batch = placeIds.slice(i, i + 8);
       const results = await Promise.allSettled(
-        batch.map((id) =>
-          api.locationDetail(id, { timeoutMs: 10000 }),
-        ),
+        batch.map((id) => api.locationDetail(id, { timeoutMs: 10000 })),
       );
       results.forEach((r, idx) => {
         if (r.status === "fulfilled" && r.value.foto_urls?.[0]) {
@@ -170,7 +168,9 @@ async function fetchSpaces(): Promise<SpaceCardData[]> {
       location: place.alamat?.split(",")[0] || "Jakarta",
       rating: place.rating ?? 0,
       capacity: place.jumlah_review ?? 0,
-      imageSrc: detailMap.get(place.place_id) || "https://placehold.co/640x480?text=RuangSela",
+      imageSrc:
+        detailMap.get(place.place_id) ||
+        "https://placehold.co/640x480?text=RuangSela",
       imageAlt: place.nama || "Ruang",
       description:
         place.kategori || "Ruang publik untuk kegiatan komunitas warga.",
