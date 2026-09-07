@@ -4,6 +4,7 @@ import type { Route } from "next";
 import Link from "next/link";
 import { Bell, Menu, Settings, X } from "lucide-react";
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 
 export interface NavLink {
   label: string;
@@ -61,6 +62,7 @@ export default function Navbar({
   onProfileClick,
 }: NavbarProps) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const router = useRouter();
 
   const isActive = (href: Route) => {
     if (href === "/") {
@@ -80,12 +82,20 @@ export default function Navbar({
 
   const handleSignIn = () => {
     closeMobileMenu();
-    onSignIn?.();
+    if (onSignIn) {
+      onSignIn();
+    } else {
+      router.push("/login");
+    }
   };
 
   const handleSignUp = () => {
     closeMobileMenu();
-    onSignUp?.();
+    if (onSignUp) {
+      onSignUp();
+    } else {
+      router.push("/signup");
+    }
   };
 
   const handleNotificationClick = () => {
@@ -174,7 +184,7 @@ export default function Navbar({
             <div className="hidden items-center gap-3 sm:flex">
               <button
                 type="button"
-                onClick={onSignIn}
+                onClick={handleSignIn}
                 className="px-3 py-2 text-sm font-medium text-gray-700 transition-colors hover:text-gray-900"
               >
                 Sign In
@@ -182,7 +192,7 @@ export default function Navbar({
 
               <button
                 type="button"
-                onClick={onSignUp}
+                onClick={handleSignUp}
                 className="rounded-lg bg-indigo-600 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-indigo-700"
               >
                 Sign Up
